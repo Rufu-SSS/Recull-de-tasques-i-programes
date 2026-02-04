@@ -1,0 +1,196 @@
+<!DOCTYPE html>
+<html lang="ca">
+<head>
+    <meta charset="UTF-8">
+    <title>Joc Phaser amb llums</title>
+    <script src="https://cdn.jsdelivr.net/npm/phaser@3.60.0/dist/phaser.js"></script>
+    <style>body{margin:0;}</style>
+</head>
+<body>
+<script>
+
+    //===============================================================================================//
+    // BLOC DE CONFIGURACIÓ INICIAL (config)
+    //===============================================================================================//
+    // Definim les mides de la pantalla, de quina manera renderitzarem el "món", la gravetat d'aquest, 
+    // com treballem l'escena i li assignem un fons default per tal de saber que funciona a l'iniciar
+    // un http://localhost/primerVideojoc/primerVideojoc.html.
+    //===============================================================================================//
+
+var config = {
+    type: Phaser.AUTO,
+    width: 800,
+    height: 600,
+    physics: {
+        default: 'arcade',
+        arcade: { gravity: { y: 300 }, debug: false }
+    },
+    scene: { preload: preload, create: create, update: update },
+    backgroundColor: '#000000'
+};
+
+// Conjunt de variables globals del joc
+var player, platforms, stars, bombs, cursors, score = 0, scoreText, gameOver = false;
+var playerLight;    // Per assignar llums al jugador
+var bombLights = []; // Per assignar llums a les bombes gegants
+
+// Creem i tot seguit, carreguem els materials que farem servir dins el joc, els assets.
+var game = new Phaser.Game(config);
+
+//===============================================================================================//
+// BLOC DE CÀRREGA DE RECURSOS (preload)
+//===============================================================================================//
+// Carrega imatges, spritesheets i altres recursos necessaris abans de crear els objectes
+//===============================================================================================//
+
+function preload() {
+    this.load.image('sky', 'assets/sky.png');
+    this.load.image('ground', 'assets/platform.png');
+    this.load.image('star', 'assets/star.png');
+    this.load.image('bomb', 'assets/bomb.png');
+    this.load.spritesheet('dude', 'assets/dude.png', { frameWidth: 25.75, frameHeight: 28 });
+}
+
+//===============================================================================================//
+// BLOC DE CREACIÓ D'OBJECTES (create)
+//===============================================================================================//
+// Aquí es on crearem i assignarem posicions als elements principals del joc: fons, plataformes, 
+// jugador, llums, estrelles, bombes, etc...
+//===============================================================================================//
+
+
+function create() {
+    // Habilitem els llums
+    this.lights.enable();
+    this.lights.setAmbientColor(0x333333);
+
+    // Fons, reactiu amb la llum
+    var bg = this.add.image(400, 300, 'sky');
+    bg.setPipeline('Light2D');
+
+    // Fem que les plataformes siguin fixes, per tant, que no es moguin ni caiguin del mapa
+    platforms = this.physics.add.staticGroup();
+    let platsData = [
+        [300, 590, 6], [150, 460, 0.5], [650, 460, 0.5],
+        [400, 340, 0.75], [200, 220, 0.5], [600, 220, 0.5], [400, 120, 0.7]
+    ];
+    platsData.forEach(p => {
+        let plat = platforms.create(p[0], p[1], 'ground').setScale(p[2],1).refreshBody();
+        plat.setPipeline('Light2D'); // Fem que les plataformes puguin ser afectades per llum
+    });
+
+    // Preparem el jugador
+    player = this.physics.add.sprite(100, 450, 'dude');
+    player.setBounce(0.2);
+    player.setCollideWorldBounds(true);
+    player.setPipeline('Light2D'); // Fem que el jugador pugui ser afectat per la llum
+
+    // Llums darrere del jugador: farem que el fons i plataformes reaccionin
+    // (0xffaa33) -> es un groc ataronjat
+    playerLight = this.lights.addLight(100, 450, 200, 0xffaa33, 2); 
+
+    // Preparem les animacions de moviment del jugador (quan es mou a l'esquerra, gira o va a la dreta)
+    this.anims.create({ key: 'left', frames: this.anims.generateFrameNumbers('dude', { start: 1, end: 4 }), frameRate: 10, repeat: -1 });
+    this.anims.create({ key: 'turn', frames: [{ key: 'dude', frame: 4 }], frameRate: 20 });
+    this.anims.create({ key: 'right', frames: this.anims.generateFrameNumbers('dude', { start: 5, end: 8 }), frameRate: 10, repeat: -1 });
+
+    cursors = this.input.keyboard.createCursorKeys();
+
+    // Preparem les estrelles
+    stars = this.physics.add.group({
+        key: 'star',
+        repeat: 11,
+        setXY: { x: 12, y: 0, stepX: 70 }
+    });
+    stars.children.iterate(child => { child.setBounceY(Phaser.Math.FloatBetween(0.4,0.8)); child.setPipeline('Light2D'); });
+
+    // Preparem les bombes
+    bombs = this.physics.add.group();
+
+    // Afegim a la pantalla un text bàsic per marcar la puntuació actual del jugador
+    scoreText = this.add.text(16,16,'Score: 0',{ fontSize:'32px', fill:'#fff' });
+
+    // Col·lisions
+    this.physics.add.collider(player, platforms);
+    this.physics.add.collider(stars, platforms);
+    this.physics.add.collider(bombs, platforms);
+    this.physics.add.overlap(player, stars, collectStar, null, this);
+    this.physics.add.collider(player, bombs, hitBomb, null, this);
+}
+//===============================================================================================//
+// BLOC D'ACTUALITZACIÓ CONSTANT (update)
+//===============================================================================================//
+// Tal com diu el nom, actualitzarem constantment la posició de tot, la il·luminació i com 
+// reaccionen els objectes (sprites) entre ells i amb l'entorn.
+//===============================================================================================//
+
+function update() {
+    if(gameOver) return;
+
+    // Mou la llum juntament amb el jugador
+    playerLight.x = player.x;
+    playerLight.y = player.y;
+
+    // Mou la llum juntament amb cada bomba
+    bombs.getChildren().forEach((b, i) => {
+        if(bombLights[i]) {
+            bombLights[i].x = b.x;
+            bombLights[i].y = b.y;
+        }
+    });
+
+    // El moviment més bàsic del jugador fent crida a les animacions d'aquest mateix
+    if(cursors.left.isDown){
+        player.setVelocityX(-160); player.anims.play('left', true);
+    } else if(cursors.right.isDown){
+        player.setVelocityX(160); player.anims.play('right', true);
+    } else {
+        player.setVelocityX(0); player.anims.play('turn');
+    }
+
+    if(cursors.up.isDown && player.body.touching.down){
+        player.setVelocityY(-330);
+    }
+}
+//===============================================================================================//
+// BLOC DE LA GESTIÓ DE LES ESTRELLES (collectStar)
+//===============================================================================================//
+// Quan el jugador (sprite del jugador) col·lisioni amb una estrella, se sumarà 10 a la puntuació
+// del text que mostrem per pantalla i, per tant eliminant el sprite d'estrella de la instància.
+//===============================================================================================//
+
+function collectStar(player, star){
+    star.disableBody(true,true);
+    score += 10; scoreText.setText('Score: '+score);
+
+    // En cas de recol·lectar totes les estrelles farem aparèixer una bomba gegant (mida base)
+    if(stars.countActive(true)===0){
+        stars.children.iterate(child=>{ child.enableBody(true, child.x,0,true,true); });
+        let x = (player.x<400)? Phaser.Math.Between(400,800) : Phaser.Math.Between(0,400);
+        let bomb = bombs.create(x,16,'bomb');
+        bomb.setBounce(1); bomb.setCollideWorldBounds(true);
+        bomb.setVelocity(Phaser.Math.Between(-200,200), 20); bomb.allowGravity=false;
+        bomb.setPipeline('Light2D');
+
+        // Afegir llum vermella a la bomba per indicar perill
+        let bombLight = this.lights.addLight(bomb.x, bomb.y, 80, 0xff0000, 1);
+        bombLights.push(bombLight);
+    }
+}
+
+//===============================================================================================//
+// BLOC DE GESTIÓ DE COL·LISIONS AMB BOMBES (hitBomb)
+//===============================================================================================//
+// Si el jugador col·lisiona amb una bomba pausarem el joc i tot es pararà. S'assignarà un tint 
+// vermell al jugador i l'animació de volta default.
+//===============================================================================================//
+
+function hitBomb(player, bomb){
+    this.physics.pause();
+    player.setTint(0xff0000);
+    player.anims.play('turn');
+    gameOver = true;
+}
+</script>
+</body>
+</html>

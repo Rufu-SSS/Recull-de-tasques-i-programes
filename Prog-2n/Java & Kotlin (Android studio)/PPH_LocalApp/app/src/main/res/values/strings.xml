@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">LocalitzacioTest</string>
+    <string name="app_title">Dades en Temps Real</string>
+    <string name="btn_refresh">Actualitzar Dades</string>
+    <string name="status_ready">Preparat</string>
+    <string name="status_updating">Actualitzant…</string>
+    <string name="status_success">Actualitzat correctament</string>
+    <string name="error_location">Error obtenint localització</string>
+    <string name="error_fetch">Error carregant dades de l\'API</string>
+    <string name="permission_denied">Permís de localització denegat</string>
+</resources>

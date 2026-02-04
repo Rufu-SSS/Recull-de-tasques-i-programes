@@ -1,0 +1,4 @@
+﻿  exemple2.cpp
+E:\[Pol]\CFGS---Pr-ctiques-PROG\pràctiques\nombresPrimers\exemple2\exemple2.cpp(66,64): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+E:\[Pol]\CFGS---Pr-ctiques-PROG\pràctiques\nombresPrimers\exemple2\exemple2.cpp(81,23): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+  exemple2.vcxproj -> E:\[Pol]\CFGS---Pr-ctiques-PROG\pràctiques\nombresPrimers\x64\Debug\exemple2.exe

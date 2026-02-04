@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">3EnRatlla</string>
+
+    <string name="joc_acabat_reinicia">El joc ha acabat. Reinicia per continuar.</string>
+    <string name="has_guanyat">Has guanyat!</string>
+    <string name="has_perdut">Has perdut!</string>
+    <string name="empat">Empat!</string>
+    <string name="torn_ia">Torn de la IA...</string>
+    <string name="torn_jugador">Torn del jugador</string>
+</resources>

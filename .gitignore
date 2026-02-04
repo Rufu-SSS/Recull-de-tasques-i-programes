@@ -1,0 +1,15 @@
+# Unity folders
+[Ll]ibrary/
+[Tt]emp/
+[Oo]bj/
+[Bb]uild/
+[Bb]uilds/
+[Ll]ogs/
+[Mm]emoryCaptures/
+
+# Package cache
+Packages/PackageCache/
+
+# OS files
+.DS_Store
+Thumbs.db

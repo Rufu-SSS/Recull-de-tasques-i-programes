@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\AluCiclesGS2\\Pol mtg\\Prog\\Prog 2n\\Tasques prog IA\\Projecte IA tancs2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8F113DE4-6908-6597-8FC0-2EBBAA9C3026}|Assembly-CSharp.csproj|e:\\aluciclesgs2\\pol mtg\\prog\\prog 2n\\tasques prog ia\\projecte ia tancs2\\assets\\scripts\\mouagent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8F113DE4-6908-6597-8FC0-2EBBAA9C3026}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\mouagent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8F113DE4-6908-6597-8FC0-2EBBAA9C3026}|Assembly-CSharp.csproj|E:\\AluCiclesGS2\\Pol mtg\\Prog\\Prog 2n\\Tasques prog IA\\Projecte IA tancs2\\assets\\scripts\\node.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8F113DE4-6908-6597-8FC0-2EBBAA9C3026}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\node.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8F113DE4-6908-6597-8FC0-2EBBAA9C3026}|Assembly-CSharp.csproj|E:\\AluCiclesGS2\\Pol mtg\\Prog\\Prog 2n\\Tasques prog IA\\Projecte IA tancs2\\assets\\scripts\\graph.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8F113DE4-6908-6597-8FC0-2EBBAA9C3026}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\graph.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Graph.cs",
+              "DocumentMoniker": "E:\\AluCiclesGS2\\Pol mtg\\Prog\\Prog 2n\\Tasques prog IA\\Projecte IA tancs2\\Assets\\Scripts\\Graph.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Graph.cs",
+              "ToolTip": "E:\\AluCiclesGS2\\Pol mtg\\Prog\\Prog 2n\\Tasques prog IA\\Projecte IA tancs2\\Assets\\Scripts\\Graph.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Graph.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-25T15:49:03.541Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MouAgent.cs",
+              "DocumentMoniker": "E:\\AluCiclesGS2\\Pol mtg\\Prog\\Prog 2n\\Tasques prog IA\\Projecte IA tancs2\\Assets\\Scripts\\MouAgent.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\MouAgent.cs",
+              "ToolTip": "E:\\AluCiclesGS2\\Pol mtg\\Prog\\Prog 2n\\Tasques prog IA\\Projecte IA tancs2\\Assets\\Scripts\\MouAgent.cs",
+              "RelativeToolTip": "Assets\\Scripts\\MouAgent.cs",
+              "ViewState": "AgIAANAAAAAAAAAAAAAswBgBAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-25T15:33:15.396Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Node.cs",
+              "DocumentMoniker": "E:\\AluCiclesGS2\\Pol mtg\\Prog\\Prog 2n\\Tasques prog IA\\Projecte IA tancs2\\Assets\\Scripts\\Node.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Node.cs",
+              "ToolTip": "E:\\AluCiclesGS2\\Pol mtg\\Prog\\Prog 2n\\Tasques prog IA\\Projecte IA tancs2\\Assets\\Scripts\\Node.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Node.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-25T15:15:20.741Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

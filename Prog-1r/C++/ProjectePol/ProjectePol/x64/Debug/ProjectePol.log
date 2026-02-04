@@ -1,0 +1,3 @@
+﻿  ProjectePol.cpp
+E:\AluCiclesGS1\PolPlanas\Exemples\ProjectePol\ProjectePol\ProjectePol.cpp(3,6): warning C4326: el tipo de valor devuelto de 'main' debe ser 'int' en lugar de 'void'
+  ProjectePol.vcxproj -> E:\AluCiclesGS1\PolPlanas\Exemples\ProjectePol\x64\Debug\ProjectePol.exe

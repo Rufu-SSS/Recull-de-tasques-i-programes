@@ -1,0 +1,53 @@
+﻿  RecordaSFML.cpp
+E:\AluCiclesGS2\David Sellés\Programació\RA1\RecordaSFML\RecordaSFML\RecordaSFML.cpp(8,28): error C2440: '<function-style-cast>': cannot convert from 'initializer list' to 'sf::VideoMode'
+      E:\AluCiclesGS2\David Sellés\Programació\RA1\RecordaSFML\RecordaSFML\RecordaSFML.cpp(8,28):
+      'sf::VideoMode::VideoMode': no overloaded function could convert all the argument types
+          C:\SFML64\include\SFML\Window\VideoMode.hpp(61,5):
+          could be 'sf::VideoMode::VideoMode(sf::Vector2u,unsigned int)'
+              E:\AluCiclesGS2\David Sellés\Programació\RA1\RecordaSFML\RecordaSFML\RecordaSFML.cpp(8,28):
+              'sf::VideoMode::VideoMode(sf::Vector2u,unsigned int)': cannot convert argument 1 from 'int' to 'sf::Vector2u'
+                  E:\AluCiclesGS2\David Sellés\Programació\RA1\RecordaSFML\RecordaSFML\RecordaSFML.cpp(8,29):
+                  'sf::Vector2<unsigned int>::Vector2': no overloaded function could convert all the argument types
+                      C:\SFML64\include\SFML\System\Vector2.hpp(205,1):
+                      could be 'sf::Vector2<unsigned int>::Vector2(sf::Vector2<unsigned int> &&)'
+                          E:\AluCiclesGS2\David Sellés\Programació\RA1\RecordaSFML\RecordaSFML\RecordaSFML.cpp(8,29):
+                          'sf::Vector2<unsigned int>::Vector2(sf::Vector2<unsigned int> &&)': cannot convert argument 1 from 'int' to 'sf::Vector2<unsigned int> &&'
+                              E:\AluCiclesGS2\David Sellés\Programació\RA1\RecordaSFML\RecordaSFML\RecordaSFML.cpp(8,29):
+                              Reason: cannot convert from 'int' to 'sf::Vector2<unsigned int>'
+                              E:\AluCiclesGS2\David Sellés\Programació\RA1\RecordaSFML\RecordaSFML\RecordaSFML.cpp(8,29):
+                              Conversion requires a second user-defined-conversion operator or constructor
+                      C:\SFML64\include\SFML\System\Vector2.hpp(205,1):
+                      or       'sf::Vector2<unsigned int>::Vector2(const sf::Vector2<unsigned int> &)'
+                          E:\AluCiclesGS2\David Sellés\Programació\RA1\RecordaSFML\RecordaSFML\RecordaSFML.cpp(8,29):
+                          'sf::Vector2<unsigned int>::Vector2(const sf::Vector2<unsigned int> &)': cannot convert argument 1 from 'int' to 'const sf::Vector2<unsigned int> &'
+                              E:\AluCiclesGS2\David Sellés\Programació\RA1\RecordaSFML\RecordaSFML\RecordaSFML.cpp(8,29):
+                              Reason: cannot convert from 'int' to 'const sf::Vector2<unsigned int>'
+                              E:\AluCiclesGS2\David Sellés\Programació\RA1\RecordaSFML\RecordaSFML\RecordaSFML.cpp(8,29):
+                              Conversion requires a second user-defined-conversion operator or constructor
+                      E:\AluCiclesGS2\David Sellés\Programació\RA1\RecordaSFML\RecordaSFML\RecordaSFML.cpp(8,29):
+                      while trying to match the argument list '(int)'
+          E:\AluCiclesGS2\David Sellés\Programació\RA1\RecordaSFML\RecordaSFML\RecordaSFML.cpp(8,28):
+          while trying to match the argument list '(int, int)'
+  
+E:\AluCiclesGS2\David Sellés\Programació\RA1\RecordaSFML\RecordaSFML\RecordaSFML.cpp(8,18): error C2665: 'sf::Window::Window': no overloaded function could convert all the argument types
+      C:\SFML64\include\SFML\Window\Window.hpp(153,5):
+      could be 'sf::Window::Window(sf::Window &&) noexcept'
+          E:\AluCiclesGS2\David Sellés\Programació\RA1\RecordaSFML\RecordaSFML\RecordaSFML.cpp(8,18):
+          'sf::Window::Window(sf::Window &&) noexcept': cannot convert argument 1 from 'const char [10]' to 'sf::Window &&'
+              E:\AluCiclesGS2\David Sellés\Programació\RA1\RecordaSFML\RecordaSFML\RecordaSFML.cpp(8,40):
+              Reason: cannot convert from 'const char [10]' to 'sf::Window'
+      C:\SFML64\include\SFML\Window\Window.hpp(141,5):
+      or       'sf::Window::Window(const sf::Window &)'
+          E:\AluCiclesGS2\David Sellés\Programació\RA1\RecordaSFML\RecordaSFML\RecordaSFML.cpp(8,18):
+          'sf::Window::Window(const sf::Window &)': cannot convert argument 1 from 'const char [10]' to 'const sf::Window &'
+              E:\AluCiclesGS2\David Sellés\Programació\RA1\RecordaSFML\RecordaSFML\RecordaSFML.cpp(8,40):
+              Reason: cannot convert from 'const char [10]' to 'const sf::Window'
+      C:\SFML64\include\SFML\Window\Window.hpp(127,5):
+      or       'sf::Window::Window(sf::WindowHandle,const sf::ContextSettings &)'
+          E:\AluCiclesGS2\David Sellés\Programació\RA1\RecordaSFML\RecordaSFML\RecordaSFML.cpp(8,18):
+          'sf::Window::Window(sf::WindowHandle,const sf::ContextSettings &)': cannot convert argument 1 from 'const char [10]' to 'sf::WindowHandle'
+              E:\AluCiclesGS2\David Sellés\Programació\RA1\RecordaSFML\RecordaSFML\RecordaSFML.cpp(8,40):
+              Types pointed to are unrelated; conversion requires reinterpret_cast, C-style cast or parenthesized function-style cast
+      E:\AluCiclesGS2\David Sellés\Programació\RA1\RecordaSFML\RecordaSFML\RecordaSFML.cpp(8,18):
+      while trying to match the argument list '(const char [10])'
+  

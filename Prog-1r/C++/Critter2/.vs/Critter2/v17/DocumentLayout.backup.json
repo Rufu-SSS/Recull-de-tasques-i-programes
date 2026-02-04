@@ -1,0 +1,139 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\AluCiclesGS2\\Feina\\Prog-1r\\Critter2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{09F8B3C7-3BD5-4206-8355-FBB6B6A04385}|Critter2\\Critter2.vcxproj|E:\\AluCiclesGS2\\Feina\\Prog-1r\\Critter2\\Critter2\\Granja.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{09F8B3C7-3BD5-4206-8355-FBB6B6A04385}|Critter2\\Critter2.vcxproj|solutionrelative:Critter2\\Granja.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{09F8B3C7-3BD5-4206-8355-FBB6B6A04385}|Critter2\\Critter2.vcxproj|E:\\AluCiclesGS2\\Feina\\Prog-1r\\Critter2\\Critter2\\Critter(classe).h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{09F8B3C7-3BD5-4206-8355-FBB6B6A04385}|Critter2\\Critter2.vcxproj|solutionrelative:Critter2\\Critter(classe).h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{09F8B3C7-3BD5-4206-8355-FBB6B6A04385}|Critter2\\Critter2.vcxproj|E:\\AluCiclesGS2\\Feina\\Prog-1r\\Critter2\\Critter2\\CritterEspecial.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{09F8B3C7-3BD5-4206-8355-FBB6B6A04385}|Critter2\\Critter2.vcxproj|solutionrelative:Critter2\\CritterEspecial.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{09F8B3C7-3BD5-4206-8355-FBB6B6A04385}|Critter2\\Critter2.vcxproj|E:\\AluCiclesGS2\\Feina\\Prog-1r\\Critter2\\Critter2\\Granja.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{09F8B3C7-3BD5-4206-8355-FBB6B6A04385}|Critter2\\Critter2.vcxproj|solutionrelative:Critter2\\Granja.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{09F8B3C7-3BD5-4206-8355-FBB6B6A04385}|Critter2\\Critter2.vcxproj|E:\\AluCiclesGS2\\Feina\\Prog-1r\\Critter2\\Critter2\\Critter(classe).cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{09F8B3C7-3BD5-4206-8355-FBB6B6A04385}|Critter2\\Critter2.vcxproj|solutionrelative:Critter2\\Critter(classe).cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{09F8B3C7-3BD5-4206-8355-FBB6B6A04385}|Critter2\\Critter2.vcxproj|E:\\AluCiclesGS2\\Feina\\Prog-1r\\Critter2\\Critter2\\Critter2(main).cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{09F8B3C7-3BD5-4206-8355-FBB6B6A04385}|Critter2\\Critter2.vcxproj|solutionrelative:Critter2\\Critter2(main).cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{09F8B3C7-3BD5-4206-8355-FBB6B6A04385}|Critter2\\Critter2.vcxproj|E:\\AluCiclesGS2\\Feina\\Prog-1r\\Critter2\\Critter2\\CritterEspecial.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{09F8B3C7-3BD5-4206-8355-FBB6B6A04385}|Critter2\\Critter2.vcxproj|solutionrelative:Critter2\\CritterEspecial.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Critter2(main).cpp",
+              "DocumentMoniker": "E:\\AluCiclesGS2\\Feina\\Prog-1r\\Critter2\\Critter2\\Critter2(main).cpp",
+              "RelativeDocumentMoniker": "Critter2\\Critter2(main).cpp",
+              "ToolTip": "E:\\AluCiclesGS2\\Feina\\Prog-1r\\Critter2\\Critter2\\Critter2(main).cpp",
+              "RelativeToolTip": "Critter2\\Critter2(main).cpp",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAAAAIBAABAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-01-09T10:47:06.168Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Critter(classe).cpp",
+              "DocumentMoniker": "E:\\AluCiclesGS2\\Feina\\Prog-1r\\Critter2\\Critter2\\Critter(classe).cpp",
+              "RelativeDocumentMoniker": "Critter2\\Critter(classe).cpp",
+              "ToolTip": "E:\\AluCiclesGS2\\Feina\\Prog-1r\\Critter2\\Critter2\\Critter(classe).cpp",
+              "RelativeToolTip": "Critter2\\Critter(classe).cpp",
+              "ViewState": "AgIAAEUAAAAAAAAAAAAgwE8AAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-01-09T11:18:04.718Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Critter(classe).h",
+              "DocumentMoniker": "E:\\AluCiclesGS2\\Feina\\Prog-1r\\Critter2\\Critter2\\Critter(classe).h",
+              "RelativeDocumentMoniker": "Critter2\\Critter(classe).h",
+              "ToolTip": "E:\\AluCiclesGS2\\Feina\\Prog-1r\\Critter2\\Critter2\\Critter(classe).h",
+              "RelativeToolTip": "Critter2\\Critter(classe).h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADkAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2026-01-09T11:17:55.472Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Granja.cpp",
+              "DocumentMoniker": "E:\\AluCiclesGS2\\Feina\\Prog-1r\\Critter2\\Critter2\\Granja.cpp",
+              "RelativeDocumentMoniker": "Critter2\\Granja.cpp",
+              "ToolTip": "E:\\AluCiclesGS2\\Feina\\Prog-1r\\Critter2\\Critter2\\Granja.cpp",
+              "RelativeToolTip": "Critter2\\Granja.cpp",
+              "ViewState": "AgIAACQAAAAAAAAAAAAgwEIAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-01-16T10:17:58.59Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Granja.h",
+              "DocumentMoniker": "E:\\AluCiclesGS2\\Feina\\Prog-1r\\Critter2\\Critter2\\Granja.h",
+              "RelativeDocumentMoniker": "Critter2\\Granja.h",
+              "ToolTip": "E:\\AluCiclesGS2\\Feina\\Prog-1r\\Critter2\\Critter2\\Granja.h",
+              "RelativeToolTip": "Critter2\\Granja.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2026-01-16T10:18:01.04Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "CritterEspecial.h",
+              "DocumentMoniker": "E:\\AluCiclesGS2\\Feina\\Prog-1r\\Critter2\\Critter2\\CritterEspecial.h",
+              "RelativeDocumentMoniker": "Critter2\\CritterEspecial.h",
+              "ToolTip": "E:\\AluCiclesGS2\\Feina\\Prog-1r\\Critter2\\Critter2\\CritterEspecial.h",
+              "RelativeToolTip": "Critter2\\CritterEspecial.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2026-01-16T11:27:00.28Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "CritterEspecial.cpp",
+              "DocumentMoniker": "E:\\AluCiclesGS2\\Feina\\Prog-1r\\Critter2\\Critter2\\CritterEspecial.cpp",
+              "RelativeDocumentMoniker": "Critter2\\CritterEspecial.cpp",
+              "ToolTip": "E:\\AluCiclesGS2\\Feina\\Prog-1r\\Critter2\\Critter2\\CritterEspecial.cpp",
+              "RelativeToolTip": "Critter2\\CritterEspecial.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-01-16T11:27:46.322Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
