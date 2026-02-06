@@ -1,0 +1,6 @@
+﻿  Tres en ratlla.cpp
+  alumne1.cpp
+  alumne2.cpp
+E:\AluCiclesGS2\Pol a prog\Tres en ratlla\Tres en ratlla\alumne2.cpp(26,15): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  Generating Code...
+  Tres en ratlla.vcxproj -> E:\AluCiclesGS2\Pol a prog\Tres en ratlla\x64\Debug\Tres en ratlla.exe

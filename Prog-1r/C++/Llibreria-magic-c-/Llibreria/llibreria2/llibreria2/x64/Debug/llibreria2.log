@@ -1,0 +1,31 @@
+﻿  MagicDLL.cpp
+E:\AluCiclesGS2\Pol a prog\llibreria2\llibreria2\MagicDLL.cpp(7,12): warning C4273: 'Deck::AddCard': inconsistent dll linkage
+      E:\AluCiclesGS2\Pol a prog\llibreria2\llibreria2\MagicDLL.h(23,23):
+      see previous definition of 'Deck::AddCard'
+  
+E:\AluCiclesGS2\Pol a prog\llibreria2\llibreria2\MagicDLL.cpp(11,12): warning C4273: 'Deck::DrawCard': inconsistent dll linkage
+      E:\AluCiclesGS2\Pol a prog\llibreria2\llibreria2\MagicDLL.h(24,23):
+      see previous definition of 'Deck::DrawCard'
+  
+E:\AluCiclesGS2\Pol a prog\llibreria2\llibreria2\MagicDLL.cpp(18,11): warning C4273: 'Deck::GetCount': inconsistent dll linkage
+      E:\AluCiclesGS2\Pol a prog\llibreria2\llibreria2\MagicDLL.h(25,22):
+      see previous definition of 'Deck::GetCount'
+  
+E:\AluCiclesGS2\Pol a prog\llibreria2\llibreria2\MagicDLL.cpp(19,22): warning C4267: 'return': conversion from 'size_t' to 'int', possible loss of data
+E:\AluCiclesGS2\Pol a prog\llibreria2\llibreria2\MagicDLL.cpp(22,12): warning C4273: 'Deck::Shuffle': inconsistent dll linkage
+      E:\AluCiclesGS2\Pol a prog\llibreria2\llibreria2\MagicDLL.h(26,23):
+      see previous definition of 'Deck::Shuffle'
+  
+E:\AluCiclesGS2\Pol a prog\llibreria2\llibreria2\MagicDLL.cpp(29,7): warning C4273: 'CreateDeck': inconsistent dll linkage
+      E:\AluCiclesGS2\Pol a prog\llibreria2\llibreria2\MagicDLL.h(32,24):
+      see previous definition of 'CreateDeck'
+  
+E:\AluCiclesGS2\Pol a prog\llibreria2\llibreria2\MagicDLL.cpp(33,6): warning C4273: 'DeleteDeck': inconsistent dll linkage
+      E:\AluCiclesGS2\Pol a prog\llibreria2\llibreria2\MagicDLL.h(33,23):
+      see previous definition of 'DeleteDeck'
+  
+E:\AluCiclesGS2\Pol a prog\llibreria2\llibreria2\MagicDLL.cpp(37,20): warning C4273: 'Deck::GetAllCards': inconsistent dll linkage
+      E:\AluCiclesGS2\Pol a prog\llibreria2\llibreria2\MagicDLL.h(27,31):
+      see previous definition of 'Deck::GetAllCards'
+  
+  llibreria2.vcxproj -> E:\AluCiclesGS2\Pol a prog\llibreria2\x64\Debug\llibreria2.dll

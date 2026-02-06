@@ -1,0 +1,95 @@
+<!DOCTYPE html>
+<html lang="ca">
+<head>
+  <meta charset="UTF-8" />
+  <title>InGameShop</title>
+  <link rel="stylesheet" href="styles.css" />
+</head>
+
+<body>
+  <ul class="navbar">
+    <li><img src="img/logo.png" height="100" width="100" /></li>
+    <li><a class="active" href="index.html">Home</a></li>
+    <li><a href="directori.html">Directori</a></li>
+    <li><a href="about.html">About</a></li>
+    <li><a href="contact.html">Contact</a></li>
+  </ul>
+
+  <h1>InGameShop</h1>
+
+  <div class="carrusel">
+    <div class="slides" id="slides">
+      <img src="img/imatges jocs/carr2.jpg" class="slide especial" alt="Belial's Return">
+      <img src="img/imatges jocs/carr3.jpg" class="slide especial" alt="Belial's Return">
+      <img src="img/imatges jocs/carr1.jpg" class="slide especial" alt="d4 season"/>
+    </div>
+      </div>
+
+  <h2>El més venut</h2>
+  <div class="catalogue" id="mes-venut"></div>
+
+  <h2>El millor</h2>
+  <div class="catalogue" id="el-millor"></div>
+
+  <script src="vorhees.js"></script>
+
+  <script>
+    // Carrousel
+    let index = 0;
+    function canviarSlide(direccio) {
+      const slides = document.getElementById("slides");
+      const slideWidth = document.querySelector(".slide").clientWidth;
+      const totalSlides = slides.children.length;
+      index = (index + direccio + totalSlides) % totalSlides;
+      slides.style.transform = `translateX(-${index * slideWidth}px)`;
+    }
+    window.addEventListener("resize", () => {
+      canviarSlide(0);
+    });
+
+    // Productes destacats
+    const allItems = vorheesData
+      .filter(joc => Array.isArray(joc.productes))
+      .flatMap(joc =>
+        joc.productes.map(p => ({ ...p, joc: joc.titol }))
+      );
+
+    function obtenirItemsAleatoris(num) {
+      return [...allItems].sort(() => 0.5 - Math.random()).slice(0, num);
+    }
+
+    function renderitzarItems(containerId, items) {
+      const container = document.getElementById(containerId);
+      items.forEach(item => {
+        const card = document.createElement("div");
+        card.className = "card";
+        card.innerHTML = `
+          <img src="${item.imatge}" alt="${item.nom}" class="product-img">
+          <div class="title">${item.nom}</div>
+          <div class="items">${item.categoria}</div>
+          <div class="description">${item.joc}</div>
+          <div class="price">${item.preu} €</div>
+          <a href="item.html?item=${encodeURIComponent(item.nom)}" class="button">Veure més</a>
+        `;
+        container.appendChild(card);
+      });
+    }
+
+    const venuts = obtenirItemsAleatoris(3);
+    const millors = obtenirItemsAleatoris(3);
+
+    renderitzarItems("mes-venut", venuts);
+    renderitzarItems("el-millor", millors);
+  </script>
+
+  <script type="application/ld+json">
+  {
+    "@context": "https://schema.org",
+    "@type": "WebSite",
+    "name": "InGameShop",
+    "url": "https://antxnls.github.io/web_professional/"
+  }
+  </script>
+
+</body>
+</html>

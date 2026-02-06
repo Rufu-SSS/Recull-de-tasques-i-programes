@@ -1,0 +1,107 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <link rel="stylesheet" href="styles.css">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <title>Detalls del Joc</title>
+</head>
+<body>
+  <h1 id="game-title">Detalls del Joc</h1>
+  <div class="content" id="game-info"></div>
+  <h2 style="text-align:center;">Ítems disponibles</h2>
+  <div id="categories-container"></div>
+
+  <script src="vorhees.js"></script>
+  <script>
+    const params = new URLSearchParams(window.location.search);
+    const gameId = params.get("id");
+    const game = vorheesData.find(g => g.id === gameId);
+
+    const infoEl = document.getElementById("game-info");
+    const categoriesContainer = document.getElementById("categories-container");
+    const titleEl = document.getElementById("game-title");
+
+    if (game) {
+      titleEl.textContent = game.titol;
+      infoEl.innerHTML = `
+        <img src="${game.imatge}" alt="${game.titol}" class="product-img">
+        <div class="title">${game.titol}</div>
+        <div class="items">${game.items}</div>
+        <div class="descriptions">${game.descripcio}</div>
+        <a href="directori.html" class="button">← Tornar al Directori</a>
+      `;
+
+      if (game.productes && game.productes.length > 0) {
+        // Agrupar productos por categoría
+        const grouped = {};
+        game.productes.forEach(item => {
+          if (!grouped[item.categoria]) grouped[item.categoria] = [];
+          grouped[item.categoria].push(item);
+        });
+
+        for (const categoria in grouped) {
+          const section = document.createElement("div");
+          section.className = "carousel-container";
+
+          const title = document.createElement("div");
+          title.className = "carousel-title";
+          title.textContent = categoria;
+
+          const carousel = document.createElement("div");
+          carousel.className = "carousel";
+
+          grouped[categoria].forEach(item => {
+            const card = document.createElement("div");
+            card.className = "card";
+            card.innerHTML = `
+              <img src="${item.imatge}" alt="${item.nom}">
+              <div class="title">${item.nom}</div>
+              <div class="price">${item.preu} €</div>
+              <a href="item.html?item=${encodeURIComponent(item.nom)}" class="button small">Veure més</a>
+            `;
+            carousel.appendChild(card);
+          });
+
+          section.appendChild(title);
+          section.appendChild(carousel);
+          categoriesContainer.appendChild(section);
+        }
+      } else {
+        categoriesContainer.innerHTML = "<p style='text-align:center;'>Aquest joc no té ítems disponibles.</p>";
+      }
+
+      // Crear JSON-LD dinàmic per al joc i els seus ítems
+      const jsonLd = {
+        "@context": "https://schema.org",
+        "@type": "VideoGame",
+        "name": game.titol,
+        "description": game.descripcio,
+        "image": game.imatge,
+        "url": window.location.href,
+        "gamePlatform": "PC",
+        "hasPart": game.productes ? game.productes.map(item => ({
+          "@type": "Product",
+          "name": item.nom,
+          "image": item.imatge,
+          "category": item.categoria,
+          "offers": {
+            "@type": "Offer",
+            "price": item.preu,
+            "priceCurrency": "EUR",
+            "url": `item.html?item=${encodeURIComponent(item.nom)}`
+          }
+        })) : []
+      };
+
+      // Afegir el JSON-LD al document
+      const script = document.createElement("script");
+      script.type = "application/ld+json";
+      script.text = JSON.stringify(jsonLd);
+      document.head.appendChild(script);
+
+    } else {
+      infoEl.innerHTML = `<p>No s'ha trobat cap joc amb aquest ID.</p>`;
+    }
+  </script>
+</body>
+</html>

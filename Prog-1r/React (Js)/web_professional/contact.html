@@ -1,0 +1,64 @@
+<!DOCTYPE html>
+<head>
+  <link rel="stylesheet" href="styles.css">
+    <ul class="navbar">
+    <li> <img src="img/logo.png" height="100" width="100"> </li>
+    <li><a href="index.html">Home</a></li> <!--Benvinguda, destacats, promocions-->
+    <li><a href="directori.html">Directori</a></li> <!--Llista de tots els productes amb busqueda-->
+    <li><a href="about.html">About</a></li> <!--About us-->
+    <li><a class="active" href="contact.html">Contact</a></li> <!--Contacta amb nosaltres-->
+  </ul>
+  <meta charset="UTF-8">
+  <title>Contacta amb Nosaltres</title>
+</head>
+<body>
+  <div class="container">
+    <div class="contact-info">
+      <h2>Contacta amb Nosaltres</h2>
+      <p>No dubteu a utilitzar el formulari o enviar-nos un correu electrònic. Les trucades a l'antiga també funcionen.</p>
+      <div><i>📞</i> 012345678</div>
+      <div><i>✉️</i> info@ingameshop.com</div>
+      <div><i>📍</i>15 934 Fremont Ave.<br>New Baltimore, MI 48047</div>
+    </div>
+    
+    <div class="form">
+      <form action="#" method="POST">
+        <div class="form-row">
+          <input type="text" name="first_name" placeholder="Nom" required>
+          <input type="text" name="last_name" placeholder="Cognom" required>
+        </div>
+        <input type="email" name="email" placeholder="exemple@gmail.com" required>
+        <input type="tel" name="phone" placeholder="xxx-xxx-xxx">
+        <textarea name="message" placeholder="Escriu el missatge ..." rows="5" required></textarea>
+        <button type="Enviar">Submit</button>
+      </form>
+    </div>
+  </div>
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "Organization",
+  "name": "InGameShop",
+  "url": "https://antxnls.github.io/web_professional/",
+  "logo": "https://antxnls.github.io/web_professional/img/logo.png",
+  "contactPoint": {
+    "@type": "ContactPoint",
+    "telephone": "+34-012345678",
+    "contactType": "customer service",
+    "email": "info@ingameshop.com",
+    "areaServed": "ES"
+  },
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "15 934 Fremont Ave.",
+    "addressLocality": "New Baltimore",
+    "addressRegion": "MI",
+    "postalCode": "48047",
+    "addressCountry": "US"
+  }
+}
+</script>
+
+</body>
+</html>

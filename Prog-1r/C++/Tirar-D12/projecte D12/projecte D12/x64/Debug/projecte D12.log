@@ -1,0 +1,11 @@
+﻿  daus.cpp
+  projecte D12.cpp
+C:\Users\CFGS2\Downloads\Tirar-D12\projecte D12\projecte D12\projecte D12.cpp(18,15): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\CFGS2\Downloads\Tirar-D12\projecte D12\projecte D12\projecte D12.cpp(135,31): warning C4244: 'initializing': conversion from '_Ty' to 'float', possible loss of data
+C:\Users\CFGS2\Downloads\Tirar-D12\projecte D12\projecte D12\projecte D12.cpp(135,31): warning C4244:         with
+C:\Users\CFGS2\Downloads\Tirar-D12\projecte D12\projecte D12\projecte D12.cpp(135,31): warning C4244:         [
+C:\Users\CFGS2\Downloads\Tirar-D12\projecte D12\projecte D12\projecte D12.cpp(135,31): warning C4244:             _Ty=int
+C:\Users\CFGS2\Downloads\Tirar-D12\projecte D12\projecte D12\projecte D12.cpp(135,31): warning C4244:         ]
+  Generating Code...
+  LINK : C:\Users\CFGS2\Downloads\Tirar-D12\projecte D12\x64\Debug\projecte D12.exe not found or not built by the last incremental link; performing full link
+  projecte D12.vcxproj -> C:\Users\CFGS2\Downloads\Tirar-D12\projecte D12\x64\Debug\projecte D12.exe
