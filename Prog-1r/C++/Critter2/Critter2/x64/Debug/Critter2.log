@@ -1,0 +1,12 @@
+﻿  Critter2(main).cpp
+E:\AluCiclesGS2\feina\Prog-1r\Critter2\Critter2\Critter2(main).cpp(29,10): warning C4566: character represented by universal-character-name '\uFE0F' cannot be represented in the current code page (1252)
+E:\AluCiclesGS2\feina\Prog-1r\Critter2\Critter2\Critter2(main).cpp(30,10): warning C4566: character represented by universal-character-name '\uFE0F' cannot be represented in the current code page (1252)
+E:\AluCiclesGS2\feina\Prog-1r\Critter2\Critter2\Critter2(main).cpp(31,10): warning C4566: character represented by universal-character-name '\uFE0F' cannot be represented in the current code page (1252)
+E:\AluCiclesGS2\feina\Prog-1r\Critter2\Critter2\Critter2(main).cpp(32,10): warning C4566: character represented by universal-character-name '\uFE0F' cannot be represented in the current code page (1252)
+E:\AluCiclesGS2\feina\Prog-1r\Critter2\Critter2\Critter2(main).cpp(33,10): warning C4566: character represented by universal-character-name '\uFE0F' cannot be represented in the current code page (1252)
+E:\AluCiclesGS2\feina\Prog-1r\Critter2\Critter2\Critter2(main).cpp(34,10): warning C4566: character represented by universal-character-name '\uFE0F' cannot be represented in the current code page (1252)
+E:\AluCiclesGS2\feina\Prog-1r\Critter2\Critter2\Critter2(main).cpp(35,10): warning C4566: character represented by universal-character-name '\uFE0F' cannot be represented in the current code page (1252)
+E:\AluCiclesGS2\feina\Prog-1r\Critter2\Critter2\Critter2(main).cpp(36,10): warning C4566: character represented by universal-character-name '\uFE0F' cannot be represented in the current code page (1252)
+E:\AluCiclesGS2\feina\Prog-1r\Critter2\Critter2\Critter2(main).cpp(39,10): warning C4566: character represented by universal-character-name '\uFE0F' cannot be represented in the current code page (1252)
+E:\AluCiclesGS2\feina\Prog-1r\Critter2\Critter2\Critter2(main).cpp(243,15): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  Critter2.vcxproj -> E:\AluCiclesGS2\feina\Prog-1r\Critter2\x64\Debug\Critter2.exe

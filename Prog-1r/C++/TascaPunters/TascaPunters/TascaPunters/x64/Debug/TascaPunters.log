@@ -1,0 +1,5 @@
+﻿  TascaPunters.cpp
+E:\AluCiclesGS2\Pol mtg\1r\TascaPunters\TascaPunters\TascaPunters.cpp(57,13): warning C4566: character represented by universal-character-name '\u2192' cannot be represented in the current code page (1252)
+E:\AluCiclesGS2\Pol mtg\1r\TascaPunters\TascaPunters\TascaPunters.cpp(76,19): warning C4566: character represented by universal-character-name '\u2192' cannot be represented in the current code page (1252)
+E:\AluCiclesGS2\Pol mtg\1r\TascaPunters\TascaPunters\TascaPunters.cpp(99,15): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  TascaPunters.vcxproj -> E:\AluCiclesGS2\Pol mtg\1r\TascaPunters\x64\Debug\TascaPunters.exe

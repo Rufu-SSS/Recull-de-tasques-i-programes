@@ -1,0 +1,86 @@
+﻿  Character.cpp
+C:\SFML64\include\SFML\System\Exception.hpp(41,47): warning C4275: non dll-interface class 'std::runtime_error' used as base for dll-interface class 'sf::Exception'
+  (compiling source file 'Character.cpp')
+      C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.44.35207\include\stdexcept(100,30):
+      see declaration of 'std::runtime_error'
+      C:\SFML64\include\SFML\System\Exception.hpp(41,23):
+      see declaration of 'sf::Exception'
+  
+  Enemy.cpp
+C:\SFML64\include\SFML\System\Exception.hpp(41,47): warning C4275: non dll-interface class 'std::runtime_error' used as base for dll-interface class 'sf::Exception'
+  (compiling source file 'Enemy.cpp')
+      C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.44.35207\include\stdexcept(100,30):
+      see declaration of 'std::runtime_error'
+      C:\SFML64\include\SFML\System\Exception.hpp(41,23):
+      see declaration of 'sf::Exception'
+  
+  Game.cpp
+C:\SFML64\include\SFML\System\Exception.hpp(41,47): warning C4275: non dll-interface class 'std::runtime_error' used as base for dll-interface class 'sf::Exception'
+  (compiling source file 'Game.cpp')
+      C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.44.35207\include\stdexcept(100,30):
+      see declaration of 'std::runtime_error'
+      C:\SFML64\include\SFML\System\Exception.hpp(41,23):
+      see declaration of 'sf::Exception'
+  
+  GameObject.cpp
+C:\SFML64\include\SFML\System\Exception.hpp(41,47): warning C4275: non dll-interface class 'std::runtime_error' used as base for dll-interface class 'sf::Exception'
+  (compiling source file 'GameObject.cpp')
+      C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.44.35207\include\stdexcept(100,30):
+      see declaration of 'std::runtime_error'
+      C:\SFML64\include\SFML\System\Exception.hpp(41,23):
+      see declaration of 'sf::Exception'
+  
+  Motor videojoc.cpp
+C:\SFML64\include\SFML\System\Exception.hpp(41,47): warning C4275: non dll-interface class 'std::runtime_error' used as base for dll-interface class 'sf::Exception'
+  (compiling source file 'Motor%20videojoc.cpp')
+      C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.44.35207\include\stdexcept(100,30):
+      see declaration of 'std::runtime_error'
+      C:\SFML64\include\SFML\System\Exception.hpp(41,23):
+      see declaration of 'sf::Exception'
+  
+  Platform.cpp
+C:\SFML64\include\SFML\System\Exception.hpp(41,47): warning C4275: non dll-interface class 'std::runtime_error' used as base for dll-interface class 'sf::Exception'
+  (compiling source file 'Platform.cpp')
+      C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.44.35207\include\stdexcept(100,30):
+      see declaration of 'std::runtime_error'
+      C:\SFML64\include\SFML\System\Exception.hpp(41,23):
+      see declaration of 'sf::Exception'
+  
+E:\AluCiclesGS2\Pol mtg\Prog\Motor videojoc\Motor videojoc\Platform.cpp(49,21): warning C4244: 'argument': conversion from 'const int' to 'float', possible loss of data
+E:\AluCiclesGS2\Pol mtg\Prog\Motor videojoc\Motor videojoc\Platform.cpp(48,21): warning C4244: 'argument': conversion from 'const int' to 'float', possible loss of data
+E:\AluCiclesGS2\Pol mtg\Prog\Motor videojoc\Motor videojoc\Platform.cpp(47,23): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+E:\AluCiclesGS2\Pol mtg\Prog\Motor videojoc\Motor videojoc\Platform.cpp(46,23): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+E:\AluCiclesGS2\Pol mtg\Prog\Motor videojoc\Motor videojoc\Platform.cpp(54,43): warning C4244: '=': conversion from 'int' to 'T', possible loss of data
+E:\AluCiclesGS2\Pol mtg\Prog\Motor videojoc\Motor videojoc\Platform.cpp(54,43): warning C4244:         with
+E:\AluCiclesGS2\Pol mtg\Prog\Motor videojoc\Motor videojoc\Platform.cpp(54,43): warning C4244:         [
+E:\AluCiclesGS2\Pol mtg\Prog\Motor videojoc\Motor videojoc\Platform.cpp(54,43): warning C4244:             T=float
+E:\AluCiclesGS2\Pol mtg\Prog\Motor videojoc\Motor videojoc\Platform.cpp(54,43): warning C4244:         ]
+E:\AluCiclesGS2\Pol mtg\Prog\Motor videojoc\Motor videojoc\Platform.cpp(55,43): warning C4244: '=': conversion from 'int' to 'T', possible loss of data
+E:\AluCiclesGS2\Pol mtg\Prog\Motor videojoc\Motor videojoc\Platform.cpp(55,43): warning C4244:         with
+E:\AluCiclesGS2\Pol mtg\Prog\Motor videojoc\Motor videojoc\Platform.cpp(55,43): warning C4244:         [
+E:\AluCiclesGS2\Pol mtg\Prog\Motor videojoc\Motor videojoc\Platform.cpp(55,43): warning C4244:             T=float
+E:\AluCiclesGS2\Pol mtg\Prog\Motor videojoc\Motor videojoc\Platform.cpp(55,43): warning C4244:         ]
+E:\AluCiclesGS2\Pol mtg\Prog\Motor videojoc\Motor videojoc\Platform.cpp(60,51): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+E:\AluCiclesGS2\Pol mtg\Prog\Motor videojoc\Motor videojoc\Platform.cpp(60,36): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  Thomas.cpp
+C:\SFML64\include\SFML\System\Exception.hpp(41,47): warning C4275: non dll-interface class 'std::runtime_error' used as base for dll-interface class 'sf::Exception'
+  (compiling source file 'Thomas.cpp')
+      C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.44.35207\include\stdexcept(100,30):
+      see declaration of 'std::runtime_error'
+      C:\SFML64\include\SFML\System\Exception.hpp(41,23):
+      see declaration of 'sf::Exception'
+  
+  Vistlou.cpp
+C:\SFML64\include\SFML\System\Exception.hpp(41,47): warning C4275: non dll-interface class 'std::runtime_error' used as base for dll-interface class 'sf::Exception'
+  (compiling source file 'Vistlou.cpp')
+      C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.44.35207\include\stdexcept(100,30):
+      see declaration of 'std::runtime_error'
+      C:\SFML64\include\SFML\System\Exception.hpp(41,23):
+      see declaration of 'sf::Exception'
+  
+  Generating code
+  161 of 444 functions (36.3%) were compiled, the rest were copied from previous compilation.
+    25 functions were new in current compilation
+    25 functions had inline decision re-evaluated but remain unchanged
+  Finished generating code
+  Motor videojoc.vcxproj -> E:\AluCiclesGS2\Pol mtg\Prog\Motor videojoc\x64\Release\Motor videojoc.exe

@@ -1,0 +1,15 @@
+body {
+  margin: 0;
+  font-family: 'Georgia', serif;
+  background-color: #1e1e1e;
+  color: #f0e6d2;
+}
+
+.main-content {
+  padding: 2rem;
+}
+
+.page h2 {
+  font-size: 2rem;
+  color: #f4d03f;
+}

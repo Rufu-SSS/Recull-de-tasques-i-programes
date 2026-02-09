@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/main"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".MainActivity">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical">
+
+        <TextView
+            android:id="@+id/txt_resultat"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="0"
+            android:textAlignment="center"
+            android:textSize="28dp" />
+
+        <EditText
+            android:id="@+id/txt_num1"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:ems="10"
+            android:inputType="text"
+            android:textSize="20dp"
+            android:layout_marginTop="18dp"
+            android:hint="Escriu un nombre" />
+
+        <EditText
+            android:id="@+id/txt_num2"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:ems="10"
+            android:inputType="text"
+            android:textSize="20dp"
+            android:layout_marginTop="18dp"
+            android:hint="Escriu un nombre" />
+
+        <Button
+            android:id="@+id/btn_suma"
+            android:layout_width="135dp"
+            android:layout_height="wrap_content"
+            android:text="Sumar" />
+
+        <Button
+            android:id="@+id/btn_resta"
+            android:layout_width="194dp"
+            android:layout_height="wrap_content"
+            android:text="Resta" />
+
+        <Button
+            android:id="@+id/btn_multiplicar"
+            android:layout_width="233dp"
+            android:layout_height="wrap_content"
+            android:text="Multiplicar" />
+
+        <Button
+            android:id="@+id/btn_dividir"
+            android:layout_width="285dp"
+            android:layout_height="wrap_content"
+            android:text="Dividir" />
+
+    </LinearLayout>
+
+</androidx.constraintlayout.widget.ConstraintLayout>

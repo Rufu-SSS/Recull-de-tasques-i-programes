@@ -1,0 +1,3 @@
+﻿  ProvaDLLs.cpp
+ProvaDLLs.obj : error LNK2019: unresolved external symbol "__declspec(dllimport) public: class std::vector<struct Card,class std::allocator<struct Card> > __cdecl Deck::GetAllCards(void)const " (__imp_?GetAllCards@Deck@@QEBA?AV?$vector@UCard@@V?$allocator@UCard@@@std@@@std@@XZ) referenced in function main
+E:\AluCiclesGS2\Pol a prog\ProvaDLLs\x64\Debug\ProvaDLLs.exe : fatal error LNK1120: 1 unresolved externals
