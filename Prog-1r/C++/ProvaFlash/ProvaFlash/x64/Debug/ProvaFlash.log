@@ -1,0 +1,25 @@
+﻿  Examen.cpp
+  ProvaFlash.cpp
+E:\AluCiclesGS2\Feina 3\Prog-1r\C++\ProvaFlash\ProvaFlash\TriangleEquilater.h(11,16): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+  (compiling source file 'ProvaFlash.cpp')
+  
+E:\AluCiclesGS2\Feina 3\Prog-1r\C++\ProvaFlash\ProvaFlash\TriangleEquilater.h(12,30): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+  (compiling source file 'ProvaFlash.cpp')
+  
+E:\AluCiclesGS2\Feina 3\Prog-1r\C++\ProvaFlash\ProvaFlash\TriangleEquilater.h(17,37): warning C4244: 'return': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'ProvaFlash.cpp')
+  
+  Triangle.cpp
+E:\AluCiclesGS2\Feina 3\Prog-1r\C++\ProvaFlash\ProvaFlash\Triangle.cpp(4,28): warning C4244: 'return': conversion from 'double' to 'float', possible loss of data
+  TriangleEquilater.cpp
+E:\AluCiclesGS2\Feina 3\Prog-1r\C++\ProvaFlash\ProvaFlash\TriangleEquilater.h(11,16): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+  (compiling source file 'TriangleEquilater.cpp')
+  
+E:\AluCiclesGS2\Feina 3\Prog-1r\C++\ProvaFlash\ProvaFlash\TriangleEquilater.h(12,30): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+  (compiling source file 'TriangleEquilater.cpp')
+  
+E:\AluCiclesGS2\Feina 3\Prog-1r\C++\ProvaFlash\ProvaFlash\TriangleEquilater.h(17,37): warning C4244: 'return': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'TriangleEquilater.cpp')
+  
+  Generating Code...
+  ProvaFlash.vcxproj -> E:\AluCiclesGS2\Feina 3\Prog-1r\C++\ProvaFlash\x64\Debug\ProvaFlash.exe
