@@ -2,8 +2,10 @@
 %TAG !u! tag:unity3d.com,2011:
 --- !u!78 &1
 TagManager:
-  serializedVersion: 2
-  tags: []
+  serializedVersion: 3
+  tags:
+  - Star
+  - Pickup
   layers:
   - Default
   - TransparentFX
@@ -38,6 +40,20 @@ TagManager:
   - 
   - 
   m_SortingLayers:
+  - name: Background
+    uniqueID: 1076315255
+    locked: 0
+  - name: Main Sprites
+    uniqueID: 1381388587
+    locked: 0
   - name: Default
     uniqueID: 0
     locked: 0
+  - name: Foreground
+    uniqueID: 2816728795
+    locked: 0
+  - name: UI
+    uniqueID: 1645531291
+    locked: 0
+  m_RenderingLayers:
+  - Default
