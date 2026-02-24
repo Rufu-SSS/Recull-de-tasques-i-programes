@@ -1,0 +1,30 @@
+/* Fons i text globals */
+.light-theme {
+  background-color: #ffffff;
+  color: #000000;
+}
+
+.dark-theme {
+  background-color: #121212;
+  color: #ffffff;
+}
+
+/* Botons */
+.light-theme button {
+  background-color: #eee;
+  color: #000;
+  border: 1px solid #aaa;
+}
+
+.dark-theme button {
+  background-color: #333;
+  color: #fff;
+  border: 1px solid #555;
+}
+
+/* Forçar que el div ocupi tota la pantalla */
+html, body {
+  margin: 0;
+  padding: 0;
+  height: 100%;
+}
