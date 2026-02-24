@@ -1,0 +1,13 @@
+<ui:UXML xmlns:ui="UnityEngine.UIElements" xmlns:uie="UnityEditor.UIElements" editor-extension-mode="False">
+    <ui:VisualElement name="ProvaUI" style="flex-grow: 1;">
+        <ui:Label text="Prova Etiqueta&#10;" name="Label" />
+        <ui:ToggleButtonGroup label="In the list?" />
+        <ui:Slider label="Slider" value="42" high-value="100" />
+        <ui:Button text="Button" />
+        <ui:Toggle label="Toggle" name="Toggle" />
+        <ui:Slider label="Slider" value="42" high-value="100" />
+    </ui:VisualElement>
+    <ui:VisualElement style="flex-grow: 1;">
+        <ui:Label text="Label" />
+    </ui:VisualElement>
+</ui:UXML>
