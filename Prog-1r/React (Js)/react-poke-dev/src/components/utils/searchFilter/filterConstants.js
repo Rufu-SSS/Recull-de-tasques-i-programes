@@ -1,0 +1,41 @@
+export const ALL_TYPES = [
+  'fire',
+  'water',
+  'grass',
+  'electric',
+  'psychic',
+  'ice',
+  'dragon',
+  'dark',
+  'fairy',
+  'normal',
+  'fighting',
+  'flying',
+  'poison',
+  'ground',
+  'rock',
+  'bug',
+  'ghost',
+  'steel'
+]
+
+export const TYPE_ICONS = {
+  fire: '/assets/types/fire.png',
+  water: '/assets/types/water.png',
+  grass: '/assets/types/grass.png',
+  electric: '/assets/types/electric.png',
+  psychic: '/assets/types/psychic.png',
+  ice: '/assets/types/ice.png',
+  dragon: '/assets/types/dragon.png',
+  dark: '/assets/types/dark.png',
+  fairy: '/assets/types/fairy.png',
+  normal: '/assets/types/normal.png',
+  fighting: '/assets/types/fighting.png',
+  flying: '/assets/types/flying.png',
+  poison: '/assets/types/poison.png',
+  ground: '/assets/types/ground.png',
+  rock: '/assets/types/rock.png',
+  bug: '/assets/types/bug.png',
+  ghost: '/assets/types/ghost.png',
+  steel: '/assets/types/steel.png'
+}
