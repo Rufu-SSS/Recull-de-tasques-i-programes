@@ -9,26 +9,16 @@ public class Animal : MonoBehaviour
     public Slider HungerSlider;
     public int AmountToBeFed = 0;
     public GameObject GameManager;
-
     private int _currentFedAmount = 0;
 
-
     private void Start()
-    {
-        HungerSlider.value = _currentFedAmount;
-        HungerSlider.maxValue = AmountToBeFed;
-    }
-
-
+    { HungerSlider.value = _currentFedAmount;
+        HungerSlider.maxValue = AmountToBeFed; }
     public bool Feed()
-    {
-        if (_currentFedAmount < AmountToBeFed)
-        {
+    { if (_currentFedAmount < AmountToBeFed) {
             HungerSlider.value =  ++_currentFedAmount;
-            return true;
-        }
-        return false;
-    }
+            return true; }
+        return false; }
 }
 
 

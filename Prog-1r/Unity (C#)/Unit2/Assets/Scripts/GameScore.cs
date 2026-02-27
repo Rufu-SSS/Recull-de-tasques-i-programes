@@ -5,11 +5,7 @@ using UnityEngine;
 public class GameScore : MonoBehaviour
 {
     public int Score = 0;
-
-
-    public void IncScore()
-    {
+    public void IncScore() {
         Score++;
-        Debug.Log("Score=" + Score);
-    }
+        Debug.Log("Score=" + Score); }
 }
