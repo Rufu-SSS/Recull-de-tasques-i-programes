@@ -26,8 +26,8 @@ public class MainActivity extends AppCompatActivity {
     Handler handler = new Handler();
 
     int[] songs = {};
-    int[] covers = {R.raw.AmanecíEnUnHotel, R.raw.Diarrhero, R.raw.OppyDay, R.raw.Serena};
-    String[] songTitles = {"", ""};
+    int[] covers = {R.raw.amanecienunhotel, R.raw.diarrhero, R.raw.oppyDay, R.raw.serena};
+    String[] songTitles = {"gutalax diarrhero", "lil mabu oppy day", "orslok amaneci en un hotel", "2slimey serena"};
     int currentIndex=0;
 
 
@@ -62,15 +62,65 @@ public class MainActivity extends AppCompatActivity {
     private void updateSeekBar(){
         seekBar.setProgress(mediaPlayer)
     }
-
-
-
-    private void resetPlay(){
-        mediaPlayer.release();
-        mediaPlayer= MediaPlayer.create(this,songs[currentIndex]);
-        seekBar.setMax(mediaPlayer.getDuration());
-        mediaPlayer.start();
-        updateSeekBar();
+    private void configurarAnimacio() {
+        rotateAnimation = new RotateAnimation(0, 360, Animation.RELATIVE_TO_SELF, 0.5f, Animation.RELATIVE_TO_SELF, 0.5f);
+        rotateAnimation.setInterpolator(new LinearInterpolator());
+        rotateAnimation.setDuration(10000); // 10 segons per volta
+        rotateAnimation.setRepeatCount(Animation.INFINITE);
     }
 
-}
+    private void prepararCancó() {
+        if (mediaPlayer != null) { mediaPlayer.release(); }
+        mediaPlayer = MediaPlayer.create(this, songs[currentIndex]);
+        mediaPlayer.setLooping(isLooping);
+        mediaPlayer.setVolume(1.0f, 1.0f);
+
+        if (Build.VERSION.SDK_INT >= Build.VERSION_CODES.M) {
+            try {
+                PlaybackParams params = new PlaybackParams();
+                params.setSpeed(1.0f);
+                mediaPlayer.setPlaybackParams(params);
+            } catch (Exception e) { e.printStackTrace(); }
+        }
+
+        ivCover.setImageResource(covers[currentIndex]);
+        tvTitle.setText(titles[currentIndex]);
+        tvArtist.setText(artists[currentIndex]);
+        seekBar.setMax(mediaPlayer.getDuration());
+        tvTotalTime.setText(formatarTemps(mediaPlayer.getDuration()));
+
+        mediaPlayer.setOnCompletionListener(mp -> {
+            if (!isLooping) btnNext.performClick();
+        });
+    }
+
+    private void reproduirAra() {
+        mediaPlayer.start();
+        ivCover.startAnimation(rotateAnimation); // El disc comença a girar
+        btnPlayPause.setImageResource(android.R.drawable.ic_media_pause);
+        actualitzarSeekBar();
+    }
+
+    private void canviarCancó(int delta) {
+        currentIndex = (currentIndex + delta + songs.length) % songs.length;
+        prepararCancó();
+        reproduirAra();
+    }
+
+    private void actualitzarSeekBar() {
+        if (mediaPlayer != null && mediaPlayer.isPlaying()) {
+            seekBar.setProgress(mediaPlayer.getCurrentPosition());
+            tvCurrentTime.setText(formatarTemps(mediaPlayer.getCurrentPosition()));
+            handler.postDelayed(this::actualitzarSeekBar, 1000);
+        }
+    }
+
+    private String formatarTemps(int ms) {
+        return String.format(Locale.getDefault(), "%02d:%02d", (ms/1000)/60, (ms/1000)%60);
+    }
+
+    @Override
+    protected void onDestroy() {
+        super.onDestroy();
+        if (mediaPlayer != null) mediaPlayer.release();
+    }

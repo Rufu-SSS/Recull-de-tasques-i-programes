@@ -1,7 +1,11 @@
 using UnityEngine;
+using System;
 
 public class PlayerMove : MonoBehaviour
 {
+    public static event Action<int> OnPickupCollected; 
+    private int _pickupCount = 0;                      
+
     public float speed = 10;
     private Rigidbody2D rigidbody2D;
     private Vector2 newVelocity;
@@ -26,9 +30,7 @@ public class PlayerMove : MonoBehaviour
     {
         float xMove = Input.GetAxis("Horizontal");
         float yMove = Input.GetAxis("Vertical");
-        float xSpeed = xMove * speed;
-        float ySpeed = yMove * speed;
-        newVelocity = new Vector2(xSpeed, ySpeed);
+        newVelocity = new Vector2(xMove * speed, yMove * speed);
     }
 
     void FixedUpdate()
@@ -40,5 +42,11 @@ public class PlayerMove : MonoBehaviour
         {
             FlipDirection();
         }
+    }
+
+    // Cridat des de PlayerInventory quan es recull un pickup
+    public static void NotifyPickupCollected(int total)
+    {
+        OnPickupCollected?.Invoke(total);
     }
 }
