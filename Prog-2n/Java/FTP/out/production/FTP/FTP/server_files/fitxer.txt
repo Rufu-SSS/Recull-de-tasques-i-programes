@@ -1,0 +1,14 @@
+Startup -> empresa petita que comença recentment amb una base tecnològica amb un mercat molt ampli amb gran 
+capacitat d'escalar i esser invertit.
+- Trobar un problema i buscar solucionar-lo, muntar un negoci arreu d'aixo
+- Anar ràpid i trobar que volen els clients (feedback) 
+-> the long tail: hi ha molts llibres vells
+- Generar valor per a tothom (client, treballador, accionista ...)
+- Idea -> Build -> Code -> Measure -> Data -> Learn -> ...
+- Minimum Viable Product: beta de pagament de baixa finalitat
+[We plan]
+- Com aconseguir els diners: banc, propis, familia, amics, coneguts, socis, clients, subvencions, ...
+- Fases startup: Pre-seed - seed - early - growth - expansion - exit
+- Per a que pasta? pagar als treballadors, invertir en material, llicències de programaris, lloguer, assegurances
+patents, despeses de viatges, línies telefòniques, servidors, advocats, etc...
+- 
