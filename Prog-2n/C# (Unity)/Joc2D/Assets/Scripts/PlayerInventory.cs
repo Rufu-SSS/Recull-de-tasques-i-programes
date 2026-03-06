@@ -19,9 +19,6 @@ public class PlayerInventory : MonoBehaviour
             return;
         }
 
-        // Sobreviu entre escenes
-        DontDestroyOnLoad(gameObject);
-
         playerInventoryDisplay = GetComponent<PlayerInventoryDisplay>();
         playerInventoryDisplay.OnChangeInventory(items, icones);
     }

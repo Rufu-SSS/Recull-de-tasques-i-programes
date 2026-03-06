@@ -1,5 +1,4 @@
-﻿// GameManager.cs — afegeix-lo a un GameObject buit "GameManager"
-using UnityEditor;
+﻿// GameManager.cs — versió completa corregida
 using UnityEngine;
 using UnityEngine.SceneManagement;
 
@@ -7,6 +6,8 @@ public class GameManager : MonoBehaviour
 {
     public static GameManager Instance;
     public GameObject playerPrefab;
+
+    private GameObject _playerInstance;
 
     void Awake()
     {
@@ -31,23 +32,31 @@ public class GameManager : MonoBehaviour
 
     void OnSceneLoaded(Scene scene, LoadSceneMode mode)
     {
-        if (scene.name == "MainMenu") return;
+        if (scene.name == "MainMenu")
+        {
+            // Destrueix el player quan tornem al menú
+            if (_playerInstance != null)
+            {
+                Destroy(_playerInstance);
+                _playerInstance = null;
+            }
+            return;
+        }
 
         GameObject spawnPoint = GameObject.Find("PlayerSpawnPoint");
         Vector3 pos = spawnPoint != null ? spawnPoint.transform.position : Vector3.zero;
 
-        GameObject existingPlayer = GameObject.FindGameObjectWithTag("Player");
-        if (existingPlayer != null)
+        if (_playerInstance != null)
         {
-            existingPlayer.transform.position = pos;
-            return;
+            // El player ja existeix, només el reposiciona
+            _playerInstance.transform.position = pos;
+            SceneManager.MoveGameObjectToScene(_playerInstance, scene);
         }
-
-        GameObject player = Instantiate(playerPrefab, pos, Quaternion.identity);
-
-        SceneManager.MoveGameObjectToScene(player, scene);
-
-        Debug.Log("Player instanciat a: " + pos);
+        else
+        {
+            // Primera vegada, crea el player
+            _playerInstance = Instantiate(playerPrefab, pos, Quaternion.identity);
+            SceneManager.MoveGameObjectToScene(_playerInstance, scene);
+        }
     }
-
 }
