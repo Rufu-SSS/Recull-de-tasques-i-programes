@@ -12,7 +12,5 @@ public class UIManager : MonoBehaviour
     {
         _document = GetComponent<UIDocument>();
         var root = _document.rootVisualElement;
-
-        
     }
 }

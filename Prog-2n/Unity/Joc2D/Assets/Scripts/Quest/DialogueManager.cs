@@ -1,32 +1,23 @@
 using System.Collections;
 using UnityEngine;
 using TMPro;
-
-public class DialogueManager : MonoBehaviour
-{
+public class DialogueManager : MonoBehaviour {
     public static DialogueManager Instance;
-
     [Header("UI References")]
     public GameObject dialoguePanel;
     public TextMeshProUGUI nameText;
     public TextMeshProUGUI dialogueText;
-
     [Header("Typewriter")]
     public float typingSpeed = 0.04f;
-
     private string[] currentLines;
     private int currentIndex;
     private bool isTyping = false;
     private bool dialogueActive = false;
-
-    void Awake()
-    {
+    void Awake() {
         Instance = this;
         dialoguePanel.SetActive(true);
     }
-
-    public void StartDialogue(DialogueData data)
-    {
+    public void StartDialogue(DialogueData data) {
         dialogueActive = true;
         currentLines = data.lines;
         currentIndex = 0;
@@ -34,57 +25,41 @@ public class DialogueManager : MonoBehaviour
         dialoguePanel.SetActive(true);
         StartCoroutine(TypeLine(currentLines[currentIndex]));
     }
-
-    void Update()
-    {
+    void Update() {
         if (!dialogueActive) return;
-
-        if (Input.GetKeyDown(KeyCode.E))
-        {
-            if (isTyping)
-            {
+        if (Input.GetKeyDown(KeyCode.E)) {
+            if (isTyping) {
                 // Si encara escriu, mostra el text sencer immediatament
                 StopAllCoroutines();
                 dialogueText.text = currentLines[currentIndex];
                 isTyping = false;
             }
-            else
-            {
+            else {
                 NextLine();
             }
         }
     }
-
-    void NextLine()
-    {
+    void NextLine() {
         currentIndex++;
-        if (currentIndex < currentLines.Length)
-        {
+        if (currentIndex < currentLines.Length) {
             StartCoroutine(TypeLine(currentLines[currentIndex]));
         }
-        else
-        {
+        else {
             EndDialogue();
         }
     }
-
-    IEnumerator TypeLine(string line)
-    {
+    IEnumerator TypeLine(string line) {
         isTyping = true;
         dialogueText.text = "";
-        foreach (char c in line)
-        {
+        foreach (char c in line) {
             dialogueText.text += c;
             yield return new WaitForSeconds(typingSpeed);
         }
         isTyping = false;
     }
-
-    void EndDialogue()
-    {
+    void EndDialogue() {
         dialogueActive = false;
         dialoguePanel.SetActive(false);
     }
-
     public bool IsActive() => dialogueActive;
 }

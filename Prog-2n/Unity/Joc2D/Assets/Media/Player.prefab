@@ -106,6 +106,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   speed: 10
   jumpForce: 12
+  fallSpeed: 35
   isGrounded: 1
   Facing: 1
   misStats:
