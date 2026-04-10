@@ -11,4 +11,9 @@ public class Jugador
         Nom = nom;
         Puntuacio = puntuacio;
     }
+
+    public override string ToString()
+    {
+        return $"{Nom}: {Puntuacio} pts";
+    }
 }

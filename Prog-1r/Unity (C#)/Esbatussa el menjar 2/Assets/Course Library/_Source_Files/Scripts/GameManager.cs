@@ -9,7 +9,8 @@ public class GameManager : MonoBehaviour
 {
     public List<GameObject> targets;
     public float spawnRate = 1.0f;
-    private int score;
+    private int _score;
+    public int Score => _score;
     private int lives = 3;
     public TextMeshProUGUI scoreText;
     public TextMeshProUGUI livesText;
@@ -41,8 +42,9 @@ public class GameManager : MonoBehaviour
     {
         spawnRate /= difficulty;
         isGameActive = true;
-        lives = 3; // Reinicia les vides a 3
-        UpdateLives(0); // Actualitza la UI amb les vides actuals
+        lives = 3;
+        _score = 0; //reseteja el score aquí explícitament
+        UpdateLives(0);
         StartCoroutine(SpawnTarget());
         UpdateScore(0);
         if (titleScreen != null)
@@ -61,9 +63,9 @@ public class GameManager : MonoBehaviour
 
     public void UpdateScore(int scoreToAdd)
     {
-        score += scoreToAdd;
+        _score += scoreToAdd;
         if (scoreText != null)
-            scoreText.text = "Score: " + score;
+            scoreText.text = "Score: " + _score;
     }
 
     // Aquí restem o sumem vides segons el valor passat; pots adaptar la lògica segons el que vulguis aconseguir.
@@ -79,13 +81,10 @@ public class GameManager : MonoBehaviour
 
     public void GameOver()
     {
-        Debug.Log("Game Over!");
-        Time.timeScale = 0;
         isGameActive = false;
-        if (gameOverText != null)
-            gameOverText.gameObject.SetActive(true);
-        if (restartButton != null)
-            restartButton.gameObject.SetActive(true);
+        if (gameOverText != null) gameOverText.gameObject.SetActive(true);
+        if (restartButton != null) restartButton.gameObject.SetActive(true);
+        Time.timeScale = 0; // al final del tot
     }
 
     public void RestartGame()

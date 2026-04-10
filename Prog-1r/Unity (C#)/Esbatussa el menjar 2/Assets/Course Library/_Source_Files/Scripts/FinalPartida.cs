@@ -1,15 +1,21 @@
-using TMPro;
+﻿using TMPro;
 using UnityEngine;
-using UnityEngine.UI;
+
 public class FinalPartida : MonoBehaviour
 {
     public JugadorManager jugadorManager;
-    public TMP_InputField InputNom;
-    public int puntuacioJugador = 72;
+    public TMP_InputField inputNom;
+    public GameManager gameManager; // ← assigna-ho directament a l'Inspector
 
     public void Finalitzar()
     {
-        jugadorManager.AfegirJugador(InputNom.text, puntuacioJugador);
+        if (string.IsNullOrEmpty(inputNom.text))
+        {
+            Debug.LogWarning("Escriu un nom!");
+            return;
+        }
+
+        jugadorManager.AfegirJugador(inputNom.text, gameManager.Score);
         jugadorManager.MostrarTop3();
     }
 }
