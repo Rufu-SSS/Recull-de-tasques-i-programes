@@ -2,6 +2,9 @@
 Codi que he anat picant i he ajuntat tot en un sol repo
 
 ## Llenguatges
+### Projectes personals:
+- Bot telegram
+- Bot discord
 ### 1r Curs:
 - C++
 - Java
@@ -16,3 +19,4 @@ Codi que he anat picant i he ajuntat tot en un sol repo
 - Java
 - Java & Kotlin / Android Studio
 - HTML
+- Unreal Engine
