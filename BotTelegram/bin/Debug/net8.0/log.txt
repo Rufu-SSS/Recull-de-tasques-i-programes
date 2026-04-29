@@ -1,0 +1,4290 @@
+[2026-04-27 10:56:11] === INICI ===
+[2026-04-27 10:56:11] .env no trobat
+[2026-04-27 10:56:11] ERROR: Config incorrecta (API_KEY o CHAT_ID buits)
+[2026-04-27 11:23:02] === INICI ===
+[2026-04-27 11:23:02] .env no trobat
+[2026-04-27 11:23:02] ERROR: Config incorrecta (API_KEY o CHAT_ID buits)
+[2026-04-27 11:26:42] === INICI ===
+[2026-04-27 11:26:42] .env carregat
+[2026-04-27 11:26:42] Config OK
+[2026-04-27 11:26:42] Comprovant: https://moxfield.com/
+[2026-04-27 11:26:42] HTTP status: 403
+[2026-04-27 11:26:42] Reintent 1/2...
+[2026-04-27 11:26:44] HTTP status: 403
+[2026-04-27 11:26:44] Reintent 2/2...
+[2026-04-27 11:26:46] HTTP status: 403
+[2026-04-27 11:26:46] Resultat: CAIGUT
+[2026-04-27 11:26:46] Primera execucio, guardant estat inicial i avisant
+[2026-04-27 11:26:47] Comprovant: https://github.com/
+[2026-04-27 11:26:47] HTTP status: 200
+[2026-04-27 11:26:47] Resultat: OK
+[2026-04-27 11:26:47] Primera execucio, guardant estat inicial i avisant
+[2026-04-27 11:26:47] Comprovant: https://mail.google.com/
+[2026-04-27 11:26:48] HTTP status: 200
+[2026-04-27 11:26:48] Resultat: OK
+[2026-04-27 11:26:48] Primera execucio, guardant estat inicial i avisant
+[2026-04-27 11:26:48] === FI ===
+[2026-04-27 11:30:00] === INICI ===
+[2026-04-27 11:30:00] .env carregat
+[2026-04-27 11:30:00] Config OK
+[2026-04-27 11:30:00] Comprovant: https://moxfield.com/
+[2026-04-27 11:30:01] HTTP status: 403
+[2026-04-27 11:30:01] Reintent 1/2...
+[2026-04-27 11:30:03] HTTP status: 403
+[2026-04-27 11:30:03] Reintent 2/2...
+[2026-04-27 11:30:05] HTTP status: 403
+[2026-04-27 11:30:05] Resultat: CAIGUT
+[2026-04-27 11:30:05] Estat anterior: CAIGUT
+[2026-04-27 11:30:05] Sense canvis, no s'envia res
+[2026-04-27 11:30:05] Comprovant: https://github.com/
+[2026-04-27 11:30:05] HTTP status: 200
+[2026-04-27 11:30:05] Resultat: OK
+[2026-04-27 11:30:05] Estat anterior: OK
+[2026-04-27 11:30:05] Sense canvis, no s'envia res
+[2026-04-27 11:30:05] Comprovant: https://mail.google.com/
+[2026-04-27 11:45:00] === INICI ===
+[2026-04-27 11:45:00] .env carregat
+[2026-04-27 11:45:00] Config OK
+[2026-04-27 11:45:00] Comprovant: https://moxfield.com/
+[2026-04-27 11:45:01] HTTP status: 403
+[2026-04-27 11:45:01] Reintent 1/2...
+[2026-04-27 11:45:03] HTTP status: 403
+[2026-04-27 11:45:03] Reintent 2/2...
+[2026-04-27 11:45:05] HTTP status: 403
+[2026-04-27 11:45:05] Resultat: CAIGUT
+[2026-04-27 11:45:05] Primera execucio, guardant estat inicial i avisant
+[2026-04-27 11:45:05] Comprovant: https://github.com/
+[2026-04-27 11:45:06] HTTP status: 200
+[2026-04-27 11:45:06] Resultat: OK
+[2026-04-27 11:45:06] Primera execucio, guardant estat inicial i avisant
+[2026-04-27 11:45:06] Comprovant: https://mail.google.com/
+[2026-04-27 11:45:07] HTTP status: 200
+[2026-04-27 11:45:07] Resultat: OK
+[2026-04-27 11:45:07] Estat anterior: OK
+[2026-04-27 11:45:07] Sense canvis, no s'envia res
+[2026-04-27 11:45:07] === FI ===
+[2026-04-27 12:00:00] === INICI ===
+[2026-04-27 12:00:00] .env carregat
+[2026-04-27 12:00:00] Config OK
+[2026-04-27 12:00:00] Comprovant: https://moxfield.com/
+[2026-04-27 12:00:01] HTTP status: 403
+[2026-04-27 12:00:01] Reintent 1/2...
+[2026-04-27 12:00:03] HTTP status: 403
+[2026-04-27 12:00:03] Reintent 2/2...
+[2026-04-27 12:00:05] HTTP status: 403
+[2026-04-27 12:00:05] Resultat: CAIGUT
+[2026-04-27 12:00:05] Estat anterior: CAIGUT
+[2026-04-27 12:00:05] Sense canvis, no s'envia res
+[2026-04-27 12:00:05] Comprovant: https://github.com/
+[2026-04-27 12:00:05] HTTP status: 200
+[2026-04-27 12:00:05] Resultat: OK
+[2026-04-27 12:00:05] Estat anterior: OK
+[2026-04-27 12:00:05] Sense canvis, no s'envia res
+[2026-04-27 12:00:05] Comprovant: https://mail.google.com/
+[2026-04-27 12:00:06] HTTP status: 200
+[2026-04-27 12:00:06] Resultat: OK
+[2026-04-27 12:00:06] Estat anterior: OK
+[2026-04-27 12:00:06] Sense canvis, no s'envia res
+[2026-04-27 12:00:06] === FI ===
+[2026-04-27 12:15:01] === INICI ===
+[2026-04-27 12:15:01] .env carregat
+[2026-04-27 12:15:01] Config OK
+[2026-04-27 12:15:01] Comprovant: https://moxfield.com/
+[2026-04-27 12:15:01] HTTP status: 403
+[2026-04-27 12:15:01] Reintent 1/2...
+[2026-04-27 12:15:03] HTTP status: 403
+[2026-04-27 12:15:03] Reintent 2/2...
+[2026-04-27 12:15:05] HTTP status: 403
+[2026-04-27 12:15:05] Resultat: CAIGUT
+[2026-04-27 12:15:06] Estat anterior: CAIGUT
+[2026-04-27 12:15:06] Sense canvis, no s'envia res
+[2026-04-27 12:15:06] Comprovant: https://github.com/
+[2026-04-27 12:15:06] HTTP status: 200
+[2026-04-27 12:15:06] Resultat: OK
+[2026-04-27 12:15:06] Estat anterior: OK
+[2026-04-27 12:15:06] Sense canvis, no s'envia res
+[2026-04-27 12:15:06] Comprovant: https://mail.google.com/
+[2026-04-27 12:15:08] HTTP status: 200
+[2026-04-27 12:15:08] Resultat: OK
+[2026-04-27 12:15:08] Estat anterior: OK
+[2026-04-27 12:15:08] Sense canvis, no s'envia res
+[2026-04-27 12:15:08] === FI ===
+[2026-04-27 12:30:01] === INICI ===
+[2026-04-27 12:30:01] .env carregat
+[2026-04-27 12:30:01] Config OK
+[2026-04-27 12:30:01] Comprovant: https://moxfield.com/
+[2026-04-27 12:30:01] HTTP status: 403
+[2026-04-27 12:30:01] Reintent 1/2...
+[2026-04-27 12:30:03] HTTP status: 403
+[2026-04-27 12:30:03] Reintent 2/2...
+[2026-04-27 12:30:05] HTTP status: 403
+[2026-04-27 12:30:05] Resultat: CAIGUT
+[2026-04-27 12:30:05] Estat anterior: CAIGUT
+[2026-04-27 12:30:05] Sense canvis, no s'envia res
+[2026-04-27 12:30:05] Comprovant: https://github.com/
+[2026-04-27 12:30:08] HTTP status: 200
+[2026-04-27 12:30:08] Resultat: OK
+[2026-04-27 12:30:08] Estat anterior: OK
+[2026-04-27 12:30:08] Sense canvis, no s'envia res
+[2026-04-27 12:30:08] Comprovant: https://mail.google.com/
+[2026-04-27 12:30:10] HTTP status: 200
+[2026-04-27 12:30:10] Resultat: OK
+[2026-04-27 12:30:10] Estat anterior: OK
+[2026-04-27 12:30:10] Sense canvis, no s'envia res
+[2026-04-27 12:30:10] === FI ===
+[2026-04-27 12:45:00] === INICI ===
+[2026-04-27 12:45:00] .env carregat
+[2026-04-27 12:45:00] Config OK
+[2026-04-27 12:45:00] Comprovant: https://moxfield.com/
+[2026-04-27 12:45:01] HTTP status: 403
+[2026-04-27 12:45:01] Reintent 1/2...
+[2026-04-27 12:45:03] HTTP status: 403
+[2026-04-27 12:45:03] Reintent 2/2...
+[2026-04-27 12:45:05] HTTP status: 403
+[2026-04-27 12:45:05] Resultat: CAIGUT
+[2026-04-27 12:45:05] Estat anterior: CAIGUT
+[2026-04-27 12:45:05] Sense canvis, no s'envia res
+[2026-04-27 12:45:05] Comprovant: https://github.com/
+[2026-04-27 12:45:06] HTTP status: 200
+[2026-04-27 12:45:06] Resultat: OK
+[2026-04-27 12:45:06] Estat anterior: OK
+[2026-04-27 12:45:06] Sense canvis, no s'envia res
+[2026-04-27 12:45:06] Comprovant: https://mail.google.com/
+[2026-04-27 12:45:07] HTTP status: 200
+[2026-04-27 12:45:07] Resultat: OK
+[2026-04-27 12:45:07] Estat anterior: OK
+[2026-04-27 12:45:07] Sense canvis, no s'envia res
+[2026-04-27 12:45:07] === FI ===
+[2026-04-27 13:00:00] === INICI ===
+[2026-04-27 13:00:01] .env carregat
+[2026-04-27 13:00:01] Config OK
+[2026-04-27 13:00:01] Comprovant: https://moxfield.com/
+[2026-04-27 13:00:01] HTTP status: 403
+[2026-04-27 13:00:01] Reintent 1/2...
+[2026-04-27 13:00:03] HTTP status: 403
+[2026-04-27 13:00:03] Reintent 2/2...
+[2026-04-27 13:00:05] HTTP status: 403
+[2026-04-27 13:00:05] Resultat: CAIGUT
+[2026-04-27 13:00:05] Estat anterior: CAIGUT
+[2026-04-27 13:00:05] Sense canvis, no s'envia res
+[2026-04-27 13:00:05] Comprovant: https://github.com/
+[2026-04-27 13:00:06] HTTP status: 200
+[2026-04-27 13:00:06] Resultat: OK
+[2026-04-27 13:00:06] Estat anterior: OK
+[2026-04-27 13:00:06] Sense canvis, no s'envia res
+[2026-04-27 13:00:06] Comprovant: https://mail.google.com/
+[2026-04-27 13:00:06] HTTP status: 200
+[2026-04-27 13:00:06] Resultat: OK
+[2026-04-27 13:00:06] Estat anterior: OK
+[2026-04-27 13:00:06] Sense canvis, no s'envia res
+[2026-04-27 13:00:06] === FI ===
+[2026-04-27 13:15:00] === INICI ===
+[2026-04-27 13:15:00] .env carregat
+[2026-04-27 13:15:00] Config OK
+[2026-04-27 13:15:00] Comprovant: https://moxfield.com/
+[2026-04-27 13:15:01] HTTP status: 403
+[2026-04-27 13:15:01] Reintent 1/2...
+[2026-04-27 13:15:03] HTTP status: 403
+[2026-04-27 13:15:03] Reintent 2/2...
+[2026-04-27 13:15:05] HTTP status: 403
+[2026-04-27 13:15:05] Resultat: CAIGUT
+[2026-04-27 13:15:05] Estat anterior: CAIGUT
+[2026-04-27 13:15:05] Sense canvis, no s'envia res
+[2026-04-27 13:15:05] Comprovant: https://github.com/
+[2026-04-27 13:15:05] HTTP status: 200
+[2026-04-27 13:15:05] Resultat: OK
+[2026-04-27 13:15:05] Estat anterior: OK
+[2026-04-27 13:15:05] Sense canvis, no s'envia res
+[2026-04-27 13:15:05] Comprovant: https://mail.google.com/
+[2026-04-27 13:15:06] HTTP status: 200
+[2026-04-27 13:15:06] Resultat: OK
+[2026-04-27 13:15:06] Estat anterior: OK
+[2026-04-27 13:15:06] Sense canvis, no s'envia res
+[2026-04-27 13:15:06] === FI ===
+[2026-04-27 13:30:00] === INICI ===
+[2026-04-27 13:30:00] .env carregat
+[2026-04-27 13:30:00] Config OK
+[2026-04-27 13:30:00] Comprovant: https://moxfield.com/
+[2026-04-27 13:30:01] HTTP status: 403
+[2026-04-27 13:30:01] Reintent 1/2...
+[2026-04-27 13:30:03] HTTP status: 403
+[2026-04-27 13:30:03] Reintent 2/2...
+[2026-04-27 13:30:05] HTTP status: 403
+[2026-04-27 13:30:05] Resultat: CAIGUT
+[2026-04-27 13:30:05] Estat anterior: CAIGUT
+[2026-04-27 13:30:05] Sense canvis, no s'envia res
+[2026-04-27 13:30:05] Comprovant: https://github.com/
+[2026-04-27 13:30:05] HTTP status: 200
+[2026-04-27 13:30:05] Resultat: OK
+[2026-04-27 13:30:05] Estat anterior: OK
+[2026-04-27 13:30:05] Sense canvis, no s'envia res
+[2026-04-27 13:30:05] Comprovant: https://mail.google.com/
+[2026-04-27 13:30:07] HTTP status: 200
+[2026-04-27 13:30:07] Resultat: OK
+[2026-04-27 13:30:07] Estat anterior: OK
+[2026-04-27 13:30:07] Sense canvis, no s'envia res
+[2026-04-27 13:30:07] === FI ===
+[2026-04-27 13:45:00] === INICI ===
+[2026-04-27 13:45:00] .env carregat
+[2026-04-27 13:45:00] Config OK
+[2026-04-27 13:45:00] Comprovant: https://moxfield.com/
+[2026-04-27 13:45:01] HTTP status: 403
+[2026-04-27 13:45:01] Reintent 1/2...
+[2026-04-27 13:45:03] HTTP status: 403
+[2026-04-27 13:45:03] Reintent 2/2...
+[2026-04-27 13:45:05] HTTP status: 403
+[2026-04-27 13:45:05] Resultat: CAIGUT
+[2026-04-27 13:45:05] Estat anterior: CAIGUT
+[2026-04-27 13:45:05] Sense canvis, no s'envia res
+[2026-04-27 13:45:05] Comprovant: https://github.com/
+[2026-04-27 13:45:05] HTTP status: 200
+[2026-04-27 13:45:05] Resultat: OK
+[2026-04-27 13:45:05] Estat anterior: OK
+[2026-04-27 13:45:05] Sense canvis, no s'envia res
+[2026-04-27 13:45:05] Comprovant: https://mail.google.com/
+[2026-04-27 13:45:06] HTTP status: 200
+[2026-04-27 13:45:06] Resultat: OK
+[2026-04-27 13:45:06] Estat anterior: OK
+[2026-04-27 13:45:06] Sense canvis, no s'envia res
+[2026-04-27 13:45:06] === FI ===
+[2026-04-27 14:00:00] === INICI ===
+[2026-04-27 14:00:00] .env carregat
+[2026-04-27 14:00:00] Config OK
+[2026-04-27 14:00:00] Comprovant: https://moxfield.com/
+[2026-04-27 14:00:01] HTTP status: 403
+[2026-04-27 14:00:01] Reintent 1/2...
+[2026-04-27 14:00:03] HTTP status: 403
+[2026-04-27 14:00:03] Reintent 2/2...
+[2026-04-27 14:00:05] HTTP status: 403
+[2026-04-27 14:00:05] Resultat: CAIGUT
+[2026-04-27 14:00:05] Estat anterior: CAIGUT
+[2026-04-27 14:00:05] Sense canvis, no s'envia res
+[2026-04-27 14:00:05] Comprovant: https://github.com/
+[2026-04-27 14:00:05] HTTP status: 200
+[2026-04-27 14:00:05] Resultat: OK
+[2026-04-27 14:00:05] Estat anterior: OK
+[2026-04-27 14:00:05] Sense canvis, no s'envia res
+[2026-04-27 14:00:05] Comprovant: https://mail.google.com/
+[2026-04-27 14:00:06] HTTP status: 200
+[2026-04-27 14:00:06] Resultat: OK
+[2026-04-27 14:00:06] Estat anterior: OK
+[2026-04-27 14:00:06] Sense canvis, no s'envia res
+[2026-04-27 14:00:06] === FI ===
+[2026-04-27 14:15:00] === INICI ===
+[2026-04-27 14:15:00] .env carregat
+[2026-04-27 14:15:00] Config OK
+[2026-04-27 14:15:00] Comprovant: https://moxfield.com/
+[2026-04-27 14:15:01] HTTP status: 403
+[2026-04-27 14:15:01] Reintent 1/2...
+[2026-04-27 14:15:03] HTTP status: 403
+[2026-04-27 14:15:03] Reintent 2/2...
+[2026-04-27 14:15:05] HTTP status: 403
+[2026-04-27 14:15:05] Resultat: CAIGUT
+[2026-04-27 14:15:05] Estat anterior: CAIGUT
+[2026-04-27 14:15:05] Sense canvis, no s'envia res
+[2026-04-27 14:15:05] Comprovant: https://github.com/
+[2026-04-27 14:15:05] HTTP status: 200
+[2026-04-27 14:15:05] Resultat: OK
+[2026-04-27 14:15:05] Estat anterior: OK
+[2026-04-27 14:15:05] Sense canvis, no s'envia res
+[2026-04-27 14:15:05] Comprovant: https://mail.google.com/
+[2026-04-27 14:15:06] HTTP status: 200
+[2026-04-27 14:15:06] Resultat: OK
+[2026-04-27 14:15:06] Estat anterior: OK
+[2026-04-27 14:15:06] Sense canvis, no s'envia res
+[2026-04-27 14:15:06] === FI ===
+[2026-04-27 14:30:00] === INICI ===
+[2026-04-27 14:30:00] .env carregat
+[2026-04-27 14:30:00] Config OK
+[2026-04-27 14:30:00] Comprovant: https://moxfield.com/
+[2026-04-27 14:30:01] HTTP status: 403
+[2026-04-27 14:30:01] Reintent 1/2...
+[2026-04-27 14:30:03] HTTP status: 403
+[2026-04-27 14:30:03] Reintent 2/2...
+[2026-04-27 14:30:05] HTTP status: 403
+[2026-04-27 14:30:05] Resultat: CAIGUT
+[2026-04-27 14:30:05] Estat anterior: CAIGUT
+[2026-04-27 14:30:05] Sense canvis, no s'envia res
+[2026-04-27 14:30:05] Comprovant: https://github.com/
+[2026-04-27 14:30:05] HTTP status: 200
+[2026-04-27 14:30:05] Resultat: OK
+[2026-04-27 14:30:05] Estat anterior: OK
+[2026-04-27 14:30:05] Sense canvis, no s'envia res
+[2026-04-27 14:30:05] Comprovant: https://mail.google.com/
+[2026-04-27 14:30:06] HTTP status: 200
+[2026-04-27 14:30:06] Resultat: OK
+[2026-04-27 14:30:06] Estat anterior: OK
+[2026-04-27 14:30:06] Sense canvis, no s'envia res
+[2026-04-27 14:30:06] === FI ===
+[2026-04-27 14:45:00] === INICI ===
+[2026-04-27 14:45:00] .env carregat
+[2026-04-27 14:45:00] Config OK
+[2026-04-27 14:45:00] Comprovant: https://moxfield.com/
+[2026-04-27 14:45:01] HTTP status: 403
+[2026-04-27 14:45:01] Reintent 1/2...
+[2026-04-27 14:45:03] HTTP status: 403
+[2026-04-27 14:45:03] Reintent 2/2...
+[2026-04-27 14:45:05] HTTP status: 403
+[2026-04-27 14:45:05] Resultat: CAIGUT
+[2026-04-27 14:45:05] Estat anterior: CAIGUT
+[2026-04-27 14:45:05] Sense canvis, no s'envia res
+[2026-04-27 14:45:05] Comprovant: https://github.com/
+[2026-04-27 14:45:06] HTTP status: 200
+[2026-04-27 14:45:06] Resultat: OK
+[2026-04-27 14:45:06] Estat anterior: OK
+[2026-04-27 14:45:06] Sense canvis, no s'envia res
+[2026-04-27 14:45:06] Comprovant: https://mail.google.com/
+[2026-04-27 14:45:06] HTTP status: 200
+[2026-04-27 14:45:06] Resultat: OK
+[2026-04-27 14:45:06] Estat anterior: OK
+[2026-04-27 14:45:06] Sense canvis, no s'envia res
+[2026-04-27 14:45:06] === FI ===
+[2026-04-27 15:00:00] === INICI ===
+[2026-04-27 15:00:00] .env carregat
+[2026-04-27 15:00:00] Config OK
+[2026-04-27 15:00:00] Comprovant: https://moxfield.com/
+[2026-04-27 15:00:01] HTTP status: 403
+[2026-04-27 15:00:01] Reintent 1/2...
+[2026-04-27 15:00:03] HTTP status: 403
+[2026-04-27 15:00:03] Reintent 2/2...
+[2026-04-27 15:00:05] HTTP status: 403
+[2026-04-27 15:00:05] Resultat: CAIGUT
+[2026-04-27 15:00:05] Estat anterior: CAIGUT
+[2026-04-27 15:00:05] Sense canvis, no s'envia res
+[2026-04-27 15:00:05] Comprovant: https://github.com/
+[2026-04-27 15:00:06] HTTP status: 200
+[2026-04-27 15:00:06] Resultat: OK
+[2026-04-27 15:00:06] Estat anterior: OK
+[2026-04-27 15:00:06] Sense canvis, no s'envia res
+[2026-04-27 15:00:06] Comprovant: https://mail.google.com/
+[2026-04-27 15:00:06] HTTP status: 200
+[2026-04-27 15:00:06] Resultat: OK
+[2026-04-27 15:00:06] Estat anterior: OK
+[2026-04-27 15:00:06] Sense canvis, no s'envia res
+[2026-04-27 15:00:06] === FI ===
+[2026-04-27 15:15:01] === INICI ===
+[2026-04-27 15:15:01] .env carregat
+[2026-04-27 15:15:01] Config OK
+[2026-04-27 15:15:01] Comprovant: https://moxfield.com/
+[2026-04-27 15:15:01] HTTP status: 403
+[2026-04-27 15:15:01] Reintent 1/2...
+[2026-04-27 15:15:03] HTTP status: 403
+[2026-04-27 15:15:03] Reintent 2/2...
+[2026-04-27 15:15:05] HTTP status: 403
+[2026-04-27 15:15:05] Resultat: CAIGUT
+[2026-04-27 15:15:05] Estat anterior: CAIGUT
+[2026-04-27 15:15:05] Sense canvis, no s'envia res
+[2026-04-27 15:15:05] Comprovant: https://github.com/
+[2026-04-27 15:15:06] HTTP status: 200
+[2026-04-27 15:15:06] Resultat: OK
+[2026-04-27 15:15:06] Estat anterior: OK
+[2026-04-27 15:15:06] Sense canvis, no s'envia res
+[2026-04-27 15:15:06] Comprovant: https://mail.google.com/
+[2026-04-27 15:15:07] HTTP status: 200
+[2026-04-27 15:15:07] Resultat: OK
+[2026-04-27 15:15:07] Estat anterior: OK
+[2026-04-27 15:15:07] Sense canvis, no s'envia res
+[2026-04-27 15:15:07] === FI ===
+[2026-04-27 15:30:02] === INICI ===
+[2026-04-27 15:30:04] .env carregat
+[2026-04-27 15:30:05] Config OK
+[2026-04-27 15:30:05] Comprovant: https://moxfield.com/
+[2026-04-27 15:30:09] HTTP status: 403
+[2026-04-27 15:30:14] Reintent 1/2...
+[2026-04-27 15:30:23] HTTP status: 403
+[2026-04-27 15:30:23] Reintent 2/2...
+[2026-04-27 15:30:25] HTTP status: 403
+[2026-04-27 15:30:25] Resultat: CAIGUT
+[2026-04-27 15:30:25] Estat anterior: CAIGUT
+[2026-04-27 15:30:25] Sense canvis, no s'envia res
+[2026-04-27 15:30:25] Comprovant: https://github.com/
+[2026-04-27 15:30:26] HTTP status: 200
+[2026-04-27 15:30:26] Resultat: OK
+[2026-04-27 15:30:26] Estat anterior: OK
+[2026-04-27 15:30:26] Sense canvis, no s'envia res
+[2026-04-27 15:30:26] Comprovant: https://mail.google.com/
+[2026-04-27 15:30:27] HTTP status: 200
+[2026-04-27 15:30:27] Resultat: OK
+[2026-04-27 15:30:27] Estat anterior: OK
+[2026-04-27 15:30:27] Sense canvis, no s'envia res
+[2026-04-27 15:30:27] === FI ===
+[2026-04-27 15:45:01] === INICI ===
+[2026-04-27 15:45:01] .env carregat
+[2026-04-27 15:45:01] Config OK
+[2026-04-27 15:45:01] Comprovant: https://moxfield.com/
+[2026-04-27 15:45:02] HTTP status: 403
+[2026-04-27 15:45:02] Reintent 1/2...
+[2026-04-27 15:45:04] HTTP status: 403
+[2026-04-27 15:45:04] Reintent 2/2...
+[2026-04-27 15:45:06] HTTP status: 403
+[2026-04-27 15:45:06] Resultat: CAIGUT
+[2026-04-27 15:45:06] Estat anterior: CAIGUT
+[2026-04-27 15:45:06] Sense canvis, no s'envia res
+[2026-04-27 15:45:06] Comprovant: https://github.com/
+[2026-04-27 15:45:07] HTTP status: 200
+[2026-04-27 15:45:07] Resultat: OK
+[2026-04-27 15:45:07] Estat anterior: OK
+[2026-04-27 15:45:07] Sense canvis, no s'envia res
+[2026-04-27 15:45:07] Comprovant: https://mail.google.com/
+[2026-04-27 15:45:08] HTTP status: 200
+[2026-04-27 15:45:08] Resultat: OK
+[2026-04-27 15:45:08] Estat anterior: OK
+[2026-04-27 15:45:08] Sense canvis, no s'envia res
+[2026-04-27 15:45:08] === FI ===
+[2026-04-27 16:00:00] === INICI ===
+[2026-04-27 16:00:00] .env carregat
+[2026-04-27 16:00:00] Config OK
+[2026-04-27 16:00:00] Comprovant: https://moxfield.com/
+[2026-04-27 16:00:00] HTTP status: 403
+[2026-04-27 16:00:01] Reintent 1/2...
+[2026-04-27 16:00:03] HTTP status: 403
+[2026-04-27 16:00:03] Reintent 2/2...
+[2026-04-27 16:00:05] HTTP status: 403
+[2026-04-27 16:00:05] Resultat: CAIGUT
+[2026-04-27 16:00:05] Estat anterior: CAIGUT
+[2026-04-27 16:00:05] Sense canvis, no s'envia res
+[2026-04-27 16:00:05] Comprovant: https://github.com/
+[2026-04-27 16:00:05] HTTP status: 200
+[2026-04-27 16:00:05] Resultat: OK
+[2026-04-27 16:00:05] Estat anterior: OK
+[2026-04-27 16:00:05] Sense canvis, no s'envia res
+[2026-04-27 16:00:05] Comprovant: https://mail.google.com/
+[2026-04-27 16:00:06] HTTP status: 200
+[2026-04-27 16:00:06] Resultat: OK
+[2026-04-27 16:00:06] Estat anterior: OK
+[2026-04-27 16:00:06] Sense canvis, no s'envia res
+[2026-04-27 16:00:06] === FI ===
+[2026-04-27 16:15:00] === INICI ===
+[2026-04-27 16:15:00] .env carregat
+[2026-04-27 16:15:00] Config OK
+[2026-04-27 16:15:00] Comprovant: https://moxfield.com/
+[2026-04-27 16:15:01] HTTP status: 403
+[2026-04-27 16:15:01] Reintent 1/2...
+[2026-04-27 16:15:03] HTTP status: 403
+[2026-04-27 16:15:03] Reintent 2/2...
+[2026-04-27 16:15:05] HTTP status: 403
+[2026-04-27 16:15:05] Resultat: CAIGUT
+[2026-04-27 16:15:05] Estat anterior: CAIGUT
+[2026-04-27 16:15:05] Sense canvis, no s'envia res
+[2026-04-27 16:15:05] Comprovant: https://github.com/
+[2026-04-27 16:15:05] HTTP status: 200
+[2026-04-27 16:15:05] Resultat: OK
+[2026-04-27 16:15:05] Estat anterior: OK
+[2026-04-27 16:15:05] Sense canvis, no s'envia res
+[2026-04-27 16:15:05] Comprovant: https://mail.google.com/
+[2026-04-27 16:15:06] HTTP status: 200
+[2026-04-27 16:15:06] Resultat: OK
+[2026-04-27 16:15:06] Estat anterior: OK
+[2026-04-27 16:15:06] Sense canvis, no s'envia res
+[2026-04-27 16:15:06] === FI ===
+[2026-04-27 16:30:00] === INICI ===
+[2026-04-27 16:30:01] .env carregat
+[2026-04-27 16:30:01] Config OK
+[2026-04-27 16:30:01] Comprovant: https://moxfield.com/
+[2026-04-27 16:30:01] HTTP status: 403
+[2026-04-27 16:30:01] Reintent 1/2...
+[2026-04-27 16:30:03] HTTP status: 403
+[2026-04-27 16:30:03] Reintent 2/2...
+[2026-04-27 16:30:05] HTTP status: 403
+[2026-04-27 16:30:05] Resultat: CAIGUT
+[2026-04-27 16:30:05] Estat anterior: CAIGUT
+[2026-04-27 16:30:05] Sense canvis, no s'envia res
+[2026-04-27 16:30:05] Comprovant: https://github.com/
+[2026-04-27 16:30:05] HTTP status: 200
+[2026-04-27 16:30:05] Resultat: OK
+[2026-04-27 16:30:05] Estat anterior: OK
+[2026-04-27 16:30:05] Sense canvis, no s'envia res
+[2026-04-27 16:30:05] Comprovant: https://mail.google.com/
+[2026-04-27 16:30:06] HTTP status: 200
+[2026-04-27 16:30:06] Resultat: OK
+[2026-04-27 16:30:06] Estat anterior: OK
+[2026-04-27 16:30:06] Sense canvis, no s'envia res
+[2026-04-27 16:30:06] === FI ===
+[2026-04-27 16:45:00] === INICI ===
+[2026-04-27 16:45:00] .env carregat
+[2026-04-27 16:45:00] Config OK
+[2026-04-27 16:45:00] Comprovant: https://moxfield.com/
+[2026-04-27 16:45:01] HTTP status: 403
+[2026-04-27 16:45:01] Reintent 1/2...
+[2026-04-27 16:45:03] HTTP status: 403
+[2026-04-27 16:45:03] Reintent 2/2...
+[2026-04-27 16:45:05] HTTP status: 403
+[2026-04-27 16:45:05] Resultat: CAIGUT
+[2026-04-27 16:45:05] Estat anterior: CAIGUT
+[2026-04-27 16:45:05] Sense canvis, no s'envia res
+[2026-04-27 16:45:05] Comprovant: https://github.com/
+[2026-04-27 16:45:05] HTTP status: 200
+[2026-04-27 16:45:05] Resultat: OK
+[2026-04-27 16:45:05] Estat anterior: OK
+[2026-04-27 16:45:05] Sense canvis, no s'envia res
+[2026-04-27 16:45:05] Comprovant: https://mail.google.com/
+[2026-04-27 16:45:06] HTTP status: 200
+[2026-04-27 16:45:06] Resultat: OK
+[2026-04-27 16:45:06] Estat anterior: OK
+[2026-04-27 16:45:06] Sense canvis, no s'envia res
+[2026-04-27 16:45:06] === FI ===
+[2026-04-27 17:00:01] === INICI ===
+[2026-04-27 17:00:01] .env carregat
+[2026-04-27 17:00:01] Config OK
+[2026-04-27 17:00:01] Comprovant: https://moxfield.com/
+[2026-04-27 17:00:01] HTTP status: 403
+[2026-04-27 17:00:01] Reintent 1/2...
+[2026-04-27 17:00:03] HTTP status: 403
+[2026-04-27 17:00:03] Reintent 2/2...
+[2026-04-27 17:00:05] HTTP status: 403
+[2026-04-27 17:00:05] Resultat: CAIGUT
+[2026-04-27 17:00:05] Estat anterior: CAIGUT
+[2026-04-27 17:00:05] Sense canvis, no s'envia res
+[2026-04-27 17:00:05] Comprovant: https://github.com/
+[2026-04-27 17:00:06] HTTP status: 200
+[2026-04-27 17:00:06] Resultat: OK
+[2026-04-27 17:00:06] Estat anterior: OK
+[2026-04-27 17:00:06] Sense canvis, no s'envia res
+[2026-04-27 17:00:06] Comprovant: https://mail.google.com/
+[2026-04-27 17:00:07] HTTP status: 200
+[2026-04-27 17:00:07] Resultat: OK
+[2026-04-27 17:00:07] Estat anterior: OK
+[2026-04-27 17:00:07] Sense canvis, no s'envia res
+[2026-04-27 17:00:07] === FI ===
+[2026-04-27 17:15:00] === INICI ===
+[2026-04-27 17:15:00] .env carregat
+[2026-04-27 17:15:00] Config OK
+[2026-04-27 17:15:00] Comprovant: https://moxfield.com/
+[2026-04-27 17:15:01] HTTP status: 403
+[2026-04-27 17:15:01] Reintent 1/2...
+[2026-04-27 17:15:03] HTTP status: 403
+[2026-04-27 17:15:03] Reintent 2/2...
+[2026-04-27 17:15:05] HTTP status: 403
+[2026-04-27 17:15:05] Resultat: CAIGUT
+[2026-04-27 17:15:05] Estat anterior: CAIGUT
+[2026-04-27 17:15:05] Sense canvis, no s'envia res
+[2026-04-27 17:15:05] Comprovant: https://github.com/
+[2026-04-27 17:15:05] HTTP status: 200
+[2026-04-27 17:15:05] Resultat: OK
+[2026-04-27 17:15:05] Estat anterior: OK
+[2026-04-27 17:15:05] Sense canvis, no s'envia res
+[2026-04-27 17:15:05] Comprovant: https://mail.google.com/
+[2026-04-27 17:15:06] HTTP status: 200
+[2026-04-27 17:15:06] Resultat: OK
+[2026-04-27 17:15:06] Estat anterior: OK
+[2026-04-27 17:15:06] Sense canvis, no s'envia res
+[2026-04-27 17:15:06] === FI ===
+[2026-04-27 17:30:00] === INICI ===
+[2026-04-27 17:30:01] .env carregat
+[2026-04-27 17:30:01] Config OK
+[2026-04-27 17:30:01] Comprovant: https://moxfield.com/
+[2026-04-27 17:30:01] HTTP status: 403
+[2026-04-27 17:30:01] Reintent 1/2...
+[2026-04-27 17:30:03] HTTP status: 403
+[2026-04-27 17:30:03] Reintent 2/2...
+[2026-04-27 17:30:05] HTTP status: 403
+[2026-04-27 17:30:05] Resultat: CAIGUT
+[2026-04-27 17:30:05] Estat anterior: CAIGUT
+[2026-04-27 17:30:05] Sense canvis, no s'envia res
+[2026-04-27 17:30:05] Comprovant: https://github.com/
+[2026-04-27 17:30:06] HTTP status: 200
+[2026-04-27 17:30:06] Resultat: OK
+[2026-04-27 17:30:06] Estat anterior: OK
+[2026-04-27 17:30:06] Sense canvis, no s'envia res
+[2026-04-27 17:30:06] Comprovant: https://mail.google.com/
+[2026-04-27 17:30:07] HTTP status: 200
+[2026-04-27 17:30:07] Resultat: OK
+[2026-04-27 17:30:07] Estat anterior: OK
+[2026-04-27 17:30:07] Sense canvis, no s'envia res
+[2026-04-27 17:30:07] === FI ===
+[2026-04-27 17:45:00] === INICI ===
+[2026-04-27 17:45:01] .env carregat
+[2026-04-27 17:45:01] Config OK
+[2026-04-27 17:45:01] Comprovant: https://moxfield.com/
+[2026-04-27 17:45:01] HTTP status: 403
+[2026-04-27 17:45:01] Reintent 1/2...
+[2026-04-27 17:45:03] HTTP status: 403
+[2026-04-27 17:45:03] Reintent 2/2...
+[2026-04-27 17:45:05] HTTP status: 403
+[2026-04-27 17:45:05] Resultat: CAIGUT
+[2026-04-27 17:45:05] Estat anterior: CAIGUT
+[2026-04-27 17:45:05] Sense canvis, no s'envia res
+[2026-04-27 17:45:05] Comprovant: https://github.com/
+[2026-04-27 17:45:06] HTTP status: 200
+[2026-04-27 17:45:06] Resultat: OK
+[2026-04-27 17:45:06] Estat anterior: OK
+[2026-04-27 17:45:06] Sense canvis, no s'envia res
+[2026-04-27 17:45:06] Comprovant: https://mail.google.com/
+[2026-04-27 17:45:06] HTTP status: 200
+[2026-04-27 17:45:06] Resultat: OK
+[2026-04-27 17:45:06] Estat anterior: OK
+[2026-04-27 17:45:06] Sense canvis, no s'envia res
+[2026-04-27 17:45:06] === FI ===
+[2026-04-27 18:00:00] === INICI ===
+[2026-04-27 18:00:01] .env carregat
+[2026-04-27 18:00:01] Config OK
+[2026-04-27 18:00:01] Comprovant: https://moxfield.com/
+[2026-04-27 18:00:01] HTTP status: 403
+[2026-04-27 18:00:01] Reintent 1/2...
+[2026-04-27 18:00:03] HTTP status: 403
+[2026-04-27 18:00:03] Reintent 2/2...
+[2026-04-27 18:00:05] HTTP status: 403
+[2026-04-27 18:00:05] Resultat: CAIGUT
+[2026-04-27 18:00:05] Estat anterior: CAIGUT
+[2026-04-27 18:00:05] Sense canvis, no s'envia res
+[2026-04-27 18:00:05] Comprovant: https://github.com/
+[2026-04-27 18:00:06] HTTP status: 200
+[2026-04-27 18:00:06] Resultat: OK
+[2026-04-27 18:00:06] Estat anterior: OK
+[2026-04-27 18:00:06] Sense canvis, no s'envia res
+[2026-04-27 18:00:06] Comprovant: https://mail.google.com/
+[2026-04-27 18:00:06] HTTP status: 200
+[2026-04-27 18:00:06] Resultat: OK
+[2026-04-27 18:00:06] Estat anterior: OK
+[2026-04-27 18:00:06] Sense canvis, no s'envia res
+[2026-04-27 18:00:06] === FI ===
+[2026-04-27 18:15:00] === INICI ===
+[2026-04-27 18:15:00] .env carregat
+[2026-04-27 18:15:01] Config OK
+[2026-04-27 18:15:01] Comprovant: https://moxfield.com/
+[2026-04-27 18:15:01] HTTP status: 403
+[2026-04-27 18:15:01] Reintent 1/2...
+[2026-04-27 18:15:03] HTTP status: 403
+[2026-04-27 18:15:03] Reintent 2/2...
+[2026-04-27 18:15:05] HTTP status: 403
+[2026-04-27 18:15:05] Resultat: CAIGUT
+[2026-04-27 18:15:05] Estat anterior: CAIGUT
+[2026-04-27 18:15:05] Sense canvis, no s'envia res
+[2026-04-27 18:15:05] Comprovant: https://github.com/
+[2026-04-27 18:15:05] HTTP status: 200
+[2026-04-27 18:15:05] Resultat: OK
+[2026-04-27 18:15:05] Estat anterior: OK
+[2026-04-27 18:15:05] Sense canvis, no s'envia res
+[2026-04-27 18:15:05] Comprovant: https://mail.google.com/
+[2026-04-27 18:15:06] HTTP status: 200
+[2026-04-27 18:15:06] Resultat: OK
+[2026-04-27 18:15:06] Estat anterior: OK
+[2026-04-27 18:15:06] Sense canvis, no s'envia res
+[2026-04-27 18:15:06] === FI ===
+[2026-04-27 18:30:00] === INICI ===
+[2026-04-27 18:30:01] .env carregat
+[2026-04-27 18:30:01] Config OK
+[2026-04-27 18:30:01] Comprovant: https://moxfield.com/
+[2026-04-27 18:30:01] HTTP status: 403
+[2026-04-27 18:30:01] Reintent 1/2...
+[2026-04-27 18:30:03] HTTP status: 403
+[2026-04-27 18:30:03] Reintent 2/2...
+[2026-04-27 18:30:05] HTTP status: 403
+[2026-04-27 18:30:05] Resultat: CAIGUT
+[2026-04-27 18:30:05] Estat anterior: CAIGUT
+[2026-04-27 18:30:05] Sense canvis, no s'envia res
+[2026-04-27 18:30:05] Comprovant: https://github.com/
+[2026-04-27 18:30:06] HTTP status: 200
+[2026-04-27 18:30:06] Resultat: OK
+[2026-04-27 18:30:06] Estat anterior: OK
+[2026-04-27 18:30:06] Sense canvis, no s'envia res
+[2026-04-27 18:30:06] Comprovant: https://mail.google.com/
+[2026-04-27 18:30:07] HTTP status: 200
+[2026-04-27 18:30:07] Resultat: OK
+[2026-04-27 18:30:07] Estat anterior: OK
+[2026-04-27 18:30:07] Sense canvis, no s'envia res
+[2026-04-27 18:30:07] === FI ===
+[2026-04-27 18:45:00] === INICI ===
+[2026-04-27 18:45:01] .env carregat
+[2026-04-27 18:45:01] Config OK
+[2026-04-27 18:45:01] Comprovant: https://moxfield.com/
+[2026-04-27 18:45:01] HTTP status: 403
+[2026-04-27 18:45:01] Reintent 1/2...
+[2026-04-27 18:45:03] HTTP status: 403
+[2026-04-27 18:45:03] Reintent 2/2...
+[2026-04-27 18:45:05] HTTP status: 403
+[2026-04-27 18:45:05] Resultat: CAIGUT
+[2026-04-27 18:45:05] Estat anterior: CAIGUT
+[2026-04-27 18:45:05] Sense canvis, no s'envia res
+[2026-04-27 18:45:05] Comprovant: https://github.com/
+[2026-04-27 18:45:06] HTTP status: 200
+[2026-04-27 18:45:06] Resultat: OK
+[2026-04-27 18:45:06] Estat anterior: OK
+[2026-04-27 18:45:06] Sense canvis, no s'envia res
+[2026-04-27 18:45:06] Comprovant: https://mail.google.com/
+[2026-04-27 18:45:06] HTTP status: 200
+[2026-04-27 18:45:06] Resultat: OK
+[2026-04-27 18:45:06] Estat anterior: OK
+[2026-04-27 18:45:06] Sense canvis, no s'envia res
+[2026-04-27 18:45:06] === FI ===
+[2026-04-27 19:00:01] === INICI ===
+[2026-04-27 19:00:01] .env carregat
+[2026-04-27 19:00:01] Config OK
+[2026-04-27 19:00:01] Comprovant: https://moxfield.com/
+[2026-04-27 19:00:01] HTTP status: 403
+[2026-04-27 19:00:01] Reintent 1/2...
+[2026-04-27 19:00:03] HTTP status: 403
+[2026-04-27 19:00:03] Reintent 2/2...
+[2026-04-27 19:00:05] HTTP status: 403
+[2026-04-27 19:00:05] Resultat: CAIGUT
+[2026-04-27 19:00:05] Estat anterior: CAIGUT
+[2026-04-27 19:00:05] Sense canvis, no s'envia res
+[2026-04-27 19:00:05] Comprovant: https://github.com/
+[2026-04-27 19:00:06] HTTP status: 200
+[2026-04-27 19:00:06] Resultat: OK
+[2026-04-27 19:00:06] Estat anterior: OK
+[2026-04-27 19:00:06] Sense canvis, no s'envia res
+[2026-04-27 19:00:06] Comprovant: https://mail.google.com/
+[2026-04-27 19:00:06] HTTP status: 200
+[2026-04-27 19:00:06] Resultat: OK
+[2026-04-27 19:00:06] Estat anterior: OK
+[2026-04-27 19:00:06] Sense canvis, no s'envia res
+[2026-04-27 19:00:06] === FI ===
+[2026-04-27 19:15:00] === INICI ===
+[2026-04-27 19:15:00] .env carregat
+[2026-04-27 19:15:00] Config OK
+[2026-04-27 19:15:01] Comprovant: https://moxfield.com/
+[2026-04-27 19:15:01] HTTP status: 403
+[2026-04-27 19:15:01] Reintent 1/2...
+[2026-04-27 19:15:03] HTTP status: 403
+[2026-04-27 19:15:03] Reintent 2/2...
+[2026-04-27 19:15:05] HTTP status: 403
+[2026-04-27 19:15:05] Resultat: CAIGUT
+[2026-04-27 19:15:05] Estat anterior: CAIGUT
+[2026-04-27 19:15:05] Sense canvis, no s'envia res
+[2026-04-27 19:15:05] Comprovant: https://github.com/
+[2026-04-27 19:15:06] HTTP status: 200
+[2026-04-27 19:15:06] Resultat: OK
+[2026-04-27 19:15:06] Estat anterior: OK
+[2026-04-27 19:15:06] Sense canvis, no s'envia res
+[2026-04-27 19:15:06] Comprovant: https://mail.google.com/
+[2026-04-27 19:15:07] HTTP status: 200
+[2026-04-27 19:15:07] Resultat: OK
+[2026-04-27 19:15:07] Estat anterior: OK
+[2026-04-27 19:15:07] Sense canvis, no s'envia res
+[2026-04-27 19:15:07] === FI ===
+[2026-04-27 19:30:01] === INICI ===
+[2026-04-27 19:30:01] .env carregat
+[2026-04-27 19:30:01] Config OK
+[2026-04-27 19:30:01] Comprovant: https://moxfield.com/
+[2026-04-27 19:30:01] HTTP status: 403
+[2026-04-27 19:30:01] Reintent 1/2...
+[2026-04-27 19:30:03] HTTP status: 403
+[2026-04-27 19:30:03] Reintent 2/2...
+[2026-04-27 19:30:05] HTTP status: 403
+[2026-04-27 19:30:05] Resultat: CAIGUT
+[2026-04-27 19:30:05] Estat anterior: CAIGUT
+[2026-04-27 19:30:05] Sense canvis, no s'envia res
+[2026-04-27 19:30:05] Comprovant: https://github.com/
+[2026-04-27 19:30:06] HTTP status: 200
+[2026-04-27 19:30:06] Resultat: OK
+[2026-04-27 19:30:06] Estat anterior: OK
+[2026-04-27 19:30:06] Sense canvis, no s'envia res
+[2026-04-27 19:30:06] Comprovant: https://mail.google.com/
+[2026-04-27 19:30:07] HTTP status: 200
+[2026-04-27 19:30:07] Resultat: OK
+[2026-04-27 19:30:07] Estat anterior: OK
+[2026-04-27 19:30:07] Sense canvis, no s'envia res
+[2026-04-27 19:30:07] === FI ===
+[2026-04-27 19:45:00] === INICI ===
+[2026-04-27 19:45:01] .env carregat
+[2026-04-27 19:45:01] Config OK
+[2026-04-27 19:45:01] Comprovant: https://moxfield.com/
+[2026-04-27 19:45:01] HTTP status: 403
+[2026-04-27 19:45:01] Reintent 1/2...
+[2026-04-27 19:45:03] HTTP status: 403
+[2026-04-27 19:45:03] Reintent 2/2...
+[2026-04-27 19:45:05] HTTP status: 403
+[2026-04-27 19:45:05] Resultat: CAIGUT
+[2026-04-27 19:45:05] Estat anterior: CAIGUT
+[2026-04-27 19:45:05] Sense canvis, no s'envia res
+[2026-04-27 19:45:05] Comprovant: https://github.com/
+[2026-04-27 19:45:06] HTTP status: 200
+[2026-04-27 19:45:06] Resultat: OK
+[2026-04-27 19:45:06] Estat anterior: OK
+[2026-04-27 19:45:06] Sense canvis, no s'envia res
+[2026-04-27 19:45:06] Comprovant: https://mail.google.com/
+[2026-04-27 19:45:06] HTTP status: 200
+[2026-04-27 19:45:06] Resultat: OK
+[2026-04-27 19:45:06] Estat anterior: OK
+[2026-04-27 19:45:06] Sense canvis, no s'envia res
+[2026-04-27 19:45:06] === FI ===
+[2026-04-27 20:00:00] === INICI ===
+[2026-04-27 20:00:01] .env carregat
+[2026-04-27 20:00:01] Config OK
+[2026-04-27 20:00:01] Comprovant: https://moxfield.com/
+[2026-04-27 20:00:01] HTTP status: 403
+[2026-04-27 20:00:01] Reintent 1/2...
+[2026-04-27 20:00:03] HTTP status: 403
+[2026-04-27 20:00:03] Reintent 2/2...
+[2026-04-27 20:00:05] HTTP status: 403
+[2026-04-27 20:00:05] Resultat: CAIGUT
+[2026-04-27 20:00:05] Estat anterior: CAIGUT
+[2026-04-27 20:00:05] Sense canvis, no s'envia res
+[2026-04-27 20:00:05] Comprovant: https://github.com/
+[2026-04-27 20:00:06] HTTP status: 200
+[2026-04-27 20:00:06] Resultat: OK
+[2026-04-27 20:00:06] Estat anterior: OK
+[2026-04-27 20:00:06] Sense canvis, no s'envia res
+[2026-04-27 20:00:06] Comprovant: https://mail.google.com/
+[2026-04-27 20:00:07] HTTP status: 200
+[2026-04-27 20:00:07] Resultat: OK
+[2026-04-27 20:00:07] Estat anterior: OK
+[2026-04-27 20:00:07] Sense canvis, no s'envia res
+[2026-04-27 20:00:07] === FI ===
+[2026-04-27 20:15:00] === INICI ===
+[2026-04-27 20:15:01] .env carregat
+[2026-04-27 20:15:01] Config OK
+[2026-04-27 20:15:01] Comprovant: https://moxfield.com/
+[2026-04-27 20:15:01] HTTP status: 403
+[2026-04-27 20:15:01] Reintent 1/2...
+[2026-04-27 20:15:03] HTTP status: 403
+[2026-04-27 20:15:03] Reintent 2/2...
+[2026-04-27 20:15:05] HTTP status: 403
+[2026-04-27 20:15:05] Resultat: CAIGUT
+[2026-04-27 20:15:05] Estat anterior: CAIGUT
+[2026-04-27 20:15:05] Sense canvis, no s'envia res
+[2026-04-27 20:15:05] Comprovant: https://github.com/
+[2026-04-27 20:15:06] HTTP status: 200
+[2026-04-27 20:15:06] Resultat: OK
+[2026-04-27 20:15:06] Estat anterior: OK
+[2026-04-27 20:15:06] Sense canvis, no s'envia res
+[2026-04-27 20:15:06] Comprovant: https://mail.google.com/
+[2026-04-27 20:15:07] HTTP status: 200
+[2026-04-27 20:15:07] Resultat: OK
+[2026-04-27 20:15:07] Estat anterior: OK
+[2026-04-27 20:15:07] Sense canvis, no s'envia res
+[2026-04-27 20:15:07] === FI ===
+[2026-04-27 20:30:00] === INICI ===
+[2026-04-27 20:30:01] .env carregat
+[2026-04-27 20:30:01] Config OK
+[2026-04-27 20:30:01] Comprovant: https://moxfield.com/
+[2026-04-27 20:30:01] HTTP status: 403
+[2026-04-27 20:30:01] Reintent 1/2...
+[2026-04-27 20:30:03] HTTP status: 403
+[2026-04-27 20:30:03] Reintent 2/2...
+[2026-04-27 20:30:05] HTTP status: 403
+[2026-04-27 20:30:05] Resultat: CAIGUT
+[2026-04-27 20:30:05] Estat anterior: CAIGUT
+[2026-04-27 20:30:05] Sense canvis, no s'envia res
+[2026-04-27 20:30:05] Comprovant: https://github.com/
+[2026-04-27 20:30:06] HTTP status: 200
+[2026-04-27 20:30:06] Resultat: OK
+[2026-04-27 20:30:06] Estat anterior: OK
+[2026-04-27 20:30:06] Sense canvis, no s'envia res
+[2026-04-27 20:30:06] Comprovant: https://mail.google.com/
+[2026-04-27 20:30:07] HTTP status: 200
+[2026-04-27 20:30:07] Resultat: OK
+[2026-04-27 20:30:07] Estat anterior: OK
+[2026-04-27 20:30:07] Sense canvis, no s'envia res
+[2026-04-27 20:30:07] === FI ===
+[2026-04-27 20:45:00] === INICI ===
+[2026-04-27 20:45:00] .env carregat
+[2026-04-27 20:45:00] Config OK
+[2026-04-27 20:45:01] Comprovant: https://moxfield.com/
+[2026-04-27 20:45:01] HTTP status: 403
+[2026-04-27 20:45:01] Reintent 1/2...
+[2026-04-27 20:45:03] HTTP status: 403
+[2026-04-27 20:45:03] Reintent 2/2...
+[2026-04-27 20:45:05] HTTP status: 403
+[2026-04-27 20:45:05] Resultat: CAIGUT
+[2026-04-27 20:45:05] Estat anterior: CAIGUT
+[2026-04-27 20:45:05] Sense canvis, no s'envia res
+[2026-04-27 20:45:05] Comprovant: https://github.com/
+[2026-04-27 20:45:06] HTTP status: 200
+[2026-04-27 20:45:06] Resultat: OK
+[2026-04-27 20:45:06] Estat anterior: OK
+[2026-04-27 20:45:06] Sense canvis, no s'envia res
+[2026-04-27 20:45:06] Comprovant: https://mail.google.com/
+[2026-04-27 20:45:07] HTTP status: 200
+[2026-04-27 20:45:07] Resultat: OK
+[2026-04-27 20:45:07] Estat anterior: OK
+[2026-04-27 20:45:07] Sense canvis, no s'envia res
+[2026-04-27 20:45:07] === FI ===
+[2026-04-27 21:00:01] === INICI ===
+[2026-04-27 21:00:01] .env carregat
+[2026-04-27 21:00:01] Config OK
+[2026-04-27 21:00:01] Comprovant: https://moxfield.com/
+[2026-04-27 21:00:01] HTTP status: 403
+[2026-04-27 21:00:01] Reintent 1/2...
+[2026-04-27 21:00:03] HTTP status: 403
+[2026-04-27 21:00:03] Reintent 2/2...
+[2026-04-27 21:00:05] HTTP status: 403
+[2026-04-27 21:00:05] Resultat: CAIGUT
+[2026-04-27 21:00:05] Estat anterior: CAIGUT
+[2026-04-27 21:00:05] Sense canvis, no s'envia res
+[2026-04-27 21:00:05] Comprovant: https://github.com/
+[2026-04-27 21:00:06] HTTP status: 200
+[2026-04-27 21:00:06] Resultat: OK
+[2026-04-27 21:00:06] Estat anterior: OK
+[2026-04-27 21:00:06] Sense canvis, no s'envia res
+[2026-04-27 21:00:06] Comprovant: https://mail.google.com/
+[2026-04-27 21:00:07] HTTP status: 200
+[2026-04-27 21:00:07] Resultat: OK
+[2026-04-27 21:00:07] Estat anterior: OK
+[2026-04-27 21:00:07] Sense canvis, no s'envia res
+[2026-04-27 21:00:07] === FI ===
+[2026-04-27 21:15:00] === INICI ===
+[2026-04-27 21:15:00] .env carregat
+[2026-04-27 21:15:00] Config OK
+[2026-04-27 21:15:00] Comprovant: https://moxfield.com/
+[2026-04-27 21:15:01] HTTP status: 403
+[2026-04-27 21:15:01] Reintent 1/2...
+[2026-04-27 21:15:03] HTTP status: 403
+[2026-04-27 21:15:03] Reintent 2/2...
+[2026-04-27 21:15:05] HTTP status: 403
+[2026-04-27 21:15:05] Resultat: CAIGUT
+[2026-04-27 21:15:05] Estat anterior: CAIGUT
+[2026-04-27 21:15:05] Sense canvis, no s'envia res
+[2026-04-27 21:15:05] Comprovant: https://github.com/
+[2026-04-27 21:15:06] HTTP status: 200
+[2026-04-27 21:15:06] Resultat: OK
+[2026-04-27 21:15:06] Estat anterior: OK
+[2026-04-27 21:15:06] Sense canvis, no s'envia res
+[2026-04-27 21:15:06] Comprovant: https://mail.google.com/
+[2026-04-27 21:15:07] HTTP status: 200
+[2026-04-27 21:15:07] Resultat: OK
+[2026-04-27 21:15:07] Estat anterior: OK
+[2026-04-27 21:15:07] Sense canvis, no s'envia res
+[2026-04-27 21:15:07] === FI ===
+[2026-04-27 21:30:01] === INICI ===
+[2026-04-27 21:30:01] .env carregat
+[2026-04-27 21:30:01] Config OK
+[2026-04-27 21:30:01] Comprovant: https://moxfield.com/
+[2026-04-27 21:30:01] HTTP status: 403
+[2026-04-27 21:30:01] Reintent 1/2...
+[2026-04-27 21:30:03] HTTP status: 403
+[2026-04-27 21:30:03] Reintent 2/2...
+[2026-04-27 21:30:05] HTTP status: 403
+[2026-04-27 21:30:05] Resultat: CAIGUT
+[2026-04-27 21:30:05] Estat anterior: CAIGUT
+[2026-04-27 21:30:05] Sense canvis, no s'envia res
+[2026-04-27 21:30:05] Comprovant: https://github.com/
+[2026-04-27 21:30:06] HTTP status: 200
+[2026-04-27 21:30:06] Resultat: OK
+[2026-04-27 21:30:06] Estat anterior: OK
+[2026-04-27 21:30:06] Sense canvis, no s'envia res
+[2026-04-27 21:30:06] Comprovant: https://mail.google.com/
+[2026-04-27 21:30:07] HTTP status: 200
+[2026-04-27 21:30:07] Resultat: OK
+[2026-04-27 21:30:07] Estat anterior: OK
+[2026-04-27 21:30:07] Sense canvis, no s'envia res
+[2026-04-27 21:30:07] === FI ===
+[2026-04-27 21:45:00] === INICI ===
+[2026-04-27 21:45:01] .env carregat
+[2026-04-27 21:45:01] Config OK
+[2026-04-27 21:45:01] Comprovant: https://moxfield.com/
+[2026-04-27 21:45:01] HTTP status: 403
+[2026-04-27 21:45:01] Reintent 1/2...
+[2026-04-27 21:45:03] HTTP status: 403
+[2026-04-27 21:45:03] Reintent 2/2...
+[2026-04-27 21:45:05] HTTP status: 403
+[2026-04-27 21:45:05] Resultat: CAIGUT
+[2026-04-27 21:45:05] Estat anterior: CAIGUT
+[2026-04-27 21:45:05] Sense canvis, no s'envia res
+[2026-04-27 21:45:05] Comprovant: https://github.com/
+[2026-04-27 21:45:06] HTTP status: 200
+[2026-04-27 21:45:06] Resultat: OK
+[2026-04-27 21:45:06] Estat anterior: OK
+[2026-04-27 21:45:06] Sense canvis, no s'envia res
+[2026-04-27 21:45:06] Comprovant: https://mail.google.com/
+[2026-04-27 21:45:06] HTTP status: 200
+[2026-04-27 21:45:06] Resultat: OK
+[2026-04-27 21:45:06] Estat anterior: OK
+[2026-04-27 21:45:06] Sense canvis, no s'envia res
+[2026-04-27 21:45:06] === FI ===
+[2026-04-27 22:00:00] === INICI ===
+[2026-04-27 22:00:00] .env carregat
+[2026-04-27 22:00:00] Config OK
+[2026-04-27 22:00:01] Comprovant: https://moxfield.com/
+[2026-04-27 22:00:01] HTTP status: 403
+[2026-04-27 22:00:01] Reintent 1/2...
+[2026-04-27 22:00:03] HTTP status: 403
+[2026-04-27 22:00:03] Reintent 2/2...
+[2026-04-27 22:00:05] HTTP status: 403
+[2026-04-27 22:00:05] Resultat: CAIGUT
+[2026-04-27 22:00:05] Estat anterior: CAIGUT
+[2026-04-27 22:00:05] Sense canvis, no s'envia res
+[2026-04-27 22:00:05] Comprovant: https://github.com/
+[2026-04-27 22:00:05] HTTP status: 200
+[2026-04-27 22:00:05] Resultat: OK
+[2026-04-27 22:00:05] Estat anterior: OK
+[2026-04-27 22:00:05] Sense canvis, no s'envia res
+[2026-04-27 22:00:05] Comprovant: https://mail.google.com/
+[2026-04-27 22:00:06] HTTP status: 200
+[2026-04-27 22:00:06] Resultat: OK
+[2026-04-27 22:00:06] Estat anterior: OK
+[2026-04-27 22:00:06] Sense canvis, no s'envia res
+[2026-04-27 22:00:06] === FI ===
+[2026-04-27 22:15:00] === INICI ===
+[2026-04-27 22:15:00] .env carregat
+[2026-04-27 22:15:00] Config OK
+[2026-04-27 22:15:00] Comprovant: https://moxfield.com/
+[2026-04-27 22:15:01] HTTP status: 403
+[2026-04-27 22:15:01] Reintent 1/2...
+[2026-04-27 22:15:03] HTTP status: 403
+[2026-04-27 22:15:03] Reintent 2/2...
+[2026-04-27 22:15:05] HTTP status: 403
+[2026-04-27 22:15:05] Resultat: CAIGUT
+[2026-04-27 22:15:05] Estat anterior: CAIGUT
+[2026-04-27 22:15:05] Sense canvis, no s'envia res
+[2026-04-27 22:15:05] Comprovant: https://github.com/
+[2026-04-27 22:15:05] HTTP status: 200
+[2026-04-27 22:15:05] Resultat: OK
+[2026-04-27 22:15:05] Estat anterior: OK
+[2026-04-27 22:15:05] Sense canvis, no s'envia res
+[2026-04-27 22:15:05] Comprovant: https://mail.google.com/
+[2026-04-27 22:15:06] HTTP status: 200
+[2026-04-27 22:15:06] Resultat: OK
+[2026-04-27 22:15:06] Estat anterior: OK
+[2026-04-27 22:15:06] Sense canvis, no s'envia res
+[2026-04-27 22:15:06] === FI ===
+[2026-04-27 22:30:00] === INICI ===
+[2026-04-27 22:30:01] .env carregat
+[2026-04-27 22:30:01] Config OK
+[2026-04-27 22:30:01] Comprovant: https://moxfield.com/
+[2026-04-27 22:30:01] HTTP status: 403
+[2026-04-27 22:30:01] Reintent 1/2...
+[2026-04-27 22:30:03] HTTP status: 403
+[2026-04-27 22:30:03] Reintent 2/2...
+[2026-04-27 22:30:05] HTTP status: 403
+[2026-04-27 22:30:05] Resultat: CAIGUT
+[2026-04-27 22:30:05] Estat anterior: CAIGUT
+[2026-04-27 22:30:05] Sense canvis, no s'envia res
+[2026-04-27 22:30:05] Comprovant: https://github.com/
+[2026-04-27 22:30:06] HTTP status: 200
+[2026-04-27 22:30:06] Resultat: OK
+[2026-04-27 22:30:06] Estat anterior: OK
+[2026-04-27 22:30:06] Sense canvis, no s'envia res
+[2026-04-27 22:30:06] Comprovant: https://mail.google.com/
+[2026-04-27 22:30:07] HTTP status: 200
+[2026-04-27 22:30:07] Resultat: OK
+[2026-04-27 22:30:07] Estat anterior: OK
+[2026-04-27 22:30:07] Sense canvis, no s'envia res
+[2026-04-27 22:30:07] === FI ===
+[2026-04-27 22:45:00] === INICI ===
+[2026-04-27 22:45:00] .env carregat
+[2026-04-27 22:45:00] Config OK
+[2026-04-27 22:45:00] Comprovant: https://moxfield.com/
+[2026-04-27 22:45:01] HTTP status: 403
+[2026-04-27 22:45:01] Reintent 1/2...
+[2026-04-27 22:45:03] HTTP status: 403
+[2026-04-27 22:45:03] Reintent 2/2...
+[2026-04-27 22:45:05] HTTP status: 403
+[2026-04-27 22:45:05] Resultat: CAIGUT
+[2026-04-27 22:45:05] Estat anterior: CAIGUT
+[2026-04-27 22:45:05] Sense canvis, no s'envia res
+[2026-04-27 22:45:05] Comprovant: https://github.com/
+[2026-04-27 22:45:05] HTTP status: 200
+[2026-04-27 22:45:05] Resultat: OK
+[2026-04-27 22:45:05] Estat anterior: OK
+[2026-04-27 22:45:05] Sense canvis, no s'envia res
+[2026-04-27 22:45:05] Comprovant: https://mail.google.com/
+[2026-04-27 22:45:06] HTTP status: 200
+[2026-04-27 22:45:06] Resultat: OK
+[2026-04-27 22:45:06] Estat anterior: OK
+[2026-04-27 22:45:06] Sense canvis, no s'envia res
+[2026-04-27 22:45:06] === FI ===
+[2026-04-27 23:00:00] === INICI ===
+[2026-04-27 23:00:00] .env carregat
+[2026-04-27 23:00:00] Config OK
+[2026-04-27 23:00:00] Comprovant: https://moxfield.com/
+[2026-04-27 23:00:01] HTTP status: 403
+[2026-04-27 23:00:01] Reintent 1/2...
+[2026-04-27 23:00:03] HTTP status: 403
+[2026-04-27 23:00:03] Reintent 2/2...
+[2026-04-27 23:00:05] HTTP status: 403
+[2026-04-27 23:00:05] Resultat: CAIGUT
+[2026-04-27 23:00:05] Estat anterior: CAIGUT
+[2026-04-27 23:00:05] Sense canvis, no s'envia res
+[2026-04-27 23:00:05] Comprovant: https://github.com/
+[2026-04-27 23:00:06] HTTP status: 200
+[2026-04-27 23:00:06] Resultat: OK
+[2026-04-27 23:00:06] Estat anterior: OK
+[2026-04-27 23:00:06] Sense canvis, no s'envia res
+[2026-04-27 23:00:06] Comprovant: https://mail.google.com/
+[2026-04-27 23:00:07] HTTP status: 200
+[2026-04-27 23:00:07] Resultat: OK
+[2026-04-27 23:00:07] Estat anterior: OK
+[2026-04-27 23:00:07] Sense canvis, no s'envia res
+[2026-04-27 23:00:07] === FI ===
+[2026-04-27 23:15:00] === INICI ===
+[2026-04-27 23:15:00] .env carregat
+[2026-04-27 23:15:00] Config OK
+[2026-04-27 23:15:00] Comprovant: https://moxfield.com/
+[2026-04-27 23:15:01] HTTP status: 403
+[2026-04-27 23:15:01] Reintent 1/2...
+[2026-04-27 23:15:03] HTTP status: 403
+[2026-04-27 23:15:03] Reintent 2/2...
+[2026-04-27 23:15:05] HTTP status: 403
+[2026-04-27 23:15:05] Resultat: CAIGUT
+[2026-04-27 23:15:05] Estat anterior: CAIGUT
+[2026-04-27 23:15:05] Sense canvis, no s'envia res
+[2026-04-27 23:15:05] Comprovant: https://github.com/
+[2026-04-27 23:15:05] HTTP status: 200
+[2026-04-27 23:15:05] Resultat: OK
+[2026-04-27 23:15:05] Estat anterior: OK
+[2026-04-27 23:15:05] Sense canvis, no s'envia res
+[2026-04-27 23:15:05] Comprovant: https://mail.google.com/
+[2026-04-27 23:15:06] HTTP status: 200
+[2026-04-27 23:15:06] Resultat: OK
+[2026-04-27 23:15:06] Estat anterior: OK
+[2026-04-27 23:15:06] Sense canvis, no s'envia res
+[2026-04-27 23:15:06] === FI ===
+[2026-04-27 23:30:00] === INICI ===
+[2026-04-27 23:30:00] .env carregat
+[2026-04-27 23:30:00] Config OK
+[2026-04-27 23:30:00] Comprovant: https://moxfield.com/
+[2026-04-27 23:30:01] HTTP status: 403
+[2026-04-27 23:30:01] Reintent 1/2...
+[2026-04-27 23:30:03] HTTP status: 403
+[2026-04-27 23:30:03] Reintent 2/2...
+[2026-04-27 23:30:05] HTTP status: 403
+[2026-04-27 23:30:05] Resultat: CAIGUT
+[2026-04-27 23:30:05] Estat anterior: CAIGUT
+[2026-04-27 23:30:05] Sense canvis, no s'envia res
+[2026-04-27 23:30:05] Comprovant: https://github.com/
+[2026-04-27 23:30:05] HTTP status: 200
+[2026-04-27 23:30:05] Resultat: OK
+[2026-04-27 23:30:05] Estat anterior: OK
+[2026-04-27 23:30:05] Sense canvis, no s'envia res
+[2026-04-27 23:30:05] Comprovant: https://mail.google.com/
+[2026-04-27 23:30:06] HTTP status: 200
+[2026-04-27 23:30:06] Resultat: OK
+[2026-04-27 23:30:06] Estat anterior: OK
+[2026-04-27 23:30:06] Sense canvis, no s'envia res
+[2026-04-27 23:30:06] === FI ===
+[2026-04-27 23:45:00] === INICI ===
+[2026-04-27 23:45:00] .env carregat
+[2026-04-27 23:45:00] Config OK
+[2026-04-27 23:45:00] Comprovant: https://moxfield.com/
+[2026-04-27 23:45:01] HTTP status: 403
+[2026-04-27 23:45:01] Reintent 1/2...
+[2026-04-27 23:45:03] HTTP status: 403
+[2026-04-27 23:45:03] Reintent 2/2...
+[2026-04-27 23:45:05] HTTP status: 403
+[2026-04-27 23:45:05] Resultat: CAIGUT
+[2026-04-27 23:45:05] Estat anterior: CAIGUT
+[2026-04-27 23:45:05] Sense canvis, no s'envia res
+[2026-04-27 23:45:05] Comprovant: https://github.com/
+[2026-04-27 23:45:05] HTTP status: 200
+[2026-04-27 23:45:05] Resultat: OK
+[2026-04-27 23:45:05] Estat anterior: OK
+[2026-04-27 23:45:05] Sense canvis, no s'envia res
+[2026-04-27 23:45:05] Comprovant: https://mail.google.com/
+[2026-04-27 23:45:06] HTTP status: 200
+[2026-04-27 23:45:06] Resultat: OK
+[2026-04-27 23:45:06] Estat anterior: OK
+[2026-04-27 23:45:06] Sense canvis, no s'envia res
+[2026-04-27 23:45:06] === FI ===
+[2026-04-28 00:00:00] === INICI ===
+[2026-04-28 00:00:00] .env carregat
+[2026-04-28 00:00:00] Config OK
+[2026-04-28 00:00:00] Comprovant: https://moxfield.com/
+[2026-04-28 00:00:01] HTTP status: 403
+[2026-04-28 00:00:01] Reintent 1/2...
+[2026-04-28 00:00:03] HTTP status: 403
+[2026-04-28 00:00:03] Reintent 2/2...
+[2026-04-28 00:00:05] HTTP status: 403
+[2026-04-28 00:00:05] Resultat: CAIGUT
+[2026-04-28 00:00:05] Estat anterior: CAIGUT
+[2026-04-28 00:00:05] Sense canvis, no s'envia res
+[2026-04-28 00:00:05] Comprovant: https://github.com/
+[2026-04-28 00:00:05] HTTP status: 200
+[2026-04-28 00:00:05] Resultat: OK
+[2026-04-28 00:00:05] Estat anterior: OK
+[2026-04-28 00:00:05] Sense canvis, no s'envia res
+[2026-04-28 00:00:05] Comprovant: https://mail.google.com/
+[2026-04-28 00:00:06] HTTP status: 200
+[2026-04-28 00:00:06] Resultat: OK
+[2026-04-28 00:00:06] Estat anterior: OK
+[2026-04-28 00:00:06] Sense canvis, no s'envia res
+[2026-04-28 00:00:06] === FI ===
+[2026-04-28 00:15:00] === INICI ===
+[2026-04-28 00:15:00] .env carregat
+[2026-04-28 00:15:00] Config OK
+[2026-04-28 00:15:00] Comprovant: https://moxfield.com/
+[2026-04-28 00:15:01] HTTP status: 403
+[2026-04-28 00:15:01] Reintent 1/2...
+[2026-04-28 00:15:03] HTTP status: 403
+[2026-04-28 00:15:03] Reintent 2/2...
+[2026-04-28 00:15:05] HTTP status: 403
+[2026-04-28 00:15:05] Resultat: CAIGUT
+[2026-04-28 00:15:05] Estat anterior: CAIGUT
+[2026-04-28 00:15:05] Sense canvis, no s'envia res
+[2026-04-28 00:15:05] Comprovant: https://github.com/
+[2026-04-28 00:15:05] HTTP status: 200
+[2026-04-28 00:15:05] Resultat: OK
+[2026-04-28 00:15:05] Estat anterior: OK
+[2026-04-28 00:15:05] Sense canvis, no s'envia res
+[2026-04-28 00:15:05] Comprovant: https://mail.google.com/
+[2026-04-28 00:15:06] HTTP status: 200
+[2026-04-28 00:15:06] Resultat: OK
+[2026-04-28 00:15:06] Estat anterior: OK
+[2026-04-28 00:15:06] Sense canvis, no s'envia res
+[2026-04-28 00:15:06] === FI ===
+[2026-04-28 00:30:00] === INICI ===
+[2026-04-28 00:30:01] .env carregat
+[2026-04-28 00:30:01] Config OK
+[2026-04-28 00:30:01] Comprovant: https://moxfield.com/
+[2026-04-28 00:30:01] HTTP status: 403
+[2026-04-28 00:30:01] Reintent 1/2...
+[2026-04-28 00:30:03] HTTP status: 403
+[2026-04-28 00:30:03] Reintent 2/2...
+[2026-04-28 00:30:05] HTTP status: 403
+[2026-04-28 00:30:05] Resultat: CAIGUT
+[2026-04-28 00:30:05] Estat anterior: CAIGUT
+[2026-04-28 00:30:05] Sense canvis, no s'envia res
+[2026-04-28 00:30:05] Comprovant: https://github.com/
+[2026-04-28 00:30:06] HTTP status: 200
+[2026-04-28 00:30:06] Resultat: OK
+[2026-04-28 00:30:06] Estat anterior: OK
+[2026-04-28 00:30:06] Sense canvis, no s'envia res
+[2026-04-28 00:30:06] Comprovant: https://mail.google.com/
+[2026-04-28 00:30:07] HTTP status: 200
+[2026-04-28 00:30:07] Resultat: OK
+[2026-04-28 00:30:07] Estat anterior: OK
+[2026-04-28 00:30:07] Sense canvis, no s'envia res
+[2026-04-28 00:30:07] === FI ===
+[2026-04-28 00:45:00] === INICI ===
+[2026-04-28 00:45:00] .env carregat
+[2026-04-28 00:45:00] Config OK
+[2026-04-28 00:45:00] Comprovant: https://moxfield.com/
+[2026-04-28 00:45:01] HTTP status: 403
+[2026-04-28 00:45:01] Reintent 1/2...
+[2026-04-28 00:45:03] HTTP status: 403
+[2026-04-28 00:45:03] Reintent 2/2...
+[2026-04-28 00:45:05] HTTP status: 403
+[2026-04-28 00:45:05] Resultat: CAIGUT
+[2026-04-28 00:45:05] Estat anterior: CAIGUT
+[2026-04-28 00:45:05] Sense canvis, no s'envia res
+[2026-04-28 00:45:05] Comprovant: https://github.com/
+[2026-04-28 00:45:05] HTTP status: 200
+[2026-04-28 00:45:05] Resultat: OK
+[2026-04-28 00:45:05] Estat anterior: OK
+[2026-04-28 00:45:05] Sense canvis, no s'envia res
+[2026-04-28 00:45:05] Comprovant: https://mail.google.com/
+[2026-04-28 00:45:06] HTTP status: 200
+[2026-04-28 00:45:06] Resultat: OK
+[2026-04-28 00:45:06] Estat anterior: OK
+[2026-04-28 00:45:06] Sense canvis, no s'envia res
+[2026-04-28 00:45:06] === FI ===
+[2026-04-28 01:00:00] === INICI ===
+[2026-04-28 01:00:00] .env carregat
+[2026-04-28 01:00:00] Config OK
+[2026-04-28 01:00:00] Comprovant: https://moxfield.com/
+[2026-04-28 01:00:01] HTTP status: 403
+[2026-04-28 01:00:01] Reintent 1/2...
+[2026-04-28 01:00:03] HTTP status: 403
+[2026-04-28 01:00:03] Reintent 2/2...
+[2026-04-28 01:00:05] HTTP status: 403
+[2026-04-28 01:00:05] Resultat: CAIGUT
+[2026-04-28 01:00:05] Estat anterior: CAIGUT
+[2026-04-28 01:00:05] Sense canvis, no s'envia res
+[2026-04-28 01:00:05] Comprovant: https://github.com/
+[2026-04-28 01:00:05] HTTP status: 200
+[2026-04-28 01:00:05] Resultat: OK
+[2026-04-28 01:00:05] Estat anterior: OK
+[2026-04-28 01:00:05] Sense canvis, no s'envia res
+[2026-04-28 01:00:05] Comprovant: https://mail.google.com/
+[2026-04-28 01:00:06] HTTP status: 200
+[2026-04-28 01:00:06] Resultat: OK
+[2026-04-28 01:00:06] Estat anterior: OK
+[2026-04-28 01:00:06] Sense canvis, no s'envia res
+[2026-04-28 01:00:06] === FI ===
+[2026-04-28 01:15:00] === INICI ===
+[2026-04-28 01:15:01] .env carregat
+[2026-04-28 01:15:01] Config OK
+[2026-04-28 01:15:01] Comprovant: https://moxfield.com/
+[2026-04-28 01:15:01] HTTP status: 403
+[2026-04-28 01:15:01] Reintent 1/2...
+[2026-04-28 01:15:03] HTTP status: 403
+[2026-04-28 01:15:03] Reintent 2/2...
+[2026-04-28 01:15:05] HTTP status: 403
+[2026-04-28 01:15:05] Resultat: CAIGUT
+[2026-04-28 01:15:05] Estat anterior: CAIGUT
+[2026-04-28 01:15:05] Sense canvis, no s'envia res
+[2026-04-28 01:15:05] Comprovant: https://github.com/
+[2026-04-28 01:15:06] HTTP status: 200
+[2026-04-28 01:15:06] Resultat: OK
+[2026-04-28 01:15:06] Estat anterior: OK
+[2026-04-28 01:15:06] Sense canvis, no s'envia res
+[2026-04-28 01:15:06] Comprovant: https://mail.google.com/
+[2026-04-28 01:15:07] HTTP status: 200
+[2026-04-28 01:15:07] Resultat: OK
+[2026-04-28 01:15:07] Estat anterior: OK
+[2026-04-28 01:15:07] Sense canvis, no s'envia res
+[2026-04-28 01:15:07] === FI ===
+[2026-04-28 01:30:01] === INICI ===
+[2026-04-28 01:30:01] .env carregat
+[2026-04-28 01:30:01] Config OK
+[2026-04-28 01:30:01] Comprovant: https://moxfield.com/
+[2026-04-28 01:30:01] HTTP status: 403
+[2026-04-28 01:30:01] Reintent 1/2...
+[2026-04-28 01:30:03] HTTP status: 403
+[2026-04-28 01:30:03] Reintent 2/2...
+[2026-04-28 01:30:05] HTTP status: 403
+[2026-04-28 01:30:05] Resultat: CAIGUT
+[2026-04-28 01:30:05] Estat anterior: CAIGUT
+[2026-04-28 01:30:05] Sense canvis, no s'envia res
+[2026-04-28 01:30:05] Comprovant: https://github.com/
+[2026-04-28 01:30:06] HTTP status: 200
+[2026-04-28 01:30:06] Resultat: OK
+[2026-04-28 01:30:06] Estat anterior: OK
+[2026-04-28 01:30:06] Sense canvis, no s'envia res
+[2026-04-28 01:30:06] Comprovant: https://mail.google.com/
+[2026-04-28 01:30:07] HTTP status: 200
+[2026-04-28 01:30:07] Resultat: OK
+[2026-04-28 01:30:07] Estat anterior: OK
+[2026-04-28 01:30:07] Sense canvis, no s'envia res
+[2026-04-28 01:30:07] === FI ===
+[2026-04-28 01:45:00] === INICI ===
+[2026-04-28 01:45:00] .env carregat
+[2026-04-28 01:45:00] Config OK
+[2026-04-28 01:45:00] Comprovant: https://moxfield.com/
+[2026-04-28 01:45:01] HTTP status: 403
+[2026-04-28 01:45:01] Reintent 1/2...
+[2026-04-28 01:45:03] HTTP status: 403
+[2026-04-28 01:45:03] Reintent 2/2...
+[2026-04-28 01:45:05] HTTP status: 403
+[2026-04-28 01:45:05] Resultat: CAIGUT
+[2026-04-28 01:45:05] Estat anterior: CAIGUT
+[2026-04-28 01:45:05] Sense canvis, no s'envia res
+[2026-04-28 01:45:05] Comprovant: https://github.com/
+[2026-04-28 01:45:15] Error: Timeout
+[2026-04-28 01:45:15] Reintent 1/2...
+[2026-04-28 01:45:27] Error: Timeout
+[2026-04-28 01:45:27] Reintent 2/2...
+[2026-04-28 01:45:29] HTTP status: 200
+[2026-04-28 01:45:29] Resultat: OK
+[2026-04-28 01:45:29] Estat anterior: OK
+[2026-04-28 01:45:29] Sense canvis, no s'envia res
+[2026-04-28 01:45:29] Comprovant: https://mail.google.com/
+[2026-04-28 01:45:30] HTTP status: 200
+[2026-04-28 01:45:30] Resultat: OK
+[2026-04-28 01:45:30] Estat anterior: OK
+[2026-04-28 01:45:30] Sense canvis, no s'envia res
+[2026-04-28 01:45:30] === FI ===
+[2026-04-28 02:00:01] === INICI ===
+[2026-04-28 02:00:01] .env carregat
+[2026-04-28 02:00:01] Config OK
+[2026-04-28 02:00:01] Comprovant: https://moxfield.com/
+[2026-04-28 02:00:01] HTTP status: 403
+[2026-04-28 02:00:01] Reintent 1/2...
+[2026-04-28 02:00:03] HTTP status: 403
+[2026-04-28 02:00:03] Reintent 2/2...
+[2026-04-28 02:00:05] HTTP status: 403
+[2026-04-28 02:00:05] Resultat: CAIGUT
+[2026-04-28 02:00:05] Estat anterior: CAIGUT
+[2026-04-28 02:00:05] Sense canvis, no s'envia res
+[2026-04-28 02:00:05] Comprovant: https://github.com/
+[2026-04-28 02:00:06] HTTP status: 200
+[2026-04-28 02:00:06] Resultat: OK
+[2026-04-28 02:00:06] Estat anterior: OK
+[2026-04-28 02:00:06] Sense canvis, no s'envia res
+[2026-04-28 02:00:06] Comprovant: https://mail.google.com/
+[2026-04-28 02:00:07] HTTP status: 200
+[2026-04-28 02:00:07] Resultat: OK
+[2026-04-28 02:00:07] Estat anterior: OK
+[2026-04-28 02:00:07] Sense canvis, no s'envia res
+[2026-04-28 02:00:07] === FI ===
+[2026-04-28 02:15:00] === INICI ===
+[2026-04-28 02:15:00] .env carregat
+[2026-04-28 02:15:00] Config OK
+[2026-04-28 02:15:00] Comprovant: https://moxfield.com/
+[2026-04-28 02:15:01] HTTP status: 403
+[2026-04-28 02:15:01] Reintent 1/2...
+[2026-04-28 02:15:03] HTTP status: 403
+[2026-04-28 02:15:03] Reintent 2/2...
+[2026-04-28 02:15:05] HTTP status: 403
+[2026-04-28 02:15:05] Resultat: CAIGUT
+[2026-04-28 02:15:05] Estat anterior: CAIGUT
+[2026-04-28 02:15:05] Sense canvis, no s'envia res
+[2026-04-28 02:15:05] Comprovant: https://github.com/
+[2026-04-28 02:15:05] HTTP status: 502
+[2026-04-28 02:15:05] Reintent 1/2...
+[2026-04-28 02:15:07] HTTP status: 200
+[2026-04-28 02:15:07] Resultat: OK
+[2026-04-28 02:15:07] Estat anterior: OK
+[2026-04-28 02:15:07] Sense canvis, no s'envia res
+[2026-04-28 02:15:07] Comprovant: https://mail.google.com/
+[2026-04-28 02:15:08] HTTP status: 200
+[2026-04-28 02:15:08] Resultat: OK
+[2026-04-28 02:15:08] Estat anterior: OK
+[2026-04-28 02:15:08] Sense canvis, no s'envia res
+[2026-04-28 02:15:08] === FI ===
+[2026-04-28 02:30:01] === INICI ===
+[2026-04-28 02:30:01] .env carregat
+[2026-04-28 02:30:01] Config OK
+[2026-04-28 02:30:01] Comprovant: https://moxfield.com/
+[2026-04-28 02:30:01] HTTP status: 403
+[2026-04-28 02:30:01] Reintent 1/2...
+[2026-04-28 02:30:03] HTTP status: 403
+[2026-04-28 02:30:03] Reintent 2/2...
+[2026-04-28 02:30:05] HTTP status: 403
+[2026-04-28 02:30:05] Resultat: CAIGUT
+[2026-04-28 02:30:05] Estat anterior: CAIGUT
+[2026-04-28 02:30:05] Sense canvis, no s'envia res
+[2026-04-28 02:30:05] Comprovant: https://github.com/
+[2026-04-28 02:30:06] HTTP status: 200
+[2026-04-28 02:30:06] Resultat: OK
+[2026-04-28 02:30:06] Estat anterior: OK
+[2026-04-28 02:30:06] Sense canvis, no s'envia res
+[2026-04-28 02:30:06] Comprovant: https://mail.google.com/
+[2026-04-28 02:30:07] HTTP status: 200
+[2026-04-28 02:30:07] Resultat: OK
+[2026-04-28 02:30:07] Estat anterior: OK
+[2026-04-28 02:30:07] Sense canvis, no s'envia res
+[2026-04-28 02:30:07] === FI ===
+[2026-04-28 02:45:00] === INICI ===
+[2026-04-28 02:45:01] .env carregat
+[2026-04-28 02:45:01] Config OK
+[2026-04-28 02:45:01] Comprovant: https://moxfield.com/
+[2026-04-28 02:45:01] HTTP status: 403
+[2026-04-28 02:45:01] Reintent 1/2...
+[2026-04-28 02:45:03] HTTP status: 403
+[2026-04-28 02:45:03] Reintent 2/2...
+[2026-04-28 02:45:05] HTTP status: 403
+[2026-04-28 02:45:05] Resultat: CAIGUT
+[2026-04-28 02:45:05] Estat anterior: CAIGUT
+[2026-04-28 02:45:05] Sense canvis, no s'envia res
+[2026-04-28 02:45:05] Comprovant: https://github.com/
+[2026-04-28 02:45:05] HTTP status: 200
+[2026-04-28 02:45:05] Resultat: OK
+[2026-04-28 02:45:05] Estat anterior: OK
+[2026-04-28 02:45:05] Sense canvis, no s'envia res
+[2026-04-28 02:45:05] Comprovant: https://mail.google.com/
+[2026-04-28 02:45:06] HTTP status: 200
+[2026-04-28 02:45:06] Resultat: OK
+[2026-04-28 02:45:06] Estat anterior: OK
+[2026-04-28 02:45:06] Sense canvis, no s'envia res
+[2026-04-28 02:45:06] === FI ===
+[2026-04-28 03:00:00] === INICI ===
+[2026-04-28 03:00:01] .env carregat
+[2026-04-28 03:00:01] Config OK
+[2026-04-28 03:00:01] Comprovant: https://moxfield.com/
+[2026-04-28 03:00:01] HTTP status: 403
+[2026-04-28 03:00:01] Reintent 1/2...
+[2026-04-28 03:00:03] HTTP status: 403
+[2026-04-28 03:00:03] Reintent 2/2...
+[2026-04-28 03:00:05] HTTP status: 403
+[2026-04-28 03:00:05] Resultat: CAIGUT
+[2026-04-28 03:00:05] Estat anterior: CAIGUT
+[2026-04-28 03:00:05] Sense canvis, no s'envia res
+[2026-04-28 03:00:05] Comprovant: https://github.com/
+[2026-04-28 03:00:06] HTTP status: 200
+[2026-04-28 03:00:06] Resultat: OK
+[2026-04-28 03:00:06] Estat anterior: OK
+[2026-04-28 03:00:06] Sense canvis, no s'envia res
+[2026-04-28 03:00:06] Comprovant: https://mail.google.com/
+[2026-04-28 03:00:06] HTTP status: 200
+[2026-04-28 03:00:06] Resultat: OK
+[2026-04-28 03:00:06] Estat anterior: OK
+[2026-04-28 03:00:06] Sense canvis, no s'envia res
+[2026-04-28 03:00:06] === FI ===
+[2026-04-28 03:15:01] === INICI ===
+[2026-04-28 03:15:01] .env carregat
+[2026-04-28 03:15:01] Config OK
+[2026-04-28 03:15:01] Comprovant: https://moxfield.com/
+[2026-04-28 03:15:01] HTTP status: 403
+[2026-04-28 03:15:01] Reintent 1/2...
+[2026-04-28 03:15:03] HTTP status: 403
+[2026-04-28 03:15:03] Reintent 2/2...
+[2026-04-28 03:15:05] HTTP status: 403
+[2026-04-28 03:15:05] Resultat: CAIGUT
+[2026-04-28 03:15:05] Estat anterior: CAIGUT
+[2026-04-28 03:15:05] Sense canvis, no s'envia res
+[2026-04-28 03:15:06] Comprovant: https://github.com/
+[2026-04-28 03:15:06] HTTP status: 200
+[2026-04-28 03:15:06] Resultat: OK
+[2026-04-28 03:15:06] Estat anterior: OK
+[2026-04-28 03:15:06] Sense canvis, no s'envia res
+[2026-04-28 03:15:06] Comprovant: https://mail.google.com/
+[2026-04-28 03:15:07] HTTP status: 200
+[2026-04-28 03:15:07] Resultat: OK
+[2026-04-28 03:15:07] Estat anterior: OK
+[2026-04-28 03:15:07] Sense canvis, no s'envia res
+[2026-04-28 03:15:07] === FI ===
+[2026-04-28 03:30:01] === INICI ===
+[2026-04-28 03:30:01] .env carregat
+[2026-04-28 03:30:01] Config OK
+[2026-04-28 03:30:01] Comprovant: https://moxfield.com/
+[2026-04-28 03:30:02] HTTP status: 403
+[2026-04-28 03:30:02] Reintent 1/2...
+[2026-04-28 03:30:04] HTTP status: 403
+[2026-04-28 03:30:04] Reintent 2/2...
+[2026-04-28 03:30:06] HTTP status: 403
+[2026-04-28 03:30:06] Resultat: CAIGUT
+[2026-04-28 03:30:06] Estat anterior: CAIGUT
+[2026-04-28 03:30:06] Sense canvis, no s'envia res
+[2026-04-28 03:30:06] Comprovant: https://github.com/
+[2026-04-28 03:30:06] HTTP status: 200
+[2026-04-28 03:30:06] Resultat: OK
+[2026-04-28 03:30:06] Estat anterior: OK
+[2026-04-28 03:30:06] Sense canvis, no s'envia res
+[2026-04-28 03:30:06] Comprovant: https://mail.google.com/
+[2026-04-28 03:30:07] HTTP status: 200
+[2026-04-28 03:30:07] Resultat: OK
+[2026-04-28 03:30:07] Estat anterior: OK
+[2026-04-28 03:30:07] Sense canvis, no s'envia res
+[2026-04-28 03:30:07] === FI ===
+[2026-04-28 03:45:01] === INICI ===
+[2026-04-28 03:45:01] .env carregat
+[2026-04-28 03:45:01] Config OK
+[2026-04-28 03:45:01] Comprovant: https://moxfield.com/
+[2026-04-28 03:45:01] HTTP status: 403
+[2026-04-28 03:45:01] Reintent 1/2...
+[2026-04-28 03:45:03] HTTP status: 403
+[2026-04-28 03:45:03] Reintent 2/2...
+[2026-04-28 03:45:05] HTTP status: 403
+[2026-04-28 03:45:05] Resultat: CAIGUT
+[2026-04-28 03:45:05] Estat anterior: CAIGUT
+[2026-04-28 03:45:05] Sense canvis, no s'envia res
+[2026-04-28 03:45:05] Comprovant: https://github.com/
+[2026-04-28 03:45:06] HTTP status: 200
+[2026-04-28 03:45:06] Resultat: OK
+[2026-04-28 03:45:06] Estat anterior: OK
+[2026-04-28 03:45:06] Sense canvis, no s'envia res
+[2026-04-28 03:45:06] Comprovant: https://mail.google.com/
+[2026-04-28 03:45:07] HTTP status: 200
+[2026-04-28 03:45:07] Resultat: OK
+[2026-04-28 03:45:07] Estat anterior: OK
+[2026-04-28 03:45:07] Sense canvis, no s'envia res
+[2026-04-28 03:45:07] === FI ===
+[2026-04-28 04:00:01] === INICI ===
+[2026-04-28 04:00:01] .env carregat
+[2026-04-28 04:00:01] Config OK
+[2026-04-28 04:00:01] Comprovant: https://moxfield.com/
+[2026-04-28 04:00:01] HTTP status: 403
+[2026-04-28 04:00:02] Reintent 1/2...
+[2026-04-28 04:00:04] HTTP status: 403
+[2026-04-28 04:00:04] Reintent 2/2...
+[2026-04-28 04:00:06] HTTP status: 403
+[2026-04-28 04:00:06] Resultat: CAIGUT
+[2026-04-28 04:00:06] Estat anterior: CAIGUT
+[2026-04-28 04:00:06] Sense canvis, no s'envia res
+[2026-04-28 04:00:06] Comprovant: https://github.com/
+[2026-04-28 04:00:07] HTTP status: 200
+[2026-04-28 04:00:07] Resultat: OK
+[2026-04-28 04:00:07] Estat anterior: OK
+[2026-04-28 04:00:07] Sense canvis, no s'envia res
+[2026-04-28 04:00:07] Comprovant: https://mail.google.com/
+[2026-04-28 04:00:08] HTTP status: 200
+[2026-04-28 04:00:08] Resultat: OK
+[2026-04-28 04:00:08] Estat anterior: OK
+[2026-04-28 04:00:08] Sense canvis, no s'envia res
+[2026-04-28 04:00:08] === FI ===
+[2026-04-28 04:15:00] === INICI ===
+[2026-04-28 04:15:01] .env carregat
+[2026-04-28 04:15:01] Config OK
+[2026-04-28 04:15:01] Comprovant: https://moxfield.com/
+[2026-04-28 04:15:01] HTTP status: 403
+[2026-04-28 04:15:01] Reintent 1/2...
+[2026-04-28 04:15:03] HTTP status: 403
+[2026-04-28 04:15:03] Reintent 2/2...
+[2026-04-28 04:15:05] HTTP status: 403
+[2026-04-28 04:15:05] Resultat: CAIGUT
+[2026-04-28 04:15:05] Estat anterior: CAIGUT
+[2026-04-28 04:15:05] Sense canvis, no s'envia res
+[2026-04-28 04:15:05] Comprovant: https://github.com/
+[2026-04-28 04:15:05] HTTP status: 200
+[2026-04-28 04:15:05] Resultat: OK
+[2026-04-28 04:15:05] Estat anterior: OK
+[2026-04-28 04:15:05] Sense canvis, no s'envia res
+[2026-04-28 04:15:05] Comprovant: https://mail.google.com/
+[2026-04-28 04:15:06] HTTP status: 200
+[2026-04-28 04:15:06] Resultat: OK
+[2026-04-28 04:15:06] Estat anterior: OK
+[2026-04-28 04:15:06] Sense canvis, no s'envia res
+[2026-04-28 04:15:06] === FI ===
+[2026-04-28 04:30:01] === INICI ===
+[2026-04-28 04:30:01] .env carregat
+[2026-04-28 04:30:01] Config OK
+[2026-04-28 04:30:01] Comprovant: https://moxfield.com/
+[2026-04-28 04:30:01] HTTP status: 403
+[2026-04-28 04:30:01] Reintent 1/2...
+[2026-04-28 04:30:03] HTTP status: 403
+[2026-04-28 04:30:03] Reintent 2/2...
+[2026-04-28 04:30:05] HTTP status: 403
+[2026-04-28 04:30:05] Resultat: CAIGUT
+[2026-04-28 04:30:05] Estat anterior: CAIGUT
+[2026-04-28 04:30:05] Sense canvis, no s'envia res
+[2026-04-28 04:30:05] Comprovant: https://github.com/
+[2026-04-28 04:30:06] HTTP status: 200
+[2026-04-28 04:30:06] Resultat: OK
+[2026-04-28 04:30:06] Estat anterior: OK
+[2026-04-28 04:30:06] Sense canvis, no s'envia res
+[2026-04-28 04:30:06] Comprovant: https://mail.google.com/
+[2026-04-28 04:30:07] HTTP status: 200
+[2026-04-28 04:30:07] Resultat: OK
+[2026-04-28 04:30:07] Estat anterior: OK
+[2026-04-28 04:30:07] Sense canvis, no s'envia res
+[2026-04-28 04:30:07] === FI ===
+[2026-04-28 04:45:00] === INICI ===
+[2026-04-28 04:45:01] .env carregat
+[2026-04-28 04:45:01] Config OK
+[2026-04-28 04:45:01] Comprovant: https://moxfield.com/
+[2026-04-28 04:45:01] HTTP status: 403
+[2026-04-28 04:45:01] Reintent 1/2...
+[2026-04-28 04:45:03] HTTP status: 403
+[2026-04-28 04:45:03] Reintent 2/2...
+[2026-04-28 04:45:05] HTTP status: 403
+[2026-04-28 04:45:05] Resultat: CAIGUT
+[2026-04-28 04:45:05] Estat anterior: CAIGUT
+[2026-04-28 04:45:05] Sense canvis, no s'envia res
+[2026-04-28 04:45:05] Comprovant: https://github.com/
+[2026-04-28 04:45:06] HTTP status: 200
+[2026-04-28 04:45:06] Resultat: OK
+[2026-04-28 04:45:06] Estat anterior: OK
+[2026-04-28 04:45:06] Sense canvis, no s'envia res
+[2026-04-28 04:45:06] Comprovant: https://mail.google.com/
+[2026-04-28 04:45:07] HTTP status: 200
+[2026-04-28 04:45:07] Resultat: OK
+[2026-04-28 04:45:07] Estat anterior: OK
+[2026-04-28 04:45:07] Sense canvis, no s'envia res
+[2026-04-28 04:45:07] === FI ===
+[2026-04-28 05:00:00] === INICI ===
+[2026-04-28 05:00:00] .env carregat
+[2026-04-28 05:00:00] Config OK
+[2026-04-28 05:00:00] Comprovant: https://moxfield.com/
+[2026-04-28 05:00:01] HTTP status: 403
+[2026-04-28 05:00:01] Reintent 1/2...
+[2026-04-28 05:00:03] HTTP status: 403
+[2026-04-28 05:00:03] Reintent 2/2...
+[2026-04-28 05:00:05] HTTP status: 403
+[2026-04-28 05:00:05] Resultat: CAIGUT
+[2026-04-28 05:00:05] Estat anterior: CAIGUT
+[2026-04-28 05:00:05] Sense canvis, no s'envia res
+[2026-04-28 05:00:05] Comprovant: https://github.com/
+[2026-04-28 05:00:06] HTTP status: 200
+[2026-04-28 05:00:06] Resultat: OK
+[2026-04-28 05:00:06] Estat anterior: OK
+[2026-04-28 05:00:06] Sense canvis, no s'envia res
+[2026-04-28 05:00:06] Comprovant: https://mail.google.com/
+[2026-04-28 05:00:07] HTTP status: 200
+[2026-04-28 05:00:07] Resultat: OK
+[2026-04-28 05:00:07] Estat anterior: OK
+[2026-04-28 05:00:07] Sense canvis, no s'envia res
+[2026-04-28 05:00:07] === FI ===
+[2026-04-28 05:15:00] === INICI ===
+[2026-04-28 05:15:00] .env carregat
+[2026-04-28 05:15:00] Config OK
+[2026-04-28 05:15:00] Comprovant: https://moxfield.com/
+[2026-04-28 05:15:01] HTTP status: 403
+[2026-04-28 05:15:01] Reintent 1/2...
+[2026-04-28 05:15:03] HTTP status: 403
+[2026-04-28 05:15:03] Reintent 2/2...
+[2026-04-28 05:15:05] HTTP status: 403
+[2026-04-28 05:15:05] Resultat: CAIGUT
+[2026-04-28 05:15:05] Estat anterior: CAIGUT
+[2026-04-28 05:15:05] Sense canvis, no s'envia res
+[2026-04-28 05:15:05] Comprovant: https://github.com/
+[2026-04-28 05:15:05] HTTP status: 200
+[2026-04-28 05:15:05] Resultat: OK
+[2026-04-28 05:15:05] Estat anterior: OK
+[2026-04-28 05:15:05] Sense canvis, no s'envia res
+[2026-04-28 05:15:05] Comprovant: https://mail.google.com/
+[2026-04-28 05:15:06] HTTP status: 200
+[2026-04-28 05:15:06] Resultat: OK
+[2026-04-28 05:15:06] Estat anterior: OK
+[2026-04-28 05:15:06] Sense canvis, no s'envia res
+[2026-04-28 05:15:06] === FI ===
+[2026-04-28 05:30:01] === INICI ===
+[2026-04-28 05:30:01] .env carregat
+[2026-04-28 05:30:01] Config OK
+[2026-04-28 05:30:01] Comprovant: https://moxfield.com/
+[2026-04-28 05:30:01] HTTP status: 403
+[2026-04-28 05:30:01] Reintent 1/2...
+[2026-04-28 05:30:03] HTTP status: 403
+[2026-04-28 05:30:03] Reintent 2/2...
+[2026-04-28 05:30:05] HTTP status: 403
+[2026-04-28 05:30:05] Resultat: CAIGUT
+[2026-04-28 05:30:06] Estat anterior: CAIGUT
+[2026-04-28 05:30:06] Sense canvis, no s'envia res
+[2026-04-28 05:30:06] Comprovant: https://github.com/
+[2026-04-28 05:30:06] HTTP status: 200
+[2026-04-28 05:30:06] Resultat: OK
+[2026-04-28 05:30:06] Estat anterior: OK
+[2026-04-28 05:30:06] Sense canvis, no s'envia res
+[2026-04-28 05:30:06] Comprovant: https://mail.google.com/
+[2026-04-28 05:30:07] HTTP status: 200
+[2026-04-28 05:30:07] Resultat: OK
+[2026-04-28 05:30:07] Estat anterior: OK
+[2026-04-28 05:30:07] Sense canvis, no s'envia res
+[2026-04-28 05:30:07] === FI ===
+[2026-04-28 05:45:00] === INICI ===
+[2026-04-28 05:45:01] .env carregat
+[2026-04-28 05:45:01] Config OK
+[2026-04-28 05:45:01] Comprovant: https://moxfield.com/
+[2026-04-28 05:45:01] HTTP status: 403
+[2026-04-28 05:45:01] Reintent 1/2...
+[2026-04-28 05:45:03] HTTP status: 403
+[2026-04-28 05:45:03] Reintent 2/2...
+[2026-04-28 05:45:05] HTTP status: 403
+[2026-04-28 05:45:05] Resultat: CAIGUT
+[2026-04-28 05:45:05] Estat anterior: CAIGUT
+[2026-04-28 05:45:05] Sense canvis, no s'envia res
+[2026-04-28 05:45:05] Comprovant: https://github.com/
+[2026-04-28 05:45:06] HTTP status: 200
+[2026-04-28 05:45:06] Resultat: OK
+[2026-04-28 05:45:06] Estat anterior: OK
+[2026-04-28 05:45:06] Sense canvis, no s'envia res
+[2026-04-28 05:45:06] Comprovant: https://mail.google.com/
+[2026-04-28 05:45:06] HTTP status: 200
+[2026-04-28 05:45:06] Resultat: OK
+[2026-04-28 05:45:06] Estat anterior: OK
+[2026-04-28 05:45:06] Sense canvis, no s'envia res
+[2026-04-28 05:45:06] === FI ===
+[2026-04-28 06:00:00] === INICI ===
+[2026-04-28 06:00:01] .env carregat
+[2026-04-28 06:00:01] Config OK
+[2026-04-28 06:00:01] Comprovant: https://moxfield.com/
+[2026-04-28 06:00:01] HTTP status: 403
+[2026-04-28 06:00:01] Reintent 1/2...
+[2026-04-28 06:00:03] HTTP status: 403
+[2026-04-28 06:00:03] Reintent 2/2...
+[2026-04-28 06:00:05] HTTP status: 403
+[2026-04-28 06:00:05] Resultat: CAIGUT
+[2026-04-28 06:00:05] Estat anterior: CAIGUT
+[2026-04-28 06:00:05] Sense canvis, no s'envia res
+[2026-04-28 06:00:05] Comprovant: https://github.com/
+[2026-04-28 06:00:06] HTTP status: 200
+[2026-04-28 06:00:06] Resultat: OK
+[2026-04-28 06:00:06] Estat anterior: OK
+[2026-04-28 06:00:06] Sense canvis, no s'envia res
+[2026-04-28 06:00:06] Comprovant: https://mail.google.com/
+[2026-04-28 06:00:07] HTTP status: 200
+[2026-04-28 06:00:07] Resultat: OK
+[2026-04-28 06:00:07] Estat anterior: OK
+[2026-04-28 06:00:07] Sense canvis, no s'envia res
+[2026-04-28 06:00:07] === FI ===
+[2026-04-28 06:15:00] === INICI ===
+[2026-04-28 06:15:00] .env carregat
+[2026-04-28 06:15:00] Config OK
+[2026-04-28 06:15:00] Comprovant: https://moxfield.com/
+[2026-04-28 06:15:01] HTTP status: 403
+[2026-04-28 06:15:01] Reintent 1/2...
+[2026-04-28 06:15:03] HTTP status: 403
+[2026-04-28 06:15:03] Reintent 2/2...
+[2026-04-28 06:15:05] HTTP status: 403
+[2026-04-28 06:15:05] Resultat: CAIGUT
+[2026-04-28 06:15:05] Estat anterior: CAIGUT
+[2026-04-28 06:15:05] Sense canvis, no s'envia res
+[2026-04-28 06:15:05] Comprovant: https://github.com/
+[2026-04-28 06:15:06] HTTP status: 200
+[2026-04-28 06:15:06] Resultat: OK
+[2026-04-28 06:15:06] Estat anterior: OK
+[2026-04-28 06:15:06] Sense canvis, no s'envia res
+[2026-04-28 06:15:06] Comprovant: https://mail.google.com/
+[2026-04-28 06:15:06] HTTP status: 200
+[2026-04-28 06:15:06] Resultat: OK
+[2026-04-28 06:15:06] Estat anterior: OK
+[2026-04-28 06:15:06] Sense canvis, no s'envia res
+[2026-04-28 06:15:06] === FI ===
+[2026-04-28 06:30:01] === INICI ===
+[2026-04-28 06:30:01] .env carregat
+[2026-04-28 06:30:01] Config OK
+[2026-04-28 06:30:01] Comprovant: https://moxfield.com/
+[2026-04-28 06:30:01] HTTP status: 403
+[2026-04-28 06:30:01] Reintent 1/2...
+[2026-04-28 06:30:03] HTTP status: 403
+[2026-04-28 06:30:03] Reintent 2/2...
+[2026-04-28 06:30:05] HTTP status: 403
+[2026-04-28 06:30:05] Resultat: CAIGUT
+[2026-04-28 06:30:05] Estat anterior: CAIGUT
+[2026-04-28 06:30:05] Sense canvis, no s'envia res
+[2026-04-28 06:30:05] Comprovant: https://github.com/
+[2026-04-28 06:30:06] HTTP status: 200
+[2026-04-28 06:30:06] Resultat: OK
+[2026-04-28 06:30:06] Estat anterior: OK
+[2026-04-28 06:30:06] Sense canvis, no s'envia res
+[2026-04-28 06:30:06] Comprovant: https://mail.google.com/
+[2026-04-28 06:30:07] HTTP status: 200
+[2026-04-28 06:30:07] Resultat: OK
+[2026-04-28 06:30:07] Estat anterior: OK
+[2026-04-28 06:30:07] Sense canvis, no s'envia res
+[2026-04-28 06:30:07] === FI ===
+[2026-04-28 06:45:00] === INICI ===
+[2026-04-28 06:45:01] .env carregat
+[2026-04-28 06:45:01] Config OK
+[2026-04-28 06:45:01] Comprovant: https://moxfield.com/
+[2026-04-28 06:45:01] HTTP status: 403
+[2026-04-28 06:45:01] Reintent 1/2...
+[2026-04-28 06:45:03] HTTP status: 403
+[2026-04-28 06:45:03] Reintent 2/2...
+[2026-04-28 06:45:05] HTTP status: 403
+[2026-04-28 06:45:05] Resultat: CAIGUT
+[2026-04-28 06:45:05] Estat anterior: CAIGUT
+[2026-04-28 06:45:05] Sense canvis, no s'envia res
+[2026-04-28 06:45:05] Comprovant: https://github.com/
+[2026-04-28 06:45:06] HTTP status: 200
+[2026-04-28 06:45:06] Resultat: OK
+[2026-04-28 06:45:06] Estat anterior: OK
+[2026-04-28 06:45:06] Sense canvis, no s'envia res
+[2026-04-28 06:45:06] Comprovant: https://mail.google.com/
+[2026-04-28 06:45:07] HTTP status: 200
+[2026-04-28 06:45:07] Resultat: OK
+[2026-04-28 06:45:07] Estat anterior: OK
+[2026-04-28 06:45:07] Sense canvis, no s'envia res
+[2026-04-28 06:45:07] === FI ===
+[2026-04-28 07:00:01] === INICI ===
+[2026-04-28 07:00:01] .env carregat
+[2026-04-28 07:00:01] Config OK
+[2026-04-28 07:00:01] Comprovant: https://moxfield.com/
+[2026-04-28 07:00:02] HTTP status: 403
+[2026-04-28 07:00:02] Reintent 1/2...
+[2026-04-28 07:00:04] HTTP status: 403
+[2026-04-28 07:00:04] Reintent 2/2...
+[2026-04-28 07:00:06] HTTP status: 403
+[2026-04-28 07:00:06] Resultat: CAIGUT
+[2026-04-28 07:00:06] Estat anterior: CAIGUT
+[2026-04-28 07:00:06] Sense canvis, no s'envia res
+[2026-04-28 07:00:06] Comprovant: https://github.com/
+[2026-04-28 07:00:06] HTTP status: 200
+[2026-04-28 07:00:06] Resultat: OK
+[2026-04-28 07:00:06] Estat anterior: OK
+[2026-04-28 07:00:06] Sense canvis, no s'envia res
+[2026-04-28 07:00:06] Comprovant: https://mail.google.com/
+[2026-04-28 07:00:07] HTTP status: 200
+[2026-04-28 07:00:07] Resultat: OK
+[2026-04-28 07:00:07] Estat anterior: OK
+[2026-04-28 07:00:07] Sense canvis, no s'envia res
+[2026-04-28 07:00:07] === FI ===
+[2026-04-28 07:15:01] === INICI ===
+[2026-04-28 07:15:01] .env carregat
+[2026-04-28 07:15:01] Config OK
+[2026-04-28 07:15:01] Comprovant: https://moxfield.com/
+[2026-04-28 07:15:02] HTTP status: 403
+[2026-04-28 07:15:02] Reintent 1/2...
+[2026-04-28 07:15:04] HTTP status: 403
+[2026-04-28 07:15:04] Reintent 2/2...
+[2026-04-28 07:15:06] HTTP status: 403
+[2026-04-28 07:15:06] Resultat: CAIGUT
+[2026-04-28 07:15:06] Estat anterior: CAIGUT
+[2026-04-28 07:15:06] Sense canvis, no s'envia res
+[2026-04-28 07:15:06] Comprovant: https://github.com/
+[2026-04-28 07:15:06] HTTP status: 200
+[2026-04-28 07:15:06] Resultat: OK
+[2026-04-28 07:15:06] Estat anterior: OK
+[2026-04-28 07:15:06] Sense canvis, no s'envia res
+[2026-04-28 07:15:06] Comprovant: https://mail.google.com/
+[2026-04-28 07:15:07] HTTP status: 200
+[2026-04-28 07:15:07] Resultat: OK
+[2026-04-28 07:15:07] Estat anterior: OK
+[2026-04-28 07:15:07] Sense canvis, no s'envia res
+[2026-04-28 07:15:07] === FI ===
+[2026-04-28 07:30:02] === INICI ===
+[2026-04-28 07:30:02] .env carregat
+[2026-04-28 07:30:02] Config OK
+[2026-04-28 07:30:02] Comprovant: https://moxfield.com/
+[2026-04-28 07:30:03] HTTP status: 403
+[2026-04-28 07:30:03] Reintent 1/2...
+[2026-04-28 07:30:05] HTTP status: 403
+[2026-04-28 07:30:05] Reintent 2/2...
+[2026-04-28 07:30:07] HTTP status: 403
+[2026-04-28 07:30:07] Resultat: CAIGUT
+[2026-04-28 07:30:07] Estat anterior: CAIGUT
+[2026-04-28 07:30:07] Sense canvis, no s'envia res
+[2026-04-28 07:30:07] Comprovant: https://github.com/
+[2026-04-28 07:30:08] HTTP status: 200
+[2026-04-28 07:30:08] Resultat: OK
+[2026-04-28 07:30:08] Estat anterior: OK
+[2026-04-28 07:30:08] Sense canvis, no s'envia res
+[2026-04-28 07:30:08] Comprovant: https://mail.google.com/
+[2026-04-28 07:30:09] HTTP status: 200
+[2026-04-28 07:30:09] Resultat: OK
+[2026-04-28 07:30:09] Estat anterior: OK
+[2026-04-28 07:30:09] Sense canvis, no s'envia res
+[2026-04-28 07:30:09] === FI ===
+[2026-04-28 07:45:01] === INICI ===
+[2026-04-28 07:45:01] .env carregat
+[2026-04-28 07:45:01] Config OK
+[2026-04-28 07:45:01] Comprovant: https://moxfield.com/
+[2026-04-28 07:45:02] HTTP status: 403
+[2026-04-28 07:45:02] Reintent 1/2...
+[2026-04-28 07:45:04] HTTP status: 403
+[2026-04-28 07:45:04] Reintent 2/2...
+[2026-04-28 07:45:06] HTTP status: 403
+[2026-04-28 07:45:06] Resultat: CAIGUT
+[2026-04-28 07:45:06] Estat anterior: CAIGUT
+[2026-04-28 07:45:06] Sense canvis, no s'envia res
+[2026-04-28 07:45:06] Comprovant: https://github.com/
+[2026-04-28 07:45:06] HTTP status: 200
+[2026-04-28 07:45:06] Resultat: OK
+[2026-04-28 07:45:06] Estat anterior: OK
+[2026-04-28 07:45:06] Sense canvis, no s'envia res
+[2026-04-28 07:45:06] Comprovant: https://mail.google.com/
+[2026-04-28 07:45:07] HTTP status: 200
+[2026-04-28 07:45:07] Resultat: OK
+[2026-04-28 07:45:07] Estat anterior: OK
+[2026-04-28 07:45:07] Sense canvis, no s'envia res
+[2026-04-28 07:45:07] === FI ===
+[2026-04-28 08:00:01] === INICI ===
+[2026-04-28 08:00:01] .env carregat
+[2026-04-28 08:00:01] Config OK
+[2026-04-28 08:00:01] Comprovant: https://moxfield.com/
+[2026-04-28 08:00:01] HTTP status: 403
+[2026-04-28 08:00:01] Reintent 1/2...
+[2026-04-28 08:00:03] HTTP status: 403
+[2026-04-28 08:00:03] Reintent 2/2...
+[2026-04-28 08:00:05] HTTP status: 403
+[2026-04-28 08:00:05] Resultat: CAIGUT
+[2026-04-28 08:00:05] Estat anterior: CAIGUT
+[2026-04-28 08:00:05] Sense canvis, no s'envia res
+[2026-04-28 08:00:05] Comprovant: https://github.com/
+[2026-04-28 08:00:06] HTTP status: 200
+[2026-04-28 08:00:06] Resultat: OK
+[2026-04-28 08:00:06] Estat anterior: OK
+[2026-04-28 08:00:06] Sense canvis, no s'envia res
+[2026-04-28 08:00:06] Comprovant: https://mail.google.com/
+[2026-04-28 08:00:07] HTTP status: 200
+[2026-04-28 08:00:07] Resultat: OK
+[2026-04-28 08:00:07] Estat anterior: OK
+[2026-04-28 08:00:07] Sense canvis, no s'envia res
+[2026-04-28 08:00:07] === FI ===
+[2026-04-28 08:15:01] === INICI ===
+[2026-04-28 08:15:01] .env carregat
+[2026-04-28 08:15:01] Config OK
+[2026-04-28 08:15:01] Comprovant: https://moxfield.com/
+[2026-04-28 08:15:01] HTTP status: 403
+[2026-04-28 08:15:01] Reintent 1/2...
+[2026-04-28 08:15:03] HTTP status: 403
+[2026-04-28 08:15:03] Reintent 2/2...
+[2026-04-28 08:15:05] HTTP status: 403
+[2026-04-28 08:15:05] Resultat: CAIGUT
+[2026-04-28 08:15:05] Estat anterior: CAIGUT
+[2026-04-28 08:15:05] Sense canvis, no s'envia res
+[2026-04-28 08:15:05] Comprovant: https://github.com/
+[2026-04-28 08:15:06] HTTP status: 200
+[2026-04-28 08:15:06] Resultat: OK
+[2026-04-28 08:15:06] Estat anterior: OK
+[2026-04-28 08:15:06] Sense canvis, no s'envia res
+[2026-04-28 08:15:06] Comprovant: https://mail.google.com/
+[2026-04-28 08:15:07] HTTP status: 200
+[2026-04-28 08:15:07] Resultat: OK
+[2026-04-28 08:15:07] Estat anterior: OK
+[2026-04-28 08:15:07] Sense canvis, no s'envia res
+[2026-04-28 08:15:07] === FI ===
+[2026-04-28 08:30:01] === INICI ===
+[2026-04-28 08:30:01] .env carregat
+[2026-04-28 08:30:01] Config OK
+[2026-04-28 08:30:01] Comprovant: https://moxfield.com/
+[2026-04-28 08:30:02] HTTP status: 403
+[2026-04-28 08:30:02] Reintent 1/2...
+[2026-04-28 08:30:04] HTTP status: 403
+[2026-04-28 08:30:04] Reintent 2/2...
+[2026-04-28 08:30:06] HTTP status: 403
+[2026-04-28 08:30:06] Resultat: CAIGUT
+[2026-04-28 08:30:06] Estat anterior: CAIGUT
+[2026-04-28 08:30:06] Sense canvis, no s'envia res
+[2026-04-28 08:30:06] Comprovant: https://github.com/
+[2026-04-28 08:30:06] HTTP status: 200
+[2026-04-28 08:30:06] Resultat: OK
+[2026-04-28 08:30:06] Estat anterior: OK
+[2026-04-28 08:30:06] Sense canvis, no s'envia res
+[2026-04-28 08:30:06] Comprovant: https://mail.google.com/
+[2026-04-28 08:30:07] HTTP status: 200
+[2026-04-28 08:30:07] Resultat: OK
+[2026-04-28 08:30:07] Estat anterior: OK
+[2026-04-28 08:30:07] Sense canvis, no s'envia res
+[2026-04-28 08:30:07] === FI ===
+[2026-04-28 08:45:01] === INICI ===
+[2026-04-28 08:45:01] .env carregat
+[2026-04-28 08:45:01] Config OK
+[2026-04-28 08:45:01] Comprovant: https://moxfield.com/
+[2026-04-28 08:45:02] HTTP status: 403
+[2026-04-28 08:45:02] Reintent 1/2...
+[2026-04-28 08:45:04] HTTP status: 403
+[2026-04-28 08:45:04] Reintent 2/2...
+[2026-04-28 08:45:06] HTTP status: 403
+[2026-04-28 08:45:06] Resultat: CAIGUT
+[2026-04-28 08:45:06] Estat anterior: CAIGUT
+[2026-04-28 08:45:06] Sense canvis, no s'envia res
+[2026-04-28 08:45:06] Comprovant: https://github.com/
+[2026-04-28 08:45:06] HTTP status: 200
+[2026-04-28 08:45:06] Resultat: OK
+[2026-04-28 08:45:06] Estat anterior: OK
+[2026-04-28 08:45:06] Sense canvis, no s'envia res
+[2026-04-28 08:45:06] Comprovant: https://mail.google.com/
+[2026-04-28 08:45:08] HTTP status: 200
+[2026-04-28 08:45:08] Resultat: OK
+[2026-04-28 08:45:08] Estat anterior: OK
+[2026-04-28 08:45:08] Sense canvis, no s'envia res
+[2026-04-28 08:45:08] === FI ===
+[2026-04-28 09:00:01] === INICI ===
+[2026-04-28 09:00:01] .env carregat
+[2026-04-28 09:00:01] Config OK
+[2026-04-28 09:00:01] Comprovant: https://moxfield.com/
+[2026-04-28 09:00:01] HTTP status: 403
+[2026-04-28 09:00:01] Reintent 1/2...
+[2026-04-28 09:00:03] HTTP status: 403
+[2026-04-28 09:00:03] Reintent 2/2...
+[2026-04-28 09:00:05] HTTP status: 403
+[2026-04-28 09:00:05] Resultat: CAIGUT
+[2026-04-28 09:00:05] Estat anterior: CAIGUT
+[2026-04-28 09:00:05] Sense canvis, no s'envia res
+[2026-04-28 09:00:05] Comprovant: https://github.com/
+[2026-04-28 09:00:06] HTTP status: 200
+[2026-04-28 09:00:06] Resultat: OK
+[2026-04-28 09:00:06] Estat anterior: OK
+[2026-04-28 09:00:06] Sense canvis, no s'envia res
+[2026-04-28 09:00:06] Comprovant: https://mail.google.com/
+[2026-04-28 09:00:07] HTTP status: 200
+[2026-04-28 09:00:07] Resultat: OK
+[2026-04-28 09:00:07] Estat anterior: OK
+[2026-04-28 09:00:07] Sense canvis, no s'envia res
+[2026-04-28 09:00:07] === FI ===
+[2026-04-28 09:15:02] === INICI ===
+[2026-04-28 09:15:02] .env carregat
+[2026-04-28 09:15:02] Config OK
+[2026-04-28 09:15:02] Comprovant: https://moxfield.com/
+[2026-04-28 09:15:03] HTTP status: 403
+[2026-04-28 09:15:03] Reintent 1/2...
+[2026-04-28 09:15:05] HTTP status: 403
+[2026-04-28 09:15:05] Reintent 2/2...
+[2026-04-28 09:15:07] HTTP status: 403
+[2026-04-28 09:15:07] Resultat: CAIGUT
+[2026-04-28 09:15:07] Estat anterior: CAIGUT
+[2026-04-28 09:15:07] Sense canvis, no s'envia res
+[2026-04-28 09:15:07] Comprovant: https://github.com/
+[2026-04-28 09:15:08] HTTP status: 200
+[2026-04-28 09:15:08] Resultat: OK
+[2026-04-28 09:15:08] Estat anterior: OK
+[2026-04-28 09:15:08] Sense canvis, no s'envia res
+[2026-04-28 09:15:08] Comprovant: https://mail.google.com/
+[2026-04-28 09:15:08] HTTP status: 200
+[2026-04-28 09:15:08] Resultat: OK
+[2026-04-28 09:15:08] Estat anterior: OK
+[2026-04-28 09:15:08] Sense canvis, no s'envia res
+[2026-04-28 09:15:08] === FI ===
+[2026-04-28 09:30:02] === INICI ===
+[2026-04-28 09:30:03] .env carregat
+[2026-04-28 09:30:03] Config OK
+[2026-04-28 09:30:03] Comprovant: https://moxfield.com/
+[2026-04-28 09:30:04] HTTP status: 403
+[2026-04-28 09:30:04] Reintent 1/2...
+[2026-04-28 09:30:06] HTTP status: 403
+[2026-04-28 09:30:06] Reintent 2/2...
+[2026-04-28 09:30:08] HTTP status: 403
+[2026-04-28 09:30:08] Resultat: CAIGUT
+[2026-04-28 09:30:08] Estat anterior: CAIGUT
+[2026-04-28 09:30:08] Sense canvis, no s'envia res
+[2026-04-28 09:30:08] Comprovant: https://github.com/
+[2026-04-28 09:30:09] HTTP status: 200
+[2026-04-28 09:30:09] Resultat: OK
+[2026-04-28 09:30:09] Estat anterior: OK
+[2026-04-28 09:30:09] Sense canvis, no s'envia res
+[2026-04-28 09:30:09] Comprovant: https://mail.google.com/
+[2026-04-28 09:30:10] HTTP status: 200
+[2026-04-28 09:30:10] Resultat: OK
+[2026-04-28 09:30:10] Estat anterior: OK
+[2026-04-28 09:30:10] Sense canvis, no s'envia res
+[2026-04-28 09:30:10] === FI ===
+[2026-04-28 09:45:01] === INICI ===
+[2026-04-28 09:45:01] .env carregat
+[2026-04-28 09:45:01] Config OK
+[2026-04-28 09:45:01] Comprovant: https://moxfield.com/
+[2026-04-28 09:45:02] HTTP status: 403
+[2026-04-28 09:45:02] Reintent 1/2...
+[2026-04-28 09:45:04] HTTP status: 403
+[2026-04-28 09:45:04] Reintent 2/2...
+[2026-04-28 09:45:06] HTTP status: 403
+[2026-04-28 09:45:06] Resultat: CAIGUT
+[2026-04-28 09:45:06] Estat anterior: CAIGUT
+[2026-04-28 09:45:06] Sense canvis, no s'envia res
+[2026-04-28 09:45:06] Comprovant: https://github.com/
+[2026-04-28 09:45:06] HTTP status: 200
+[2026-04-28 09:45:07] Resultat: OK
+[2026-04-28 09:45:07] Estat anterior: OK
+[2026-04-28 09:45:07] Sense canvis, no s'envia res
+[2026-04-28 09:45:07] Comprovant: https://mail.google.com/
+[2026-04-28 09:45:07] HTTP status: 200
+[2026-04-28 09:45:07] Resultat: OK
+[2026-04-28 09:45:07] Estat anterior: OK
+[2026-04-28 09:45:07] Sense canvis, no s'envia res
+[2026-04-28 09:45:07] === FI ===
+[2026-04-28 10:00:01] === INICI ===
+[2026-04-28 10:00:01] .env carregat
+[2026-04-28 10:00:01] Config OK
+[2026-04-28 10:00:01] Comprovant: https://moxfield.com/
+[2026-04-28 10:00:01] HTTP status: 403
+[2026-04-28 10:00:01] Reintent 1/2...
+[2026-04-28 10:00:03] HTTP status: 403
+[2026-04-28 10:00:03] Reintent 2/2...
+[2026-04-28 10:00:06] HTTP status: 403
+[2026-04-28 10:00:06] Resultat: CAIGUT
+[2026-04-28 10:00:06] Estat anterior: CAIGUT
+[2026-04-28 10:00:06] Sense canvis, no s'envia res
+[2026-04-28 10:00:06] Comprovant: https://github.com/
+[2026-04-28 10:00:06] HTTP status: 200
+[2026-04-28 10:00:06] Resultat: OK
+[2026-04-28 10:00:06] Estat anterior: OK
+[2026-04-28 10:00:06] Sense canvis, no s'envia res
+[2026-04-28 10:00:06] Comprovant: https://mail.google.com/
+[2026-04-28 10:00:07] HTTP status: 200
+[2026-04-28 10:00:07] Resultat: OK
+[2026-04-28 10:00:07] Estat anterior: OK
+[2026-04-28 10:00:07] Sense canvis, no s'envia res
+[2026-04-28 10:00:07] === FI ===
+[2026-04-28 10:15:02] === INICI ===
+[2026-04-28 10:15:02] .env carregat
+[2026-04-28 10:15:02] Config OK
+[2026-04-28 10:15:02] Comprovant: https://moxfield.com/
+[2026-04-28 10:15:03] HTTP status: 403
+[2026-04-28 10:15:03] Reintent 1/2...
+[2026-04-28 10:15:05] HTTP status: 403
+[2026-04-28 10:15:05] Reintent 2/2...
+[2026-04-28 10:15:07] HTTP status: 403
+[2026-04-28 10:15:07] Resultat: CAIGUT
+[2026-04-28 10:15:07] Estat anterior: CAIGUT
+[2026-04-28 10:15:07] Sense canvis, no s'envia res
+[2026-04-28 10:15:07] Comprovant: https://github.com/
+[2026-04-28 10:15:08] HTTP status: 200
+[2026-04-28 10:15:08] Resultat: OK
+[2026-04-28 10:15:08] Estat anterior: OK
+[2026-04-28 10:15:08] Sense canvis, no s'envia res
+[2026-04-28 10:15:08] Comprovant: https://mail.google.com/
+[2026-04-28 10:15:09] HTTP status: 200
+[2026-04-28 10:15:09] Resultat: OK
+[2026-04-28 10:15:09] Estat anterior: OK
+[2026-04-28 10:15:09] Sense canvis, no s'envia res
+[2026-04-28 10:15:09] === FI ===
+[2026-04-28 10:30:01] === INICI ===
+[2026-04-28 10:30:02] .env carregat
+[2026-04-28 10:30:02] Config OK
+[2026-04-28 10:30:02] Comprovant: https://moxfield.com/
+[2026-04-28 10:30:02] HTTP status: 403
+[2026-04-28 10:30:02] Reintent 1/2...
+[2026-04-28 10:30:04] HTTP status: 403
+[2026-04-28 10:30:04] Reintent 2/2...
+[2026-04-28 10:30:06] HTTP status: 403
+[2026-04-28 10:30:06] Resultat: CAIGUT
+[2026-04-28 10:30:06] Estat anterior: CAIGUT
+[2026-04-28 10:30:06] Sense canvis, no s'envia res
+[2026-04-28 10:30:06] Comprovant: https://github.com/
+[2026-04-28 10:30:07] HTTP status: 200
+[2026-04-28 10:30:07] Resultat: OK
+[2026-04-28 10:30:07] Estat anterior: OK
+[2026-04-28 10:30:07] Sense canvis, no s'envia res
+[2026-04-28 10:30:07] Comprovant: https://mail.google.com/
+[2026-04-28 10:30:08] HTTP status: 200
+[2026-04-28 10:30:08] Resultat: OK
+[2026-04-28 10:30:08] Estat anterior: OK
+[2026-04-28 10:30:08] Sense canvis, no s'envia res
+[2026-04-28 10:30:08] === FI ===
+[2026-04-28 10:45:02] === INICI ===
+[2026-04-28 10:45:02] .env carregat
+[2026-04-28 10:45:02] Config OK
+[2026-04-28 10:45:02] Comprovant: https://moxfield.com/
+[2026-04-28 10:45:03] HTTP status: 403
+[2026-04-28 10:45:03] Reintent 1/2...
+[2026-04-28 10:45:05] HTTP status: 403
+[2026-04-28 10:45:05] Reintent 2/2...
+[2026-04-28 10:45:07] HTTP status: 403
+[2026-04-28 10:45:07] Resultat: CAIGUT
+[2026-04-28 10:45:07] Estat anterior: CAIGUT
+[2026-04-28 10:45:07] Sense canvis, no s'envia res
+[2026-04-28 10:45:07] Comprovant: https://github.com/
+[2026-04-28 10:45:08] HTTP status: 200
+[2026-04-28 10:45:08] Resultat: OK
+[2026-04-28 10:45:08] Estat anterior: OK
+[2026-04-28 10:45:08] Sense canvis, no s'envia res
+[2026-04-28 10:45:08] Comprovant: https://mail.google.com/
+[2026-04-28 10:45:12] HTTP status: 200
+[2026-04-28 10:45:12] Resultat: OK
+[2026-04-28 10:45:12] Estat anterior: OK
+[2026-04-28 10:45:12] Sense canvis, no s'envia res
+[2026-04-28 10:45:13] === FI ===
+[2026-04-28 11:00:01] === INICI ===
+[2026-04-28 11:00:01] .env carregat
+[2026-04-28 11:00:01] Config OK
+[2026-04-28 11:00:01] Comprovant: https://moxfield.com/
+[2026-04-28 11:00:01] HTTP status: 403
+[2026-04-28 11:00:01] Reintent 1/2...
+[2026-04-28 11:00:03] HTTP status: 403
+[2026-04-28 11:00:03] Reintent 2/2...
+[2026-04-28 11:00:05] HTTP status: 403
+[2026-04-28 11:00:05] Resultat: CAIGUT
+[2026-04-28 11:00:05] Estat anterior: CAIGUT
+[2026-04-28 11:00:05] Sense canvis, no s'envia res
+[2026-04-28 11:00:05] Comprovant: https://github.com/
+[2026-04-28 11:00:06] HTTP status: 200
+[2026-04-28 11:00:06] Resultat: OK
+[2026-04-28 11:00:06] Estat anterior: OK
+[2026-04-28 11:00:06] Sense canvis, no s'envia res
+[2026-04-28 11:00:06] Comprovant: https://mail.google.com/
+[2026-04-28 11:00:16] Error: Timeout
+[2026-04-28 11:00:16] Reintent 1/2...
+[2026-04-28 11:00:19] HTTP status: 200
+[2026-04-28 11:00:19] Resultat: OK
+[2026-04-28 11:00:19] Estat anterior: OK
+[2026-04-28 11:00:19] Sense canvis, no s'envia res
+[2026-04-28 11:00:19] === FI ===
+[2026-04-28 11:15:01] === INICI ===
+[2026-04-28 11:15:01] .env carregat
+[2026-04-28 11:15:01] Config OK
+[2026-04-28 11:15:02] Comprovant: https://moxfield.com/
+[2026-04-28 11:15:02] HTTP status: 403
+[2026-04-28 11:15:02] Reintent 1/2...
+[2026-04-28 11:15:04] HTTP status: 403
+[2026-04-28 11:15:04] Reintent 2/2...
+[2026-04-28 11:15:06] HTTP status: 403
+[2026-04-28 11:15:06] Resultat: CAIGUT
+[2026-04-28 11:15:06] Estat anterior: CAIGUT
+[2026-04-28 11:15:06] Sense canvis, no s'envia res
+[2026-04-28 11:15:06] Comprovant: https://github.com/
+[2026-04-28 11:15:07] HTTP status: 200
+[2026-04-28 11:15:07] Resultat: OK
+[2026-04-28 11:15:07] Estat anterior: OK
+[2026-04-28 11:15:07] Sense canvis, no s'envia res
+[2026-04-28 11:15:07] Comprovant: https://mail.google.com/
+[2026-04-28 11:15:08] HTTP status: 200
+[2026-04-28 11:15:08] Resultat: OK
+[2026-04-28 11:15:08] Estat anterior: OK
+[2026-04-28 11:15:08] Sense canvis, no s'envia res
+[2026-04-28 11:15:08] === FI ===
+[2026-04-28 11:30:06] === INICI ===
+[2026-04-28 11:30:06] .env carregat
+[2026-04-28 11:30:06] Config OK
+[2026-04-28 11:30:07] Comprovant: https://moxfield.com/
+[2026-04-28 11:30:07] HTTP status: 403
+[2026-04-28 11:30:07] Reintent 1/2...
+[2026-04-28 11:30:10] HTTP status: 403
+[2026-04-28 11:30:10] Reintent 2/2...
+[2026-04-28 11:30:12] HTTP status: 403
+[2026-04-28 11:30:12] Resultat: CAIGUT
+[2026-04-28 11:30:12] Estat anterior: CAIGUT
+[2026-04-28 11:30:12] Sense canvis, no s'envia res
+[2026-04-28 11:30:12] Comprovant: https://github.com/
+[2026-04-28 11:30:12] HTTP status: 200
+[2026-04-28 11:30:12] Resultat: OK
+[2026-04-28 11:30:12] Estat anterior: OK
+[2026-04-28 11:30:12] Sense canvis, no s'envia res
+[2026-04-28 11:30:12] Comprovant: https://mail.google.com/
+[2026-04-28 11:30:13] HTTP status: 200
+[2026-04-28 11:30:13] Resultat: OK
+[2026-04-28 11:30:13] Estat anterior: OK
+[2026-04-28 11:30:13] Sense canvis, no s'envia res
+[2026-04-28 11:30:13] === FI ===
+[2026-04-28 11:45:05] === INICI ===
+[2026-04-28 11:45:05] .env carregat
+[2026-04-28 11:45:05] Config OK
+[2026-04-28 11:45:05] Comprovant: https://moxfield.com/
+[2026-04-28 11:45:06] HTTP status: 403
+[2026-04-28 11:45:06] Reintent 1/2...
+[2026-04-28 11:45:08] HTTP status: 403
+[2026-04-28 11:45:08] Reintent 2/2...
+[2026-04-28 11:45:10] HTTP status: 403
+[2026-04-28 11:45:10] Resultat: CAIGUT
+[2026-04-28 11:45:10] Estat anterior: CAIGUT
+[2026-04-28 11:45:10] Sense canvis, no s'envia res
+[2026-04-28 11:45:10] Comprovant: https://github.com/
+[2026-04-28 11:45:11] HTTP status: 200
+[2026-04-28 11:45:11] Resultat: OK
+[2026-04-28 11:45:11] Estat anterior: OK
+[2026-04-28 11:45:11] Sense canvis, no s'envia res
+[2026-04-28 11:45:11] Comprovant: https://mail.google.com/
+[2026-04-28 11:45:12] HTTP status: 200
+[2026-04-28 11:45:12] Resultat: OK
+[2026-04-28 11:45:12] Estat anterior: OK
+[2026-04-28 11:45:12] Sense canvis, no s'envia res
+[2026-04-28 11:45:12] === FI ===
+[2026-04-28 12:00:02] === INICI ===
+[2026-04-28 12:00:02] .env carregat
+[2026-04-28 12:00:02] Config OK
+[2026-04-28 12:00:02] Comprovant: https://moxfield.com/
+[2026-04-28 12:00:02] HTTP status: 403
+[2026-04-28 12:00:02] Reintent 1/2...
+[2026-04-28 12:00:04] HTTP status: 403
+[2026-04-28 12:00:04] Reintent 2/2...
+[2026-04-28 12:00:06] HTTP status: 403
+[2026-04-28 12:00:06] Resultat: CAIGUT
+[2026-04-28 12:00:06] Estat anterior: CAIGUT
+[2026-04-28 12:00:06] Sense canvis, no s'envia res
+[2026-04-28 12:00:06] Comprovant: https://github.com/
+[2026-04-28 12:00:07] HTTP status: 200
+[2026-04-28 12:00:07] Resultat: OK
+[2026-04-28 12:00:07] Estat anterior: OK
+[2026-04-28 12:00:07] Sense canvis, no s'envia res
+[2026-04-28 12:00:07] Comprovant: https://mail.google.com/
+[2026-04-28 12:00:08] HTTP status: 200
+[2026-04-28 12:00:08] Resultat: OK
+[2026-04-28 12:00:08] Estat anterior: OK
+[2026-04-28 12:00:08] Sense canvis, no s'envia res
+[2026-04-28 12:00:08] === FI ===
+[2026-04-28 12:15:02] === INICI ===
+[2026-04-28 12:15:03] .env carregat
+[2026-04-28 12:15:03] Config OK
+[2026-04-28 12:15:03] Comprovant: https://moxfield.com/
+[2026-04-28 12:15:03] HTTP status: 403
+[2026-04-28 12:15:03] Reintent 1/2...
+[2026-04-28 12:15:05] HTTP status: 403
+[2026-04-28 12:15:05] Reintent 2/2...
+[2026-04-28 12:15:07] HTTP status: 403
+[2026-04-28 12:15:07] Resultat: CAIGUT
+[2026-04-28 12:15:07] Estat anterior: CAIGUT
+[2026-04-28 12:15:07] Sense canvis, no s'envia res
+[2026-04-28 12:15:07] Comprovant: https://github.com/
+[2026-04-28 12:15:08] HTTP status: 200
+[2026-04-28 12:15:08] Resultat: OK
+[2026-04-28 12:15:08] Estat anterior: OK
+[2026-04-28 12:15:08] Sense canvis, no s'envia res
+[2026-04-28 12:15:08] Comprovant: https://mail.google.com/
+[2026-04-28 12:15:09] HTTP status: 200
+[2026-04-28 12:15:09] Resultat: OK
+[2026-04-28 12:15:09] Estat anterior: OK
+[2026-04-28 12:15:09] Sense canvis, no s'envia res
+[2026-04-28 12:15:09] === FI ===
+[2026-04-28 12:30:50] === INICI ===
+[2026-04-28 12:30:50] .env carregat
+[2026-04-28 12:30:50] Config OK
+[2026-04-28 12:30:50] Comprovant: https://moxfield.com/
+[2026-04-28 12:30:51] HTTP status: 403
+[2026-04-28 12:30:51] Reintent 1/2...
+[2026-04-28 12:30:53] HTTP status: 403
+[2026-04-28 12:30:53] Reintent 2/2...
+[2026-04-28 12:30:55] HTTP status: 403
+[2026-04-28 12:30:55] Resultat: CAIGUT
+[2026-04-28 12:30:55] Estat anterior: CAIGUT
+[2026-04-28 12:30:55] Sense canvis, no s'envia res
+[2026-04-28 12:30:55] Comprovant: https://github.com/
+[2026-04-28 12:30:55] HTTP status: 200
+[2026-04-28 12:30:55] Resultat: OK
+[2026-04-28 12:30:55] Estat anterior: OK
+[2026-04-28 12:30:55] Sense canvis, no s'envia res
+[2026-04-28 12:30:55] Comprovant: https://mail.google.com/
+[2026-04-28 12:30:58] HTTP status: 200
+[2026-04-28 12:30:58] Resultat: OK
+[2026-04-28 12:30:58] Estat anterior: OK
+[2026-04-28 12:30:58] Sense canvis, no s'envia res
+[2026-04-28 12:30:58] === FI ===
+[2026-04-28 12:45:24] === INICI ===
+[2026-04-28 12:45:25] .env carregat
+[2026-04-28 12:45:25] Config OK
+[2026-04-28 12:45:25] Comprovant: https://moxfield.com/
+[2026-04-28 12:45:25] HTTP status: 403
+[2026-04-28 12:45:25] Reintent 1/2...
+[2026-04-28 12:45:27] HTTP status: 403
+[2026-04-28 12:45:27] Reintent 2/2...
+[2026-04-28 12:45:29] HTTP status: 403
+[2026-04-28 12:45:35] Resultat: CAIGUT
+[2026-04-28 12:45:35] Estat anterior: CAIGUT
+[2026-04-28 12:45:35] Sense canvis, no s'envia res
+[2026-04-28 12:45:35] Comprovant: https://github.com/
+[2026-04-28 12:45:49] Error: Timeout
+[2026-04-28 12:45:49] Reintent 1/2...
+[2026-04-28 12:46:09] Error: Timeout
+[2026-04-28 12:46:09] Reintent 2/2...
+[2026-04-28 12:46:30] Error: Timeout
+[2026-04-28 12:46:30] Resultat: CAIGUT
+[2026-04-28 12:46:37] Estat anterior: OK
+[2026-04-28 12:46:43] Canvi d'estat! Enviant missatge
+[2026-04-28 12:47:28] Missatge enviat
+[2026-04-28 12:47:28] Comprovant: https://mail.google.com/
+[2026-04-28 12:47:29] HTTP status: 200
+[2026-04-28 12:47:29] Resultat: OK
+[2026-04-28 12:47:29] Estat anterior: OK
+[2026-04-28 12:47:29] Sense canvis, no s'envia res
+[2026-04-28 12:47:29] === FI ===
+[2026-04-28 13:00:09] === INICI ===
+[2026-04-28 13:00:09] .env carregat
+[2026-04-28 13:00:09] Config OK
+[2026-04-28 13:00:09] Comprovant: https://moxfield.com/
+[2026-04-28 13:00:09] HTTP status: 403
+[2026-04-28 13:00:09] Reintent 1/2...
+[2026-04-28 13:00:11] HTTP status: 403
+[2026-04-28 13:00:11] Reintent 2/2...
+[2026-04-28 13:00:13] HTTP status: 403
+[2026-04-28 13:00:13] Resultat: CAIGUT
+[2026-04-28 13:00:13] Estat anterior: CAIGUT
+[2026-04-28 13:00:13] Sense canvis, no s'envia res
+[2026-04-28 13:00:13] Comprovant: https://github.com/
+[2026-04-28 13:00:14] HTTP status: 200
+[2026-04-28 13:00:14] Resultat: OK
+[2026-04-28 13:00:14] Estat anterior: CAIGUT
+[2026-04-28 13:00:14] Canvi d'estat! Enviant missatge
+[2026-04-28 13:00:15] Missatge enviat
+[2026-04-28 13:00:15] Comprovant: https://mail.google.com/
+[2026-04-28 13:00:16] HTTP status: 200
+[2026-04-28 13:00:16] Resultat: OK
+[2026-04-28 13:00:16] Estat anterior: OK
+[2026-04-28 13:00:16] Sense canvis, no s'envia res
+[2026-04-28 13:00:16] === FI ===
+[2026-04-28 13:15:01] === INICI ===
+[2026-04-28 13:15:01] .env carregat
+[2026-04-28 13:15:01] Config OK
+[2026-04-28 13:15:01] Comprovant: https://moxfield.com/
+[2026-04-28 13:15:01] HTTP status: 403
+[2026-04-28 13:15:01] Reintent 1/2...
+[2026-04-28 13:15:03] HTTP status: 403
+[2026-04-28 13:15:03] Reintent 2/2...
+[2026-04-28 13:15:06] HTTP status: 403
+[2026-04-28 13:15:06] Resultat: CAIGUT
+[2026-04-28 13:15:06] Estat anterior: CAIGUT
+[2026-04-28 13:15:06] Sense canvis, no s'envia res
+[2026-04-28 13:15:06] Comprovant: https://github.com/
+[2026-04-28 13:15:06] HTTP status: 200
+[2026-04-28 13:15:06] Resultat: OK
+[2026-04-28 13:15:06] Estat anterior: OK
+[2026-04-28 13:15:06] Sense canvis, no s'envia res
+[2026-04-28 13:15:06] Comprovant: https://mail.google.com/
+[2026-04-28 13:15:07] HTTP status: 200
+[2026-04-28 13:15:07] Resultat: OK
+[2026-04-28 13:15:07] Estat anterior: OK
+[2026-04-28 13:15:07] Sense canvis, no s'envia res
+[2026-04-28 13:15:07] === FI ===
+[2026-04-28 13:30:01] === INICI ===
+[2026-04-28 13:30:01] .env carregat
+[2026-04-28 13:30:01] Config OK
+[2026-04-28 13:30:01] Comprovant: https://moxfield.com/
+[2026-04-28 13:30:02] HTTP status: 403
+[2026-04-28 13:30:02] Reintent 1/2...
+[2026-04-28 13:30:04] HTTP status: 403
+[2026-04-28 13:30:04] Reintent 2/2...
+[2026-04-28 13:30:06] HTTP status: 403
+[2026-04-28 13:30:06] Resultat: CAIGUT
+[2026-04-28 13:30:06] Estat anterior: CAIGUT
+[2026-04-28 13:30:06] Sense canvis, no s'envia res
+[2026-04-28 13:30:06] Comprovant: https://github.com/
+[2026-04-28 13:30:06] HTTP status: 200
+[2026-04-28 13:30:06] Resultat: OK
+[2026-04-28 13:30:06] Estat anterior: OK
+[2026-04-28 13:30:06] Sense canvis, no s'envia res
+[2026-04-28 13:30:06] Comprovant: https://mail.google.com/
+[2026-04-28 13:30:07] HTTP status: 200
+[2026-04-28 13:30:07] Resultat: OK
+[2026-04-28 13:30:07] Estat anterior: OK
+[2026-04-28 13:30:07] Sense canvis, no s'envia res
+[2026-04-28 13:30:07] === FI ===
+[2026-04-28 13:45:01] === INICI ===
+[2026-04-28 13:45:01] .env carregat
+[2026-04-28 13:45:01] Config OK
+[2026-04-28 13:45:01] Comprovant: https://moxfield.com/
+[2026-04-28 13:45:01] HTTP status: 403
+[2026-04-28 13:45:01] Reintent 1/2...
+[2026-04-28 13:45:03] HTTP status: 403
+[2026-04-28 13:45:03] Reintent 2/2...
+[2026-04-28 13:45:05] HTTP status: 403
+[2026-04-28 13:45:05] Resultat: CAIGUT
+[2026-04-28 13:45:05] Estat anterior: CAIGUT
+[2026-04-28 13:45:05] Sense canvis, no s'envia res
+[2026-04-28 13:45:05] Comprovant: https://github.com/
+[2026-04-28 13:45:06] HTTP status: 200
+[2026-04-28 13:45:06] Resultat: OK
+[2026-04-28 13:45:06] Estat anterior: OK
+[2026-04-28 13:45:06] Sense canvis, no s'envia res
+[2026-04-28 13:45:06] Comprovant: https://mail.google.com/
+[2026-04-28 13:45:07] HTTP status: 200
+[2026-04-28 13:45:07] Resultat: OK
+[2026-04-28 13:45:07] Estat anterior: OK
+[2026-04-28 13:45:07] Sense canvis, no s'envia res
+[2026-04-28 13:45:07] === FI ===
+[2026-04-28 14:00:01] === INICI ===
+[2026-04-28 14:00:01] .env carregat
+[2026-04-28 14:00:01] Config OK
+[2026-04-28 14:00:01] Comprovant: https://moxfield.com/
+[2026-04-28 14:00:01] HTTP status: 403
+[2026-04-28 14:00:01] Reintent 1/2...
+[2026-04-28 14:00:03] HTTP status: 403
+[2026-04-28 14:00:03] Reintent 2/2...
+[2026-04-28 14:00:06] HTTP status: 403
+[2026-04-28 14:00:06] Resultat: CAIGUT
+[2026-04-28 14:00:06] Estat anterior: CAIGUT
+[2026-04-28 14:00:06] Sense canvis, no s'envia res
+[2026-04-28 14:00:06] Comprovant: https://github.com/
+[2026-04-28 14:00:06] HTTP status: 200
+[2026-04-28 14:00:06] Resultat: OK
+[2026-04-28 14:00:06] Estat anterior: OK
+[2026-04-28 14:00:06] Sense canvis, no s'envia res
+[2026-04-28 14:00:06] Comprovant: https://mail.google.com/
+[2026-04-28 14:00:07] HTTP status: 200
+[2026-04-28 14:00:07] Resultat: OK
+[2026-04-28 14:00:07] Estat anterior: OK
+[2026-04-28 14:00:07] Sense canvis, no s'envia res
+[2026-04-28 14:00:07] === FI ===
+[2026-04-28 14:15:01] === INICI ===
+[2026-04-28 14:15:01] .env carregat
+[2026-04-28 14:15:01] Config OK
+[2026-04-28 14:15:01] Comprovant: https://moxfield.com/
+[2026-04-28 14:15:01] HTTP status: 403
+[2026-04-28 14:15:01] Reintent 1/2...
+[2026-04-28 14:15:03] HTTP status: 403
+[2026-04-28 14:15:03] Reintent 2/2...
+[2026-04-28 14:15:05] HTTP status: 403
+[2026-04-28 14:15:05] Resultat: CAIGUT
+[2026-04-28 14:15:05] Estat anterior: CAIGUT
+[2026-04-28 14:15:05] Sense canvis, no s'envia res
+[2026-04-28 14:15:05] Comprovant: https://github.com/
+[2026-04-28 14:15:06] HTTP status: 200
+[2026-04-28 14:15:06] Resultat: OK
+[2026-04-28 14:15:06] Estat anterior: OK
+[2026-04-28 14:15:06] Sense canvis, no s'envia res
+[2026-04-28 14:15:06] Comprovant: https://mail.google.com/
+[2026-04-28 14:15:07] HTTP status: 200
+[2026-04-28 14:15:07] Resultat: OK
+[2026-04-28 14:15:07] Estat anterior: OK
+[2026-04-28 14:15:07] Sense canvis, no s'envia res
+[2026-04-28 14:15:07] === FI ===
+[2026-04-28 14:30:01] === INICI ===
+[2026-04-28 14:30:01] .env carregat
+[2026-04-28 14:30:01] Config OK
+[2026-04-28 14:30:01] Comprovant: https://moxfield.com/
+[2026-04-28 14:30:02] HTTP status: 403
+[2026-04-28 14:30:02] Reintent 1/2...
+[2026-04-28 14:30:04] HTTP status: 403
+[2026-04-28 14:30:04] Reintent 2/2...
+[2026-04-28 14:30:06] HTTP status: 403
+[2026-04-28 14:30:06] Resultat: CAIGUT
+[2026-04-28 14:30:06] Estat anterior: CAIGUT
+[2026-04-28 14:30:06] Sense canvis, no s'envia res
+[2026-04-28 14:30:06] Comprovant: https://github.com/
+[2026-04-28 14:30:06] HTTP status: 200
+[2026-04-28 14:30:06] Resultat: OK
+[2026-04-28 14:30:06] Estat anterior: OK
+[2026-04-28 14:30:06] Sense canvis, no s'envia res
+[2026-04-28 14:30:06] Comprovant: https://mail.google.com/
+[2026-04-28 14:30:08] HTTP status: 200
+[2026-04-28 14:30:08] Resultat: OK
+[2026-04-28 14:30:08] Estat anterior: OK
+[2026-04-28 14:30:08] Sense canvis, no s'envia res
+[2026-04-28 14:30:08] === FI ===
+[2026-04-28 14:45:01] === INICI ===
+[2026-04-28 14:45:01] .env carregat
+[2026-04-28 14:45:01] Config OK
+[2026-04-28 14:45:01] Comprovant: https://moxfield.com/
+[2026-04-28 14:45:01] HTTP status: 403
+[2026-04-28 14:45:01] Reintent 1/2...
+[2026-04-28 14:45:03] HTTP status: 403
+[2026-04-28 14:45:03] Reintent 2/2...
+[2026-04-28 14:45:05] HTTP status: 403
+[2026-04-28 14:45:05] Resultat: CAIGUT
+[2026-04-28 14:45:05] Estat anterior: CAIGUT
+[2026-04-28 14:45:05] Sense canvis, no s'envia res
+[2026-04-28 14:45:05] Comprovant: https://github.com/
+[2026-04-28 14:45:06] HTTP status: 200
+[2026-04-28 14:45:06] Resultat: OK
+[2026-04-28 14:45:06] Estat anterior: OK
+[2026-04-28 14:45:06] Sense canvis, no s'envia res
+[2026-04-28 14:45:06] Comprovant: https://mail.google.com/
+[2026-04-28 14:45:07] HTTP status: 200
+[2026-04-28 14:45:07] Resultat: OK
+[2026-04-28 14:45:07] Estat anterior: OK
+[2026-04-28 14:45:07] Sense canvis, no s'envia res
+[2026-04-28 14:45:07] === FI ===
+[2026-04-28 15:00:01] === INICI ===
+[2026-04-28 15:00:01] .env carregat
+[2026-04-28 15:00:01] Config OK
+[2026-04-28 15:00:01] Comprovant: https://moxfield.com/
+[2026-04-28 15:00:01] HTTP status: 403
+[2026-04-28 15:00:01] Reintent 1/2...
+[2026-04-28 15:00:03] HTTP status: 403
+[2026-04-28 15:00:03] Reintent 2/2...
+[2026-04-28 15:00:05] HTTP status: 403
+[2026-04-28 15:00:05] Resultat: CAIGUT
+[2026-04-28 15:00:05] Estat anterior: CAIGUT
+[2026-04-28 15:00:05] Sense canvis, no s'envia res
+[2026-04-28 15:00:05] Comprovant: https://github.com/
+[2026-04-28 15:00:06] HTTP status: 200
+[2026-04-28 15:00:06] Resultat: OK
+[2026-04-28 15:00:06] Estat anterior: OK
+[2026-04-28 15:00:06] Sense canvis, no s'envia res
+[2026-04-28 15:00:06] Comprovant: https://mail.google.com/
+[2026-04-28 15:00:07] HTTP status: 200
+[2026-04-28 15:00:07] Resultat: OK
+[2026-04-28 15:00:07] Estat anterior: OK
+[2026-04-28 15:00:07] Sense canvis, no s'envia res
+[2026-04-28 15:00:07] === FI ===
+[2026-04-28 15:15:01] === INICI ===
+[2026-04-28 15:15:01] .env carregat
+[2026-04-28 15:15:01] Config OK
+[2026-04-28 15:15:01] Comprovant: https://moxfield.com/
+[2026-04-28 15:15:01] HTTP status: 403
+[2026-04-28 15:15:01] Reintent 1/2...
+[2026-04-28 15:15:03] HTTP status: 403
+[2026-04-28 15:15:03] Reintent 2/2...
+[2026-04-28 15:15:05] HTTP status: 403
+[2026-04-28 15:15:05] Resultat: CAIGUT
+[2026-04-28 15:15:05] Estat anterior: CAIGUT
+[2026-04-28 15:15:05] Sense canvis, no s'envia res
+[2026-04-28 15:15:05] Comprovant: https://github.com/
+[2026-04-28 15:15:06] HTTP status: 200
+[2026-04-28 15:15:06] Resultat: OK
+[2026-04-28 15:15:06] Estat anterior: OK
+[2026-04-28 15:15:06] Sense canvis, no s'envia res
+[2026-04-28 15:15:06] Comprovant: https://mail.google.com/
+[2026-04-28 15:15:07] HTTP status: 200
+[2026-04-28 15:15:07] Resultat: OK
+[2026-04-28 15:15:07] Estat anterior: OK
+[2026-04-28 15:15:07] Sense canvis, no s'envia res
+[2026-04-28 15:15:07] === FI ===
+[2026-04-28 15:30:01] === INICI ===
+[2026-04-28 15:30:01] .env carregat
+[2026-04-28 15:30:01] Config OK
+[2026-04-28 15:30:01] Comprovant: https://moxfield.com/
+[2026-04-28 15:30:02] HTTP status: 403
+[2026-04-28 15:30:02] Reintent 1/2...
+[2026-04-28 15:30:04] HTTP status: 403
+[2026-04-28 15:30:04] Reintent 2/2...
+[2026-04-28 15:30:06] HTTP status: 403
+[2026-04-28 15:30:06] Resultat: CAIGUT
+[2026-04-28 15:30:06] Estat anterior: CAIGUT
+[2026-04-28 15:30:06] Sense canvis, no s'envia res
+[2026-04-28 15:30:06] Comprovant: https://github.com/
+[2026-04-28 15:30:06] HTTP status: 200
+[2026-04-28 15:30:06] Resultat: OK
+[2026-04-28 15:30:06] Estat anterior: OK
+[2026-04-28 15:30:06] Sense canvis, no s'envia res
+[2026-04-28 15:30:06] Comprovant: https://mail.google.com/
+[2026-04-28 15:30:07] HTTP status: 200
+[2026-04-28 15:30:07] Resultat: OK
+[2026-04-28 15:30:07] Estat anterior: OK
+[2026-04-28 15:30:07] Sense canvis, no s'envia res
+[2026-04-28 15:30:07] === FI ===
+[2026-04-28 15:45:01] === INICI ===
+[2026-04-28 15:45:01] .env carregat
+[2026-04-28 15:45:01] Config OK
+[2026-04-28 15:45:01] Comprovant: https://moxfield.com/
+[2026-04-28 15:45:02] HTTP status: 403
+[2026-04-28 15:45:02] Reintent 1/2...
+[2026-04-28 15:45:04] HTTP status: 403
+[2026-04-28 15:45:04] Reintent 2/2...
+[2026-04-28 15:45:06] HTTP status: 403
+[2026-04-28 15:45:06] Resultat: CAIGUT
+[2026-04-28 15:45:06] Estat anterior: CAIGUT
+[2026-04-28 15:45:06] Sense canvis, no s'envia res
+[2026-04-28 15:45:06] Comprovant: https://github.com/
+[2026-04-28 15:45:06] HTTP status: 200
+[2026-04-28 15:45:06] Resultat: OK
+[2026-04-28 15:45:06] Estat anterior: OK
+[2026-04-28 15:45:06] Sense canvis, no s'envia res
+[2026-04-28 15:45:06] Comprovant: https://mail.google.com/
+[2026-04-28 15:45:07] HTTP status: 200
+[2026-04-28 15:45:07] Resultat: OK
+[2026-04-28 15:45:07] Estat anterior: OK
+[2026-04-28 15:45:07] Sense canvis, no s'envia res
+[2026-04-28 15:45:07] === FI ===
+[2026-04-28 16:00:01] === INICI ===
+[2026-04-28 16:00:01] .env carregat
+[2026-04-28 16:00:01] Config OK
+[2026-04-28 16:00:01] Comprovant: https://moxfield.com/
+[2026-04-28 16:00:01] HTTP status: 403
+[2026-04-28 16:00:01] Reintent 1/2...
+[2026-04-28 16:00:03] HTTP status: 403
+[2026-04-28 16:00:03] Reintent 2/2...
+[2026-04-28 16:00:05] HTTP status: 403
+[2026-04-28 16:00:05] Resultat: CAIGUT
+[2026-04-28 16:00:05] Estat anterior: CAIGUT
+[2026-04-28 16:00:05] Sense canvis, no s'envia res
+[2026-04-28 16:00:05] Comprovant: https://github.com/
+[2026-04-28 16:00:06] HTTP status: 200
+[2026-04-28 16:00:06] Resultat: OK
+[2026-04-28 16:00:06] Estat anterior: OK
+[2026-04-28 16:00:06] Sense canvis, no s'envia res
+[2026-04-28 16:00:06] Comprovant: https://mail.google.com/
+[2026-04-28 16:00:07] HTTP status: 200
+[2026-04-28 16:00:07] Resultat: OK
+[2026-04-28 16:00:07] Estat anterior: OK
+[2026-04-28 16:00:07] Sense canvis, no s'envia res
+[2026-04-28 16:00:07] === FI ===
+[2026-04-28 16:15:01] === INICI ===
+[2026-04-28 16:15:01] .env carregat
+[2026-04-28 16:15:01] Config OK
+[2026-04-28 16:15:01] Comprovant: https://moxfield.com/
+[2026-04-28 16:15:01] HTTP status: 403
+[2026-04-28 16:15:01] Reintent 1/2...
+[2026-04-28 16:15:03] HTTP status: 403
+[2026-04-28 16:15:03] Reintent 2/2...
+[2026-04-28 16:15:05] HTTP status: 403
+[2026-04-28 16:15:05] Resultat: CAIGUT
+[2026-04-28 16:15:05] Estat anterior: CAIGUT
+[2026-04-28 16:15:05] Sense canvis, no s'envia res
+[2026-04-28 16:15:05] Comprovant: https://github.com/
+[2026-04-28 16:15:06] HTTP status: 200
+[2026-04-28 16:15:06] Resultat: OK
+[2026-04-28 16:15:06] Estat anterior: OK
+[2026-04-28 16:15:06] Sense canvis, no s'envia res
+[2026-04-28 16:15:06] Comprovant: https://mail.google.com/
+[2026-04-28 16:15:07] HTTP status: 200
+[2026-04-28 16:15:07] Resultat: OK
+[2026-04-28 16:15:07] Estat anterior: OK
+[2026-04-28 16:15:07] Sense canvis, no s'envia res
+[2026-04-28 16:15:07] === FI ===
+[2026-04-28 16:30:01] === INICI ===
+[2026-04-28 16:30:01] .env carregat
+[2026-04-28 16:30:01] Config OK
+[2026-04-28 16:30:01] Comprovant: https://moxfield.com/
+[2026-04-28 16:30:01] HTTP status: 403
+[2026-04-28 16:30:01] Reintent 1/2...
+[2026-04-28 16:30:03] HTTP status: 403
+[2026-04-28 16:30:03] Reintent 2/2...
+[2026-04-28 16:30:05] HTTP status: 403
+[2026-04-28 16:30:05] Resultat: CAIGUT
+[2026-04-28 16:30:05] Estat anterior: CAIGUT
+[2026-04-28 16:30:05] Sense canvis, no s'envia res
+[2026-04-28 16:30:05] Comprovant: https://github.com/
+[2026-04-28 16:30:06] HTTP status: 200
+[2026-04-28 16:30:06] Resultat: OK
+[2026-04-28 16:30:06] Estat anterior: OK
+[2026-04-28 16:30:06] Sense canvis, no s'envia res
+[2026-04-28 16:30:06] Comprovant: https://mail.google.com/
+[2026-04-28 16:30:07] HTTP status: 200
+[2026-04-28 16:30:07] Resultat: OK
+[2026-04-28 16:30:07] Estat anterior: OK
+[2026-04-28 16:30:07] Sense canvis, no s'envia res
+[2026-04-28 16:30:07] === FI ===
+[2026-04-28 16:45:01] === INICI ===
+[2026-04-28 16:45:01] .env carregat
+[2026-04-28 16:45:01] Config OK
+[2026-04-28 16:45:01] Comprovant: https://moxfield.com/
+[2026-04-28 16:45:01] HTTP status: 403
+[2026-04-28 16:45:01] Reintent 1/2...
+[2026-04-28 16:45:03] HTTP status: 403
+[2026-04-28 16:45:03] Reintent 2/2...
+[2026-04-28 16:45:05] HTTP status: 403
+[2026-04-28 16:45:05] Resultat: CAIGUT
+[2026-04-28 16:45:05] Estat anterior: CAIGUT
+[2026-04-28 16:45:05] Sense canvis, no s'envia res
+[2026-04-28 16:45:05] Comprovant: https://github.com/
+[2026-04-28 16:45:06] HTTP status: 200
+[2026-04-28 16:45:06] Resultat: OK
+[2026-04-28 16:45:06] Estat anterior: OK
+[2026-04-28 16:45:06] Sense canvis, no s'envia res
+[2026-04-28 16:45:06] Comprovant: https://mail.google.com/
+[2026-04-28 16:45:07] HTTP status: 200
+[2026-04-28 16:45:07] Resultat: OK
+[2026-04-28 16:45:07] Estat anterior: OK
+[2026-04-28 16:45:07] Sense canvis, no s'envia res
+[2026-04-28 16:45:07] === FI ===
+[2026-04-28 17:00:01] === INICI ===
+[2026-04-28 17:00:01] .env carregat
+[2026-04-28 17:00:01] Config OK
+[2026-04-28 17:00:01] Comprovant: https://moxfield.com/
+[2026-04-28 17:00:01] HTTP status: 403
+[2026-04-28 17:00:01] Reintent 1/2...
+[2026-04-28 17:00:03] HTTP status: 403
+[2026-04-28 17:00:03] Reintent 2/2...
+[2026-04-28 17:00:05] HTTP status: 403
+[2026-04-28 17:00:05] Resultat: CAIGUT
+[2026-04-28 17:00:05] Estat anterior: CAIGUT
+[2026-04-28 17:00:05] Sense canvis, no s'envia res
+[2026-04-28 17:00:05] Comprovant: https://github.com/
+[2026-04-28 17:00:06] HTTP status: 200
+[2026-04-28 17:00:06] Resultat: OK
+[2026-04-28 17:00:06] Estat anterior: OK
+[2026-04-28 17:00:06] Sense canvis, no s'envia res
+[2026-04-28 17:00:06] Comprovant: https://mail.google.com/
+[2026-04-28 17:00:07] HTTP status: 200
+[2026-04-28 17:00:07] Resultat: OK
+[2026-04-28 17:00:07] Estat anterior: OK
+[2026-04-28 17:00:07] Sense canvis, no s'envia res
+[2026-04-28 17:00:07] === FI ===
+[2026-04-28 17:15:01] === INICI ===
+[2026-04-28 17:15:01] .env carregat
+[2026-04-28 17:15:01] Config OK
+[2026-04-28 17:15:01] Comprovant: https://moxfield.com/
+[2026-04-28 17:15:01] HTTP status: 403
+[2026-04-28 17:15:01] Reintent 1/2...
+[2026-04-28 17:15:03] HTTP status: 403
+[2026-04-28 17:15:03] Reintent 2/2...
+[2026-04-28 17:15:05] HTTP status: 403
+[2026-04-28 17:15:05] Resultat: CAIGUT
+[2026-04-28 17:15:05] Estat anterior: CAIGUT
+[2026-04-28 17:15:05] Sense canvis, no s'envia res
+[2026-04-28 17:15:05] Comprovant: https://github.com/
+[2026-04-28 17:15:06] HTTP status: 200
+[2026-04-28 17:15:06] Resultat: OK
+[2026-04-28 17:15:06] Estat anterior: OK
+[2026-04-28 17:15:06] Sense canvis, no s'envia res
+[2026-04-28 17:15:06] Comprovant: https://mail.google.com/
+[2026-04-28 17:15:07] HTTP status: 200
+[2026-04-28 17:15:07] Resultat: OK
+[2026-04-28 17:15:07] Estat anterior: OK
+[2026-04-28 17:15:07] Sense canvis, no s'envia res
+[2026-04-28 17:15:07] === FI ===
+[2026-04-28 17:30:01] === INICI ===
+[2026-04-28 17:30:01] .env carregat
+[2026-04-28 17:30:01] Config OK
+[2026-04-28 17:30:01] Comprovant: https://moxfield.com/
+[2026-04-28 17:30:02] HTTP status: 403
+[2026-04-28 17:30:02] Reintent 1/2...
+[2026-04-28 17:30:04] HTTP status: 403
+[2026-04-28 17:30:04] Reintent 2/2...
+[2026-04-28 17:30:06] HTTP status: 403
+[2026-04-28 17:30:06] Resultat: CAIGUT
+[2026-04-28 17:30:06] Estat anterior: CAIGUT
+[2026-04-28 17:30:06] Sense canvis, no s'envia res
+[2026-04-28 17:30:06] Comprovant: https://github.com/
+[2026-04-28 17:30:06] HTTP status: 200
+[2026-04-28 17:30:06] Resultat: OK
+[2026-04-28 17:30:06] Estat anterior: OK
+[2026-04-28 17:30:06] Sense canvis, no s'envia res
+[2026-04-28 17:30:06] Comprovant: https://mail.google.com/
+[2026-04-28 17:30:07] HTTP status: 200
+[2026-04-28 17:30:07] Resultat: OK
+[2026-04-28 17:30:07] Estat anterior: OK
+[2026-04-28 17:30:07] Sense canvis, no s'envia res
+[2026-04-28 17:30:07] === FI ===
+[2026-04-28 17:45:01] === INICI ===
+[2026-04-28 17:45:01] .env carregat
+[2026-04-28 17:45:01] Config OK
+[2026-04-28 17:45:01] Comprovant: https://moxfield.com/
+[2026-04-28 17:45:01] HTTP status: 403
+[2026-04-28 17:45:01] Reintent 1/2...
+[2026-04-28 17:45:03] HTTP status: 403
+[2026-04-28 17:45:03] Reintent 2/2...
+[2026-04-28 17:45:05] HTTP status: 403
+[2026-04-28 17:45:05] Resultat: CAIGUT
+[2026-04-28 17:45:05] Estat anterior: CAIGUT
+[2026-04-28 17:45:05] Sense canvis, no s'envia res
+[2026-04-28 17:45:05] Comprovant: https://github.com/
+[2026-04-28 17:45:08] HTTP status: 200
+[2026-04-28 17:45:08] Resultat: OK
+[2026-04-28 17:45:08] Estat anterior: OK
+[2026-04-28 17:45:08] Sense canvis, no s'envia res
+[2026-04-28 17:45:08] Comprovant: https://mail.google.com/
+[2026-04-28 17:45:08] HTTP status: 200
+[2026-04-28 17:45:08] Resultat: OK
+[2026-04-28 17:45:08] Estat anterior: OK
+[2026-04-28 17:45:08] Sense canvis, no s'envia res
+[2026-04-28 17:45:09] === FI ===
+[2026-04-28 18:00:01] === INICI ===
+[2026-04-28 18:00:01] .env carregat
+[2026-04-28 18:00:01] Config OK
+[2026-04-28 18:00:01] Comprovant: https://moxfield.com/
+[2026-04-28 18:00:01] HTTP status: 403
+[2026-04-28 18:00:01] Reintent 1/2...
+[2026-04-28 18:00:03] HTTP status: 403
+[2026-04-28 18:00:03] Reintent 2/2...
+[2026-04-28 18:00:05] HTTP status: 403
+[2026-04-28 18:00:05] Resultat: CAIGUT
+[2026-04-28 18:00:05] Estat anterior: CAIGUT
+[2026-04-28 18:00:05] Sense canvis, no s'envia res
+[2026-04-28 18:00:05] Comprovant: https://github.com/
+[2026-04-28 18:00:06] HTTP status: 200
+[2026-04-28 18:00:06] Resultat: OK
+[2026-04-28 18:00:06] Estat anterior: OK
+[2026-04-28 18:00:06] Sense canvis, no s'envia res
+[2026-04-28 18:00:06] Comprovant: https://mail.google.com/
+[2026-04-28 18:00:07] HTTP status: 200
+[2026-04-28 18:00:07] Resultat: OK
+[2026-04-28 18:00:07] Estat anterior: OK
+[2026-04-28 18:00:07] Sense canvis, no s'envia res
+[2026-04-28 18:00:07] === FI ===
+[2026-04-28 18:15:01] === INICI ===
+[2026-04-28 18:15:01] .env carregat
+[2026-04-28 18:15:01] Config OK
+[2026-04-28 18:15:01] Comprovant: https://moxfield.com/
+[2026-04-28 18:15:01] HTTP status: 403
+[2026-04-28 18:15:01] Reintent 1/2...
+[2026-04-28 18:15:03] HTTP status: 403
+[2026-04-28 18:15:03] Reintent 2/2...
+[2026-04-28 18:15:05] HTTP status: 403
+[2026-04-28 18:15:05] Resultat: CAIGUT
+[2026-04-28 18:15:05] Estat anterior: CAIGUT
+[2026-04-28 18:15:05] Sense canvis, no s'envia res
+[2026-04-28 18:15:05] Comprovant: https://github.com/
+[2026-04-28 18:15:06] HTTP status: 200
+[2026-04-28 18:15:06] Resultat: OK
+[2026-04-28 18:15:06] Estat anterior: OK
+[2026-04-28 18:15:06] Sense canvis, no s'envia res
+[2026-04-28 18:15:06] Comprovant: https://mail.google.com/
+[2026-04-28 18:15:09] HTTP status: 200
+[2026-04-28 18:15:09] Resultat: OK
+[2026-04-28 18:15:09] Estat anterior: OK
+[2026-04-28 18:15:09] Sense canvis, no s'envia res
+[2026-04-28 18:15:09] === FI ===
+[2026-04-28 18:30:01] === INICI ===
+[2026-04-28 18:30:01] .env carregat
+[2026-04-28 18:30:01] Config OK
+[2026-04-28 18:30:01] Comprovant: https://moxfield.com/
+[2026-04-28 18:30:02] HTTP status: 403
+[2026-04-28 18:30:02] Reintent 1/2...
+[2026-04-28 18:30:04] HTTP status: 403
+[2026-04-28 18:30:04] Reintent 2/2...
+[2026-04-28 18:30:06] HTTP status: 403
+[2026-04-28 18:30:06] Resultat: CAIGUT
+[2026-04-28 18:30:06] Estat anterior: CAIGUT
+[2026-04-28 18:30:06] Sense canvis, no s'envia res
+[2026-04-28 18:30:06] Comprovant: https://github.com/
+[2026-04-28 18:30:06] HTTP status: 200
+[2026-04-28 18:30:06] Resultat: OK
+[2026-04-28 18:30:06] Estat anterior: OK
+[2026-04-28 18:30:06] Sense canvis, no s'envia res
+[2026-04-28 18:30:06] Comprovant: https://mail.google.com/
+[2026-04-28 18:30:07] HTTP status: 200
+[2026-04-28 18:30:07] Resultat: OK
+[2026-04-28 18:30:07] Estat anterior: OK
+[2026-04-28 18:30:07] Sense canvis, no s'envia res
+[2026-04-28 18:30:07] === FI ===
+[2026-04-28 18:45:01] === INICI ===
+[2026-04-28 18:45:01] .env carregat
+[2026-04-28 18:45:01] Config OK
+[2026-04-28 18:45:01] Comprovant: https://moxfield.com/
+[2026-04-28 18:45:01] HTTP status: 403
+[2026-04-28 18:45:01] Reintent 1/2...
+[2026-04-28 18:45:03] HTTP status: 403
+[2026-04-28 18:45:03] Reintent 2/2...
+[2026-04-28 18:45:06] HTTP status: 403
+[2026-04-28 18:45:06] Resultat: CAIGUT
+[2026-04-28 18:45:06] Estat anterior: CAIGUT
+[2026-04-28 18:45:06] Sense canvis, no s'envia res
+[2026-04-28 18:45:06] Comprovant: https://github.com/
+[2026-04-28 18:45:06] HTTP status: 200
+[2026-04-28 18:45:06] Resultat: OK
+[2026-04-28 18:45:06] Estat anterior: OK
+[2026-04-28 18:45:06] Sense canvis, no s'envia res
+[2026-04-28 18:45:06] Comprovant: https://mail.google.com/
+[2026-04-28 18:45:07] HTTP status: 200
+[2026-04-28 18:45:07] Resultat: OK
+[2026-04-28 18:45:07] Estat anterior: OK
+[2026-04-28 18:45:07] Sense canvis, no s'envia res
+[2026-04-28 18:45:07] === FI ===
+[2026-04-28 19:00:01] === INICI ===
+[2026-04-28 19:00:01] .env carregat
+[2026-04-28 19:00:01] Config OK
+[2026-04-28 19:00:01] Comprovant: https://moxfield.com/
+[2026-04-28 19:00:01] HTTP status: 403
+[2026-04-28 19:00:01] Reintent 1/2...
+[2026-04-28 19:00:03] HTTP status: 403
+[2026-04-28 19:00:03] Reintent 2/2...
+[2026-04-28 19:00:05] HTTP status: 403
+[2026-04-28 19:00:05] Resultat: CAIGUT
+[2026-04-28 19:00:05] Estat anterior: CAIGUT
+[2026-04-28 19:00:05] Sense canvis, no s'envia res
+[2026-04-28 19:00:05] Comprovant: https://github.com/
+[2026-04-28 19:00:06] HTTP status: 200
+[2026-04-28 19:00:06] Resultat: OK
+[2026-04-28 19:00:06] Estat anterior: OK
+[2026-04-28 19:00:06] Sense canvis, no s'envia res
+[2026-04-28 19:00:06] Comprovant: https://mail.google.com/
+[2026-04-28 19:00:07] HTTP status: 200
+[2026-04-28 19:00:07] Resultat: OK
+[2026-04-28 19:00:07] Estat anterior: OK
+[2026-04-28 19:00:07] Sense canvis, no s'envia res
+[2026-04-28 19:00:07] === FI ===
+[2026-04-28 19:15:01] === INICI ===
+[2026-04-28 19:15:01] .env carregat
+[2026-04-28 19:15:01] Config OK
+[2026-04-28 19:15:01] Comprovant: https://moxfield.com/
+[2026-04-28 19:15:01] HTTP status: 403
+[2026-04-28 19:15:01] Reintent 1/2...
+[2026-04-28 19:15:03] HTTP status: 403
+[2026-04-28 19:15:03] Reintent 2/2...
+[2026-04-28 19:15:05] HTTP status: 403
+[2026-04-28 19:15:05] Resultat: CAIGUT
+[2026-04-28 19:15:05] Estat anterior: CAIGUT
+[2026-04-28 19:15:05] Sense canvis, no s'envia res
+[2026-04-28 19:15:05] Comprovant: https://github.com/
+[2026-04-28 19:15:06] HTTP status: 200
+[2026-04-28 19:15:06] Resultat: OK
+[2026-04-28 19:15:06] Estat anterior: OK
+[2026-04-28 19:15:06] Sense canvis, no s'envia res
+[2026-04-28 19:15:06] Comprovant: https://mail.google.com/
+[2026-04-28 19:15:07] HTTP status: 200
+[2026-04-28 19:15:07] Resultat: OK
+[2026-04-28 19:15:07] Estat anterior: OK
+[2026-04-28 19:15:07] Sense canvis, no s'envia res
+[2026-04-28 19:15:07] === FI ===
+[2026-04-28 19:30:01] === INICI ===
+[2026-04-28 19:30:01] .env carregat
+[2026-04-28 19:30:01] Config OK
+[2026-04-28 19:30:01] Comprovant: https://moxfield.com/
+[2026-04-28 19:30:02] HTTP status: 403
+[2026-04-28 19:30:02] Reintent 1/2...
+[2026-04-28 19:30:04] HTTP status: 403
+[2026-04-28 19:30:04] Reintent 2/2...
+[2026-04-28 19:30:06] HTTP status: 403
+[2026-04-28 19:30:06] Resultat: CAIGUT
+[2026-04-28 19:30:06] Estat anterior: CAIGUT
+[2026-04-28 19:30:06] Sense canvis, no s'envia res
+[2026-04-28 19:30:06] Comprovant: https://github.com/
+[2026-04-28 19:30:06] HTTP status: 200
+[2026-04-28 19:30:06] Resultat: OK
+[2026-04-28 19:30:06] Estat anterior: OK
+[2026-04-28 19:30:06] Sense canvis, no s'envia res
+[2026-04-28 19:30:06] Comprovant: https://mail.google.com/
+[2026-04-28 19:30:07] HTTP status: 200
+[2026-04-28 19:30:07] Resultat: OK
+[2026-04-28 19:30:07] Estat anterior: OK
+[2026-04-28 19:30:07] Sense canvis, no s'envia res
+[2026-04-28 19:30:07] === FI ===
+[2026-04-28 19:45:01] === INICI ===
+[2026-04-28 19:45:01] .env carregat
+[2026-04-28 19:45:01] Config OK
+[2026-04-28 19:45:01] Comprovant: https://moxfield.com/
+[2026-04-28 19:45:01] HTTP status: 403
+[2026-04-28 19:45:01] Reintent 1/2...
+[2026-04-28 19:45:03] HTTP status: 403
+[2026-04-28 19:45:03] Reintent 2/2...
+[2026-04-28 19:45:05] HTTP status: 403
+[2026-04-28 19:45:05] Resultat: CAIGUT
+[2026-04-28 19:45:05] Estat anterior: CAIGUT
+[2026-04-28 19:45:05] Sense canvis, no s'envia res
+[2026-04-28 19:45:05] Comprovant: https://github.com/
+[2026-04-28 19:45:06] HTTP status: 200
+[2026-04-28 19:45:06] Resultat: OK
+[2026-04-28 19:45:06] Estat anterior: OK
+[2026-04-28 19:45:06] Sense canvis, no s'envia res
+[2026-04-28 19:45:06] Comprovant: https://mail.google.com/
+[2026-04-28 19:45:07] HTTP status: 200
+[2026-04-28 19:45:07] Resultat: OK
+[2026-04-28 19:45:07] Estat anterior: OK
+[2026-04-28 19:45:07] Sense canvis, no s'envia res
+[2026-04-28 19:45:07] === FI ===
+[2026-04-28 20:00:01] === INICI ===
+[2026-04-28 20:00:01] .env carregat
+[2026-04-28 20:00:01] Config OK
+[2026-04-28 20:00:01] Comprovant: https://moxfield.com/
+[2026-04-28 20:00:02] HTTP status: 403
+[2026-04-28 20:00:02] Reintent 1/2...
+[2026-04-28 20:00:04] HTTP status: 403
+[2026-04-28 20:00:04] Reintent 2/2...
+[2026-04-28 20:00:06] HTTP status: 403
+[2026-04-28 20:00:06] Resultat: CAIGUT
+[2026-04-28 20:00:06] Estat anterior: CAIGUT
+[2026-04-28 20:00:06] Sense canvis, no s'envia res
+[2026-04-28 20:00:06] Comprovant: https://github.com/
+[2026-04-28 20:00:06] HTTP status: 200
+[2026-04-28 20:00:06] Resultat: OK
+[2026-04-28 20:00:06] Estat anterior: OK
+[2026-04-28 20:00:06] Sense canvis, no s'envia res
+[2026-04-28 20:00:06] Comprovant: https://mail.google.com/
+[2026-04-28 20:00:07] HTTP status: 200
+[2026-04-28 20:00:07] Resultat: OK
+[2026-04-28 20:00:07] Estat anterior: OK
+[2026-04-28 20:00:07] Sense canvis, no s'envia res
+[2026-04-28 20:00:07] === FI ===
+[2026-04-28 20:15:01] === INICI ===
+[2026-04-28 20:15:01] .env carregat
+[2026-04-28 20:15:01] Config OK
+[2026-04-28 20:15:01] Comprovant: https://moxfield.com/
+[2026-04-28 20:15:01] HTTP status: 403
+[2026-04-28 20:15:01] Reintent 1/2...
+[2026-04-28 20:15:03] HTTP status: 403
+[2026-04-28 20:15:03] Reintent 2/2...
+[2026-04-28 20:15:05] HTTP status: 403
+[2026-04-28 20:15:05] Resultat: CAIGUT
+[2026-04-28 20:15:05] Estat anterior: CAIGUT
+[2026-04-28 20:15:05] Sense canvis, no s'envia res
+[2026-04-28 20:15:05] Comprovant: https://github.com/
+[2026-04-28 20:15:06] HTTP status: 200
+[2026-04-28 20:15:06] Resultat: OK
+[2026-04-28 20:15:06] Estat anterior: OK
+[2026-04-28 20:15:06] Sense canvis, no s'envia res
+[2026-04-28 20:15:06] Comprovant: https://mail.google.com/
+[2026-04-28 20:15:07] HTTP status: 200
+[2026-04-28 20:15:07] Resultat: OK
+[2026-04-28 20:15:07] Estat anterior: OK
+[2026-04-28 20:15:07] Sense canvis, no s'envia res
+[2026-04-28 20:15:07] === FI ===
+[2026-04-28 20:30:01] === INICI ===
+[2026-04-28 20:30:01] .env carregat
+[2026-04-28 20:30:01] Config OK
+[2026-04-28 20:30:01] Comprovant: https://moxfield.com/
+[2026-04-28 20:30:02] HTTP status: 403
+[2026-04-28 20:30:02] Reintent 1/2...
+[2026-04-28 20:30:04] HTTP status: 403
+[2026-04-28 20:30:04] Reintent 2/2...
+[2026-04-28 20:30:06] HTTP status: 403
+[2026-04-28 20:30:06] Resultat: CAIGUT
+[2026-04-28 20:30:06] Estat anterior: CAIGUT
+[2026-04-28 20:30:06] Sense canvis, no s'envia res
+[2026-04-28 20:30:06] Comprovant: https://github.com/
+[2026-04-28 20:30:07] HTTP status: 200
+[2026-04-28 20:30:07] Resultat: OK
+[2026-04-28 20:30:07] Estat anterior: OK
+[2026-04-28 20:30:07] Sense canvis, no s'envia res
+[2026-04-28 20:30:07] Comprovant: https://mail.google.com/
+[2026-04-28 20:30:08] HTTP status: 200
+[2026-04-28 20:30:08] Resultat: OK
+[2026-04-28 20:30:08] Estat anterior: OK
+[2026-04-28 20:30:08] Sense canvis, no s'envia res
+[2026-04-28 20:30:08] === FI ===
+[2026-04-28 20:45:01] === INICI ===
+[2026-04-28 20:45:01] .env carregat
+[2026-04-28 20:45:01] Config OK
+[2026-04-28 20:45:01] Comprovant: https://moxfield.com/
+[2026-04-28 20:45:01] HTTP status: 403
+[2026-04-28 20:45:01] Reintent 1/2...
+[2026-04-28 20:45:03] HTTP status: 403
+[2026-04-28 20:45:03] Reintent 2/2...
+[2026-04-28 20:45:05] HTTP status: 403
+[2026-04-28 20:45:05] Resultat: CAIGUT
+[2026-04-28 20:45:05] Estat anterior: CAIGUT
+[2026-04-28 20:45:05] Sense canvis, no s'envia res
+[2026-04-28 20:45:05] Comprovant: https://github.com/
+[2026-04-28 20:45:06] HTTP status: 200
+[2026-04-28 20:45:06] Resultat: OK
+[2026-04-28 20:45:06] Estat anterior: OK
+[2026-04-28 20:45:06] Sense canvis, no s'envia res
+[2026-04-28 20:45:06] Comprovant: https://mail.google.com/
+[2026-04-28 20:45:07] HTTP status: 200
+[2026-04-28 20:45:07] Resultat: OK
+[2026-04-28 20:45:07] Estat anterior: OK
+[2026-04-28 20:45:07] Sense canvis, no s'envia res
+[2026-04-28 20:45:07] === FI ===
+[2026-04-28 21:00:01] === INICI ===
+[2026-04-28 21:00:01] .env carregat
+[2026-04-28 21:00:01] Config OK
+[2026-04-28 21:00:01] Comprovant: https://moxfield.com/
+[2026-04-28 21:00:01] HTTP status: 403
+[2026-04-28 21:00:01] Reintent 1/2...
+[2026-04-28 21:00:03] HTTP status: 403
+[2026-04-28 21:00:03] Reintent 2/2...
+[2026-04-28 21:00:05] HTTP status: 403
+[2026-04-28 21:00:05] Resultat: CAIGUT
+[2026-04-28 21:00:05] Estat anterior: CAIGUT
+[2026-04-28 21:00:05] Sense canvis, no s'envia res
+[2026-04-28 21:00:05] Comprovant: https://github.com/
+[2026-04-28 21:00:06] HTTP status: 200
+[2026-04-28 21:00:06] Resultat: OK
+[2026-04-28 21:00:06] Estat anterior: OK
+[2026-04-28 21:00:06] Sense canvis, no s'envia res
+[2026-04-28 21:00:06] Comprovant: https://mail.google.com/
+[2026-04-28 21:00:07] HTTP status: 200
+[2026-04-28 21:00:07] Resultat: OK
+[2026-04-28 21:00:07] Estat anterior: OK
+[2026-04-28 21:00:07] Sense canvis, no s'envia res
+[2026-04-28 21:00:07] === FI ===
+[2026-04-28 21:15:01] === INICI ===
+[2026-04-28 21:15:01] .env carregat
+[2026-04-28 21:15:01] Config OK
+[2026-04-28 21:15:01] Comprovant: https://moxfield.com/
+[2026-04-28 21:15:01] HTTP status: 403
+[2026-04-28 21:15:01] Reintent 1/2...
+[2026-04-28 21:15:03] HTTP status: 403
+[2026-04-28 21:15:03] Reintent 2/2...
+[2026-04-28 21:15:05] HTTP status: 403
+[2026-04-28 21:15:05] Resultat: CAIGUT
+[2026-04-28 21:15:05] Estat anterior: CAIGUT
+[2026-04-28 21:15:05] Sense canvis, no s'envia res
+[2026-04-28 21:15:05] Comprovant: https://github.com/
+[2026-04-28 21:15:06] HTTP status: 200
+[2026-04-28 21:15:06] Resultat: OK
+[2026-04-28 21:15:06] Estat anterior: OK
+[2026-04-28 21:15:06] Sense canvis, no s'envia res
+[2026-04-28 21:15:06] Comprovant: https://mail.google.com/
+[2026-04-28 21:15:07] HTTP status: 200
+[2026-04-28 21:15:07] Resultat: OK
+[2026-04-28 21:15:07] Estat anterior: OK
+[2026-04-28 21:15:07] Sense canvis, no s'envia res
+[2026-04-28 21:15:07] === FI ===
+[2026-04-28 21:30:01] === INICI ===
+[2026-04-28 21:30:01] .env carregat
+[2026-04-28 21:30:01] Config OK
+[2026-04-28 21:30:01] Comprovant: https://moxfield.com/
+[2026-04-28 21:30:02] HTTP status: 403
+[2026-04-28 21:30:02] Reintent 1/2...
+[2026-04-28 21:30:04] HTTP status: 403
+[2026-04-28 21:30:04] Reintent 2/2...
+[2026-04-28 21:30:06] HTTP status: 403
+[2026-04-28 21:30:06] Resultat: CAIGUT
+[2026-04-28 21:30:06] Estat anterior: CAIGUT
+[2026-04-28 21:30:06] Sense canvis, no s'envia res
+[2026-04-28 21:30:06] Comprovant: https://github.com/
+[2026-04-28 21:30:06] HTTP status: 200
+[2026-04-28 21:30:06] Resultat: OK
+[2026-04-28 21:30:06] Estat anterior: OK
+[2026-04-28 21:30:06] Sense canvis, no s'envia res
+[2026-04-28 21:30:06] Comprovant: https://mail.google.com/
+[2026-04-28 21:30:07] HTTP status: 200
+[2026-04-28 21:30:07] Resultat: OK
+[2026-04-28 21:30:07] Estat anterior: OK
+[2026-04-28 21:30:07] Sense canvis, no s'envia res
+[2026-04-28 21:30:07] === FI ===
+[2026-04-28 21:45:01] === INICI ===
+[2026-04-28 21:45:01] .env carregat
+[2026-04-28 21:45:01] Config OK
+[2026-04-28 21:45:01] Comprovant: https://moxfield.com/
+[2026-04-28 21:45:01] HTTP status: 403
+[2026-04-28 21:45:01] Reintent 1/2...
+[2026-04-28 21:45:03] HTTP status: 403
+[2026-04-28 21:45:03] Reintent 2/2...
+[2026-04-28 21:45:05] HTTP status: 403
+[2026-04-28 21:45:05] Resultat: CAIGUT
+[2026-04-28 21:45:05] Estat anterior: CAIGUT
+[2026-04-28 21:45:05] Sense canvis, no s'envia res
+[2026-04-28 21:45:05] Comprovant: https://github.com/
+[2026-04-28 21:45:06] HTTP status: 200
+[2026-04-28 21:45:06] Resultat: OK
+[2026-04-28 21:45:06] Estat anterior: OK
+[2026-04-28 21:45:06] Sense canvis, no s'envia res
+[2026-04-28 21:45:06] Comprovant: https://mail.google.com/
+[2026-04-28 21:45:07] HTTP status: 200
+[2026-04-28 21:45:07] Resultat: OK
+[2026-04-28 21:45:07] Estat anterior: OK
+[2026-04-28 21:45:07] Sense canvis, no s'envia res
+[2026-04-28 21:45:07] === FI ===
+[2026-04-28 22:00:01] === INICI ===
+[2026-04-28 22:00:01] .env carregat
+[2026-04-28 22:00:01] Config OK
+[2026-04-28 22:00:01] Comprovant: https://moxfield.com/
+[2026-04-28 22:00:02] HTTP status: 403
+[2026-04-28 22:00:02] Reintent 1/2...
+[2026-04-28 22:00:04] HTTP status: 403
+[2026-04-28 22:00:04] Reintent 2/2...
+[2026-04-28 22:00:06] HTTP status: 403
+[2026-04-28 22:00:06] Resultat: CAIGUT
+[2026-04-28 22:00:06] Estat anterior: CAIGUT
+[2026-04-28 22:00:06] Sense canvis, no s'envia res
+[2026-04-28 22:00:06] Comprovant: https://github.com/
+[2026-04-28 22:00:06] HTTP status: 200
+[2026-04-28 22:00:06] Resultat: OK
+[2026-04-28 22:00:06] Estat anterior: OK
+[2026-04-28 22:00:06] Sense canvis, no s'envia res
+[2026-04-28 22:00:06] Comprovant: https://mail.google.com/
+[2026-04-28 22:00:07] HTTP status: 200
+[2026-04-28 22:00:07] Resultat: OK
+[2026-04-28 22:00:07] Estat anterior: OK
+[2026-04-28 22:00:07] Sense canvis, no s'envia res
+[2026-04-28 22:00:07] === FI ===
+[2026-04-28 22:15:01] === INICI ===
+[2026-04-28 22:15:01] .env carregat
+[2026-04-28 22:15:01] Config OK
+[2026-04-28 22:15:01] Comprovant: https://moxfield.com/
+[2026-04-28 22:15:01] HTTP status: 403
+[2026-04-28 22:15:01] Reintent 1/2...
+[2026-04-28 22:15:03] HTTP status: 403
+[2026-04-28 22:15:03] Reintent 2/2...
+[2026-04-28 22:15:05] HTTP status: 403
+[2026-04-28 22:15:05] Resultat: CAIGUT
+[2026-04-28 22:15:05] Estat anterior: CAIGUT
+[2026-04-28 22:15:05] Sense canvis, no s'envia res
+[2026-04-28 22:15:05] Comprovant: https://github.com/
+[2026-04-28 22:15:06] HTTP status: 200
+[2026-04-28 22:15:06] Resultat: OK
+[2026-04-28 22:15:06] Estat anterior: OK
+[2026-04-28 22:15:06] Sense canvis, no s'envia res
+[2026-04-28 22:15:06] Comprovant: https://mail.google.com/
+[2026-04-28 22:15:07] HTTP status: 200
+[2026-04-28 22:15:07] Resultat: OK
+[2026-04-28 22:15:07] Estat anterior: OK
+[2026-04-28 22:15:07] Sense canvis, no s'envia res
+[2026-04-28 22:15:07] === FI ===
+[2026-04-28 22:30:01] === INICI ===
+[2026-04-28 22:30:01] .env carregat
+[2026-04-28 22:30:01] Config OK
+[2026-04-28 22:30:01] Comprovant: https://moxfield.com/
+[2026-04-28 22:30:02] HTTP status: 403
+[2026-04-28 22:30:02] Reintent 1/2...
+[2026-04-28 22:30:04] HTTP status: 403
+[2026-04-28 22:30:04] Reintent 2/2...
+[2026-04-28 22:30:06] HTTP status: 403
+[2026-04-28 22:30:06] Resultat: CAIGUT
+[2026-04-28 22:30:06] Estat anterior: CAIGUT
+[2026-04-28 22:30:06] Sense canvis, no s'envia res
+[2026-04-28 22:30:06] Comprovant: https://github.com/
+[2026-04-28 22:30:07] HTTP status: 200
+[2026-04-28 22:30:07] Resultat: OK
+[2026-04-28 22:30:07] Estat anterior: OK
+[2026-04-28 22:30:07] Sense canvis, no s'envia res
+[2026-04-28 22:30:07] Comprovant: https://mail.google.com/
+[2026-04-28 22:30:08] HTTP status: 200
+[2026-04-28 22:30:08] Resultat: OK
+[2026-04-28 22:30:09] Estat anterior: OK
+[2026-04-28 22:30:09] Sense canvis, no s'envia res
+[2026-04-28 22:30:09] === FI ===
+[2026-04-28 22:45:01] === INICI ===
+[2026-04-28 22:45:01] .env carregat
+[2026-04-28 22:45:01] Config OK
+[2026-04-28 22:45:01] Comprovant: https://moxfield.com/
+[2026-04-28 22:45:02] HTTP status: 403
+[2026-04-28 22:45:02] Reintent 1/2...
+[2026-04-28 22:45:04] HTTP status: 403
+[2026-04-28 22:45:04] Reintent 2/2...
+[2026-04-28 22:45:06] HTTP status: 403
+[2026-04-28 22:45:06] Resultat: CAIGUT
+[2026-04-28 22:45:06] Estat anterior: CAIGUT
+[2026-04-28 22:45:06] Sense canvis, no s'envia res
+[2026-04-28 22:45:06] Comprovant: https://github.com/
+[2026-04-28 22:45:06] HTTP status: 200
+[2026-04-28 22:45:06] Resultat: OK
+[2026-04-28 22:45:06] Estat anterior: OK
+[2026-04-28 22:45:06] Sense canvis, no s'envia res
+[2026-04-28 22:45:06] Comprovant: https://mail.google.com/
+[2026-04-28 22:45:07] HTTP status: 200
+[2026-04-28 22:45:07] Resultat: OK
+[2026-04-28 22:45:07] Estat anterior: OK
+[2026-04-28 22:45:07] Sense canvis, no s'envia res
+[2026-04-28 22:45:07] === FI ===
+[2026-04-28 23:00:01] === INICI ===
+[2026-04-28 23:00:01] .env carregat
+[2026-04-28 23:00:01] Config OK
+[2026-04-28 23:00:01] Comprovant: https://moxfield.com/
+[2026-04-28 23:00:01] HTTP status: 403
+[2026-04-28 23:00:01] Reintent 1/2...
+[2026-04-28 23:00:03] HTTP status: 403
+[2026-04-28 23:00:03] Reintent 2/2...
+[2026-04-28 23:00:06] HTTP status: 403
+[2026-04-28 23:00:06] Resultat: CAIGUT
+[2026-04-28 23:00:06] Estat anterior: CAIGUT
+[2026-04-28 23:00:06] Sense canvis, no s'envia res
+[2026-04-28 23:00:06] Comprovant: https://github.com/
+[2026-04-28 23:00:06] HTTP status: 200
+[2026-04-28 23:00:06] Resultat: OK
+[2026-04-28 23:00:06] Estat anterior: OK
+[2026-04-28 23:00:06] Sense canvis, no s'envia res
+[2026-04-28 23:00:06] Comprovant: https://mail.google.com/
+[2026-04-28 23:00:07] HTTP status: 200
+[2026-04-28 23:00:07] Resultat: OK
+[2026-04-28 23:00:07] Estat anterior: OK
+[2026-04-28 23:00:07] Sense canvis, no s'envia res
+[2026-04-28 23:00:07] === FI ===
+[2026-04-28 23:15:01] === INICI ===
+[2026-04-28 23:15:01] .env carregat
+[2026-04-28 23:15:01] Config OK
+[2026-04-28 23:15:01] Comprovant: https://moxfield.com/
+[2026-04-28 23:15:01] HTTP status: 403
+[2026-04-28 23:15:01] Reintent 1/2...
+[2026-04-28 23:15:03] HTTP status: 403
+[2026-04-28 23:15:03] Reintent 2/2...
+[2026-04-28 23:15:05] HTTP status: 403
+[2026-04-28 23:15:05] Resultat: CAIGUT
+[2026-04-28 23:15:05] Estat anterior: CAIGUT
+[2026-04-28 23:15:05] Sense canvis, no s'envia res
+[2026-04-28 23:15:05] Comprovant: https://github.com/
+[2026-04-28 23:15:06] HTTP status: 200
+[2026-04-28 23:15:06] Resultat: OK
+[2026-04-28 23:15:06] Estat anterior: OK
+[2026-04-28 23:15:06] Sense canvis, no s'envia res
+[2026-04-28 23:15:06] Comprovant: https://mail.google.com/
+[2026-04-28 23:15:07] HTTP status: 200
+[2026-04-28 23:15:07] Resultat: OK
+[2026-04-28 23:15:07] Estat anterior: OK
+[2026-04-28 23:15:07] Sense canvis, no s'envia res
+[2026-04-28 23:15:07] === FI ===
+[2026-04-28 23:30:01] === INICI ===
+[2026-04-28 23:30:01] .env carregat
+[2026-04-28 23:30:01] Config OK
+[2026-04-28 23:30:01] Comprovant: https://moxfield.com/
+[2026-04-28 23:30:01] HTTP status: 403
+[2026-04-28 23:30:01] Reintent 1/2...
+[2026-04-28 23:30:03] HTTP status: 403
+[2026-04-28 23:30:03] Reintent 2/2...
+[2026-04-28 23:30:05] HTTP status: 403
+[2026-04-28 23:30:05] Resultat: CAIGUT
+[2026-04-28 23:30:05] Estat anterior: CAIGUT
+[2026-04-28 23:30:05] Sense canvis, no s'envia res
+[2026-04-28 23:30:05] Comprovant: https://github.com/
+[2026-04-28 23:30:06] HTTP status: 200
+[2026-04-28 23:30:06] Resultat: OK
+[2026-04-28 23:30:06] Estat anterior: OK
+[2026-04-28 23:30:06] Sense canvis, no s'envia res
+[2026-04-28 23:30:06] Comprovant: https://mail.google.com/
+[2026-04-28 23:30:07] HTTP status: 200
+[2026-04-28 23:30:07] Resultat: OK
+[2026-04-28 23:30:07] Estat anterior: OK
+[2026-04-28 23:30:07] Sense canvis, no s'envia res
+[2026-04-28 23:30:07] === FI ===
+[2026-04-28 23:45:01] === INICI ===
+[2026-04-28 23:45:01] .env carregat
+[2026-04-28 23:45:01] Config OK
+[2026-04-28 23:45:01] Comprovant: https://moxfield.com/
+[2026-04-28 23:45:01] HTTP status: 403
+[2026-04-28 23:45:01] Reintent 1/2...
+[2026-04-28 23:45:03] HTTP status: 403
+[2026-04-28 23:45:03] Reintent 2/2...
+[2026-04-28 23:45:05] HTTP status: 403
+[2026-04-28 23:45:05] Resultat: CAIGUT
+[2026-04-28 23:45:05] Estat anterior: CAIGUT
+[2026-04-28 23:45:05] Sense canvis, no s'envia res
+[2026-04-28 23:45:05] Comprovant: https://github.com/
+[2026-04-28 23:45:06] HTTP status: 200
+[2026-04-28 23:45:06] Resultat: OK
+[2026-04-28 23:45:06] Estat anterior: OK
+[2026-04-28 23:45:06] Sense canvis, no s'envia res
+[2026-04-28 23:45:06] Comprovant: https://mail.google.com/
+[2026-04-28 23:45:07] HTTP status: 200
+[2026-04-28 23:45:07] Resultat: OK
+[2026-04-28 23:45:07] Estat anterior: OK
+[2026-04-28 23:45:07] Sense canvis, no s'envia res
+[2026-04-28 23:45:07] === FI ===
+[2026-04-29 00:00:00] === INICI ===
+[2026-04-29 00:00:00] .env carregat
+[2026-04-29 00:00:00] Config OK
+[2026-04-29 00:00:00] Comprovant: https://moxfield.com/
+[2026-04-29 00:00:01] HTTP status: 403
+[2026-04-29 00:00:01] Reintent 1/2...
+[2026-04-29 00:00:03] HTTP status: 403
+[2026-04-29 00:00:03] Reintent 2/2...
+[2026-04-29 00:00:05] HTTP status: 403
+[2026-04-29 00:00:05] Resultat: CAIGUT
+[2026-04-29 00:00:05] Estat anterior: CAIGUT
+[2026-04-29 00:00:05] Sense canvis, no s'envia res
+[2026-04-29 00:00:05] Comprovant: https://github.com/
+[2026-04-29 00:00:05] HTTP status: 200
+[2026-04-29 00:00:05] Resultat: OK
+[2026-04-29 00:00:05] Estat anterior: OK
+[2026-04-29 00:00:05] Sense canvis, no s'envia res
+[2026-04-29 00:00:05] Comprovant: https://mail.google.com/
+[2026-04-29 00:00:06] HTTP status: 200
+[2026-04-29 00:00:06] Resultat: OK
+[2026-04-29 00:00:06] Estat anterior: OK
+[2026-04-29 00:00:06] Sense canvis, no s'envia res
+[2026-04-29 00:00:06] === FI ===
+[2026-04-29 00:15:01] === INICI ===
+[2026-04-29 00:15:01] .env carregat
+[2026-04-29 00:15:01] Config OK
+[2026-04-29 00:15:01] Comprovant: https://moxfield.com/
+[2026-04-29 00:15:01] HTTP status: 403
+[2026-04-29 00:15:01] Reintent 1/2...
+[2026-04-29 00:15:03] HTTP status: 403
+[2026-04-29 00:15:03] Reintent 2/2...
+[2026-04-29 00:15:05] HTTP status: 403
+[2026-04-29 00:15:05] Resultat: CAIGUT
+[2026-04-29 00:15:05] Estat anterior: CAIGUT
+[2026-04-29 00:15:05] Sense canvis, no s'envia res
+[2026-04-29 00:15:05] Comprovant: https://github.com/
+[2026-04-29 00:15:06] HTTP status: 200
+[2026-04-29 00:15:06] Resultat: OK
+[2026-04-29 00:15:06] Estat anterior: OK
+[2026-04-29 00:15:06] Sense canvis, no s'envia res
+[2026-04-29 00:15:06] Comprovant: https://mail.google.com/
+[2026-04-29 00:15:07] HTTP status: 200
+[2026-04-29 00:15:07] Resultat: OK
+[2026-04-29 00:15:07] Estat anterior: OK
+[2026-04-29 00:15:07] Sense canvis, no s'envia res
+[2026-04-29 00:15:07] === FI ===
+[2026-04-29 00:30:01] === INICI ===
+[2026-04-29 00:30:01] .env carregat
+[2026-04-29 00:30:01] Config OK
+[2026-04-29 00:30:01] Comprovant: https://moxfield.com/
+[2026-04-29 00:30:02] HTTP status: 403
+[2026-04-29 00:30:02] Reintent 1/2...
+[2026-04-29 00:30:04] HTTP status: 403
+[2026-04-29 00:30:04] Reintent 2/2...
+[2026-04-29 00:30:06] HTTP status: 403
+[2026-04-29 00:30:06] Resultat: CAIGUT
+[2026-04-29 00:30:06] Estat anterior: CAIGUT
+[2026-04-29 00:30:06] Sense canvis, no s'envia res
+[2026-04-29 00:30:06] Comprovant: https://github.com/
+[2026-04-29 00:30:06] HTTP status: 200
+[2026-04-29 00:30:06] Resultat: OK
+[2026-04-29 00:30:06] Estat anterior: OK
+[2026-04-29 00:30:06] Sense canvis, no s'envia res
+[2026-04-29 00:30:06] Comprovant: https://mail.google.com/
+[2026-04-29 00:30:07] HTTP status: 200
+[2026-04-29 00:30:07] Resultat: OK
+[2026-04-29 00:30:07] Estat anterior: OK
+[2026-04-29 00:30:07] Sense canvis, no s'envia res
+[2026-04-29 00:30:07] === FI ===
+[2026-04-29 00:45:01] === INICI ===
+[2026-04-29 00:45:01] .env carregat
+[2026-04-29 00:45:01] Config OK
+[2026-04-29 00:45:01] Comprovant: https://moxfield.com/
+[2026-04-29 00:45:01] HTTP status: 403
+[2026-04-29 00:45:01] Reintent 1/2...
+[2026-04-29 00:45:04] HTTP status: 403
+[2026-04-29 00:45:04] Reintent 2/2...
+[2026-04-29 00:45:06] HTTP status: 403
+[2026-04-29 00:45:06] Resultat: CAIGUT
+[2026-04-29 00:45:06] Estat anterior: CAIGUT
+[2026-04-29 00:45:06] Sense canvis, no s'envia res
+[2026-04-29 00:45:06] Comprovant: https://github.com/
+[2026-04-29 00:45:06] HTTP status: 200
+[2026-04-29 00:45:06] Resultat: OK
+[2026-04-29 00:45:06] Estat anterior: OK
+[2026-04-29 00:45:06] Sense canvis, no s'envia res
+[2026-04-29 00:45:06] Comprovant: https://mail.google.com/
+[2026-04-29 00:45:07] HTTP status: 200
+[2026-04-29 00:45:07] Resultat: OK
+[2026-04-29 00:45:07] Estat anterior: OK
+[2026-04-29 00:45:07] Sense canvis, no s'envia res
+[2026-04-29 00:45:07] === FI ===
+[2026-04-29 01:00:01] === INICI ===
+[2026-04-29 01:00:01] .env carregat
+[2026-04-29 01:00:01] Config OK
+[2026-04-29 01:00:01] Comprovant: https://moxfield.com/
+[2026-04-29 01:00:01] HTTP status: 403
+[2026-04-29 01:00:01] Reintent 1/2...
+[2026-04-29 01:00:03] HTTP status: 403
+[2026-04-29 01:00:03] Reintent 2/2...
+[2026-04-29 01:00:05] HTTP status: 403
+[2026-04-29 01:00:05] Resultat: CAIGUT
+[2026-04-29 01:00:05] Estat anterior: CAIGUT
+[2026-04-29 01:00:05] Sense canvis, no s'envia res
+[2026-04-29 01:00:05] Comprovant: https://github.com/
+[2026-04-29 01:00:06] HTTP status: 200
+[2026-04-29 01:00:06] Resultat: OK
+[2026-04-29 01:00:06] Estat anterior: OK
+[2026-04-29 01:00:06] Sense canvis, no s'envia res
+[2026-04-29 01:00:06] Comprovant: https://mail.google.com/
+[2026-04-29 01:00:07] HTTP status: 200
+[2026-04-29 01:00:07] Resultat: OK
+[2026-04-29 01:00:07] Estat anterior: OK
+[2026-04-29 01:00:07] Sense canvis, no s'envia res
+[2026-04-29 01:00:07] === FI ===
+[2026-04-29 01:15:01] === INICI ===
+[2026-04-29 01:15:01] .env carregat
+[2026-04-29 01:15:01] Config OK
+[2026-04-29 01:15:01] Comprovant: https://moxfield.com/
+[2026-04-29 01:15:01] HTTP status: 403
+[2026-04-29 01:15:01] Reintent 1/2...
+[2026-04-29 01:15:03] HTTP status: 403
+[2026-04-29 01:15:03] Reintent 2/2...
+[2026-04-29 01:15:05] HTTP status: 403
+[2026-04-29 01:15:05] Resultat: CAIGUT
+[2026-04-29 01:15:05] Estat anterior: CAIGUT
+[2026-04-29 01:15:05] Sense canvis, no s'envia res
+[2026-04-29 01:15:05] Comprovant: https://github.com/
+[2026-04-29 01:15:06] HTTP status: 200
+[2026-04-29 01:15:06] Resultat: OK
+[2026-04-29 01:15:06] Estat anterior: OK
+[2026-04-29 01:15:06] Sense canvis, no s'envia res
+[2026-04-29 01:15:06] Comprovant: https://mail.google.com/
+[2026-04-29 01:15:07] HTTP status: 200
+[2026-04-29 01:15:07] Resultat: OK
+[2026-04-29 01:15:07] Estat anterior: OK
+[2026-04-29 01:15:07] Sense canvis, no s'envia res
+[2026-04-29 01:15:07] === FI ===
+[2026-04-29 01:30:01] === INICI ===
+[2026-04-29 01:30:01] .env carregat
+[2026-04-29 01:30:01] Config OK
+[2026-04-29 01:30:01] Comprovant: https://moxfield.com/
+[2026-04-29 01:30:02] HTTP status: 403
+[2026-04-29 01:30:02] Reintent 1/2...
+[2026-04-29 01:30:04] HTTP status: 403
+[2026-04-29 01:30:04] Reintent 2/2...
+[2026-04-29 01:30:06] HTTP status: 403
+[2026-04-29 01:30:06] Resultat: CAIGUT
+[2026-04-29 01:30:06] Estat anterior: CAIGUT
+[2026-04-29 01:30:06] Sense canvis, no s'envia res
+[2026-04-29 01:30:06] Comprovant: https://github.com/
+[2026-04-29 01:30:06] HTTP status: 200
+[2026-04-29 01:30:06] Resultat: OK
+[2026-04-29 01:30:06] Estat anterior: OK
+[2026-04-29 01:30:06] Sense canvis, no s'envia res
+[2026-04-29 01:30:06] Comprovant: https://mail.google.com/
+[2026-04-29 01:30:07] HTTP status: 200
+[2026-04-29 01:30:07] Resultat: OK
+[2026-04-29 01:30:07] Estat anterior: OK
+[2026-04-29 01:30:07] Sense canvis, no s'envia res
+[2026-04-29 01:30:07] === FI ===
+[2026-04-29 01:45:01] === INICI ===
+[2026-04-29 01:45:01] .env carregat
+[2026-04-29 01:45:01] Config OK
+[2026-04-29 01:45:01] Comprovant: https://moxfield.com/
+[2026-04-29 01:45:01] HTTP status: 403
+[2026-04-29 01:45:01] Reintent 1/2...
+[2026-04-29 01:45:03] HTTP status: 403
+[2026-04-29 01:45:03] Reintent 2/2...
+[2026-04-29 01:45:05] HTTP status: 403
+[2026-04-29 01:45:05] Resultat: CAIGUT
+[2026-04-29 01:45:05] Estat anterior: CAIGUT
+[2026-04-29 01:45:05] Sense canvis, no s'envia res
+[2026-04-29 01:45:05] Comprovant: https://github.com/
+[2026-04-29 01:45:06] HTTP status: 200
+[2026-04-29 01:45:06] Resultat: OK
+[2026-04-29 01:45:06] Estat anterior: OK
+[2026-04-29 01:45:06] Sense canvis, no s'envia res
+[2026-04-29 01:45:06] Comprovant: https://mail.google.com/
+[2026-04-29 01:45:07] HTTP status: 200
+[2026-04-29 01:45:07] Resultat: OK
+[2026-04-29 01:45:07] Estat anterior: OK
+[2026-04-29 01:45:07] Sense canvis, no s'envia res
+[2026-04-29 01:45:07] === FI ===
+[2026-04-29 02:00:01] === INICI ===
+[2026-04-29 02:00:02] .env carregat
+[2026-04-29 02:00:02] Config OK
+[2026-04-29 02:00:02] Comprovant: https://moxfield.com/
+[2026-04-29 02:00:02] HTTP status: 403
+[2026-04-29 02:00:02] Reintent 1/2...
+[2026-04-29 02:00:04] HTTP status: 403
+[2026-04-29 02:00:04] Reintent 2/2...
+[2026-04-29 02:00:06] HTTP status: 403
+[2026-04-29 02:00:06] Resultat: CAIGUT
+[2026-04-29 02:00:06] Estat anterior: CAIGUT
+[2026-04-29 02:00:06] Sense canvis, no s'envia res
+[2026-04-29 02:00:06] Comprovant: https://github.com/
+[2026-04-29 02:00:06] HTTP status: 200
+[2026-04-29 02:00:06] Resultat: OK
+[2026-04-29 02:00:07] Estat anterior: OK
+[2026-04-29 02:00:07] Sense canvis, no s'envia res
+[2026-04-29 02:00:07] Comprovant: https://mail.google.com/
+[2026-04-29 02:00:07] HTTP status: 200
+[2026-04-29 02:00:07] Resultat: OK
+[2026-04-29 02:00:07] Estat anterior: OK
+[2026-04-29 02:00:07] Sense canvis, no s'envia res
+[2026-04-29 02:00:07] === FI ===
+[2026-04-29 02:15:01] === INICI ===
+[2026-04-29 02:15:01] .env carregat
+[2026-04-29 02:15:01] Config OK
+[2026-04-29 02:15:01] Comprovant: https://moxfield.com/
+[2026-04-29 02:15:01] HTTP status: 403
+[2026-04-29 02:15:01] Reintent 1/2...
+[2026-04-29 02:15:03] HTTP status: 403
+[2026-04-29 02:15:03] Reintent 2/2...
+[2026-04-29 02:15:05] HTTP status: 403
+[2026-04-29 02:15:05] Resultat: CAIGUT
+[2026-04-29 02:15:05] Estat anterior: CAIGUT
+[2026-04-29 02:15:05] Sense canvis, no s'envia res
+[2026-04-29 02:15:05] Comprovant: https://github.com/
+[2026-04-29 02:15:06] HTTP status: 200
+[2026-04-29 02:15:06] Resultat: OK
+[2026-04-29 02:15:06] Estat anterior: OK
+[2026-04-29 02:15:06] Sense canvis, no s'envia res
+[2026-04-29 02:15:06] Comprovant: https://mail.google.com/
+[2026-04-29 02:15:07] HTTP status: 200
+[2026-04-29 02:15:07] Resultat: OK
+[2026-04-29 02:15:07] Estat anterior: OK
+[2026-04-29 02:15:07] Sense canvis, no s'envia res
+[2026-04-29 02:15:07] === FI ===
+[2026-04-29 02:30:01] === INICI ===
+[2026-04-29 02:30:01] .env carregat
+[2026-04-29 02:30:01] Config OK
+[2026-04-29 02:30:01] Comprovant: https://moxfield.com/
+[2026-04-29 02:30:02] HTTP status: 403
+[2026-04-29 02:30:02] Reintent 1/2...
+[2026-04-29 02:30:04] HTTP status: 403
+[2026-04-29 02:30:04] Reintent 2/2...
+[2026-04-29 02:30:06] HTTP status: 403
+[2026-04-29 02:30:06] Resultat: CAIGUT
+[2026-04-29 02:30:06] Estat anterior: CAIGUT
+[2026-04-29 02:30:06] Sense canvis, no s'envia res
+[2026-04-29 02:30:06] Comprovant: https://github.com/
+[2026-04-29 02:30:06] HTTP status: 200
+[2026-04-29 02:30:06] Resultat: OK
+[2026-04-29 02:30:06] Estat anterior: OK
+[2026-04-29 02:30:06] Sense canvis, no s'envia res
+[2026-04-29 02:30:06] Comprovant: https://mail.google.com/
+[2026-04-29 02:30:07] HTTP status: 200
+[2026-04-29 02:30:07] Resultat: OK
+[2026-04-29 02:30:07] Estat anterior: OK
+[2026-04-29 02:30:07] Sense canvis, no s'envia res
+[2026-04-29 02:30:07] === FI ===
+[2026-04-29 02:45:01] === INICI ===
+[2026-04-29 02:45:01] .env carregat
+[2026-04-29 02:45:01] Config OK
+[2026-04-29 02:45:01] Comprovant: https://moxfield.com/
+[2026-04-29 02:45:01] HTTP status: 403
+[2026-04-29 02:45:01] Reintent 1/2...
+[2026-04-29 02:45:03] HTTP status: 403
+[2026-04-29 02:45:03] Reintent 2/2...
+[2026-04-29 02:45:05] HTTP status: 403
+[2026-04-29 02:45:05] Resultat: CAIGUT
+[2026-04-29 02:45:05] Estat anterior: CAIGUT
+[2026-04-29 02:45:05] Sense canvis, no s'envia res
+[2026-04-29 02:45:05] Comprovant: https://github.com/
+[2026-04-29 02:45:06] HTTP status: 200
+[2026-04-29 02:45:06] Resultat: OK
+[2026-04-29 02:45:06] Estat anterior: OK
+[2026-04-29 02:45:06] Sense canvis, no s'envia res
+[2026-04-29 02:45:06] Comprovant: https://mail.google.com/
+[2026-04-29 02:45:07] HTTP status: 200
+[2026-04-29 02:45:07] Resultat: OK
+[2026-04-29 02:45:07] Estat anterior: OK
+[2026-04-29 02:45:07] Sense canvis, no s'envia res
+[2026-04-29 02:45:07] === FI ===
+[2026-04-29 03:00:01] === INICI ===
+[2026-04-29 03:00:01] .env carregat
+[2026-04-29 03:00:01] Config OK
+[2026-04-29 03:00:01] Comprovant: https://moxfield.com/
+[2026-04-29 03:00:01] HTTP status: 403
+[2026-04-29 03:00:01] Reintent 1/2...
+[2026-04-29 03:00:03] HTTP status: 403
+[2026-04-29 03:00:03] Reintent 2/2...
+[2026-04-29 03:00:05] HTTP status: 403
+[2026-04-29 03:00:05] Resultat: CAIGUT
+[2026-04-29 03:00:05] Estat anterior: CAIGUT
+[2026-04-29 03:00:05] Sense canvis, no s'envia res
+[2026-04-29 03:00:05] Comprovant: https://github.com/
+[2026-04-29 03:00:11] HTTP status: 200
+[2026-04-29 03:00:11] Resultat: OK
+[2026-04-29 03:00:11] Estat anterior: OK
+[2026-04-29 03:00:17] Sense canvis, no s'envia res
+[2026-04-29 03:00:17] Comprovant: https://mail.google.com/
+[2026-04-29 03:00:21] HTTP status: 200
+[2026-04-29 03:00:21] Resultat: OK
+[2026-04-29 03:00:21] Estat anterior: OK
+[2026-04-29 03:00:21] Sense canvis, no s'envia res
+[2026-04-29 03:00:21] === FI ===
+[2026-04-29 03:15:01] === INICI ===
+[2026-04-29 03:15:02] .env carregat
+[2026-04-29 03:15:02] Config OK
+[2026-04-29 03:15:02] Comprovant: https://moxfield.com/
+[2026-04-29 03:15:02] HTTP status: 403
+[2026-04-29 03:15:02] Reintent 1/2...
+[2026-04-29 03:15:04] HTTP status: 403
+[2026-04-29 03:15:04] Reintent 2/2...
+[2026-04-29 03:15:06] HTTP status: 403
+[2026-04-29 03:15:06] Resultat: CAIGUT
+[2026-04-29 03:15:06] Estat anterior: CAIGUT
+[2026-04-29 03:15:06] Sense canvis, no s'envia res
+[2026-04-29 03:15:06] Comprovant: https://github.com/
+[2026-04-29 03:15:07] HTTP status: 200
+[2026-04-29 03:15:07] Resultat: OK
+[2026-04-29 03:15:07] Estat anterior: OK
+[2026-04-29 03:15:07] Sense canvis, no s'envia res
+[2026-04-29 03:15:07] Comprovant: https://mail.google.com/
+[2026-04-29 03:15:08] HTTP status: 200
+[2026-04-29 03:15:08] Resultat: OK
+[2026-04-29 03:15:08] Estat anterior: OK
+[2026-04-29 03:15:08] Sense canvis, no s'envia res
+[2026-04-29 03:15:08] === FI ===
+[2026-04-29 03:30:02] === INICI ===
+[2026-04-29 03:30:02] .env carregat
+[2026-04-29 03:30:02] Config OK
+[2026-04-29 03:30:02] Comprovant: https://moxfield.com/
+[2026-04-29 03:30:02] HTTP status: 403
+[2026-04-29 03:30:02] Reintent 1/2...
+[2026-04-29 03:30:04] HTTP status: 403
+[2026-04-29 03:30:04] Reintent 2/2...
+[2026-04-29 03:30:06] HTTP status: 403
+[2026-04-29 03:30:06] Resultat: CAIGUT
+[2026-04-29 03:30:06] Estat anterior: CAIGUT
+[2026-04-29 03:30:06] Sense canvis, no s'envia res
+[2026-04-29 03:30:06] Comprovant: https://github.com/
+[2026-04-29 03:30:07] HTTP status: 200
+[2026-04-29 03:30:07] Resultat: OK
+[2026-04-29 03:30:07] Estat anterior: OK
+[2026-04-29 03:30:07] Sense canvis, no s'envia res
+[2026-04-29 03:30:07] Comprovant: https://mail.google.com/
+[2026-04-29 03:30:08] HTTP status: 200
+[2026-04-29 03:30:08] Resultat: OK
+[2026-04-29 03:30:08] Estat anterior: OK
+[2026-04-29 03:30:08] Sense canvis, no s'envia res
+[2026-04-29 03:30:08] === FI ===
+[2026-04-29 03:45:01] === INICI ===
+[2026-04-29 03:45:01] .env carregat
+[2026-04-29 03:45:01] Config OK
+[2026-04-29 03:45:01] Comprovant: https://moxfield.com/
+[2026-04-29 03:45:02] HTTP status: 403
+[2026-04-29 03:45:02] Reintent 1/2...
+[2026-04-29 03:45:04] HTTP status: 403
+[2026-04-29 03:45:04] Reintent 2/2...
+[2026-04-29 03:45:06] HTTP status: 403
+[2026-04-29 03:45:06] Resultat: CAIGUT
+[2026-04-29 03:45:06] Estat anterior: CAIGUT
+[2026-04-29 03:45:06] Sense canvis, no s'envia res
+[2026-04-29 03:45:06] Comprovant: https://github.com/
+[2026-04-29 03:45:06] HTTP status: 200
+[2026-04-29 03:45:06] Resultat: OK
+[2026-04-29 03:45:06] Estat anterior: OK
+[2026-04-29 03:45:06] Sense canvis, no s'envia res
+[2026-04-29 03:45:06] Comprovant: https://mail.google.com/
+[2026-04-29 03:45:07] HTTP status: 200
+[2026-04-29 03:45:07] Resultat: OK
+[2026-04-29 03:45:07] Estat anterior: OK
+[2026-04-29 03:45:07] Sense canvis, no s'envia res
+[2026-04-29 03:45:07] === FI ===
+[2026-04-29 04:00:01] === INICI ===
+[2026-04-29 04:00:01] .env carregat
+[2026-04-29 04:00:01] Config OK
+[2026-04-29 04:00:01] Comprovant: https://moxfield.com/
+[2026-04-29 04:00:02] HTTP status: 403
+[2026-04-29 04:00:02] Reintent 1/2...
+[2026-04-29 04:00:04] HTTP status: 403
+[2026-04-29 04:00:04] Reintent 2/2...
+[2026-04-29 04:00:06] HTTP status: 403
+[2026-04-29 04:00:06] Resultat: CAIGUT
+[2026-04-29 04:00:06] Estat anterior: CAIGUT
+[2026-04-29 04:00:06] Sense canvis, no s'envia res
+[2026-04-29 04:00:06] Comprovant: https://github.com/
+[2026-04-29 04:00:06] HTTP status: 200
+[2026-04-29 04:00:06] Resultat: OK
+[2026-04-29 04:00:06] Estat anterior: OK
+[2026-04-29 04:00:06] Sense canvis, no s'envia res
+[2026-04-29 04:00:06] Comprovant: https://mail.google.com/
+[2026-04-29 04:00:07] HTTP status: 200
+[2026-04-29 04:00:07] Resultat: OK
+[2026-04-29 04:00:07] Estat anterior: OK
+[2026-04-29 04:00:07] Sense canvis, no s'envia res
+[2026-04-29 04:00:07] === FI ===
+[2026-04-29 04:15:01] === INICI ===
+[2026-04-29 04:15:01] .env carregat
+[2026-04-29 04:15:01] Config OK
+[2026-04-29 04:15:01] Comprovant: https://moxfield.com/
+[2026-04-29 04:15:01] HTTP status: 403
+[2026-04-29 04:15:01] Reintent 1/2...
+[2026-04-29 04:15:03] HTTP status: 403
+[2026-04-29 04:15:03] Reintent 2/2...
+[2026-04-29 04:15:05] HTTP status: 403
+[2026-04-29 04:15:05] Resultat: CAIGUT
+[2026-04-29 04:15:05] Estat anterior: CAIGUT
+[2026-04-29 04:15:05] Sense canvis, no s'envia res
+[2026-04-29 04:15:05] Comprovant: https://github.com/
+[2026-04-29 04:15:06] HTTP status: 200
+[2026-04-29 04:15:06] Resultat: OK
+[2026-04-29 04:15:06] Estat anterior: OK
+[2026-04-29 04:15:06] Sense canvis, no s'envia res
+[2026-04-29 04:15:06] Comprovant: https://mail.google.com/
+[2026-04-29 04:15:07] HTTP status: 200
+[2026-04-29 04:15:07] Resultat: OK
+[2026-04-29 04:15:07] Estat anterior: OK
+[2026-04-29 04:15:07] Sense canvis, no s'envia res
+[2026-04-29 04:15:07] === FI ===
+[2026-04-29 04:30:01] === INICI ===
+[2026-04-29 04:30:01] .env carregat
+[2026-04-29 04:30:01] Config OK
+[2026-04-29 04:30:01] Comprovant: https://moxfield.com/
+[2026-04-29 04:30:02] HTTP status: 403
+[2026-04-29 04:30:02] Reintent 1/2...
+[2026-04-29 04:30:04] HTTP status: 403
+[2026-04-29 04:30:04] Reintent 2/2...
+[2026-04-29 04:30:06] HTTP status: 403
+[2026-04-29 04:30:06] Resultat: CAIGUT
+[2026-04-29 04:30:06] Estat anterior: CAIGUT
+[2026-04-29 04:30:06] Sense canvis, no s'envia res
+[2026-04-29 04:30:06] Comprovant: https://github.com/
+[2026-04-29 04:30:06] HTTP status: 200
+[2026-04-29 04:30:06] Resultat: OK
+[2026-04-29 04:30:06] Estat anterior: OK
+[2026-04-29 04:30:06] Sense canvis, no s'envia res
+[2026-04-29 04:30:06] Comprovant: https://mail.google.com/
+[2026-04-29 04:30:07] HTTP status: 200
+[2026-04-29 04:30:07] Resultat: OK
+[2026-04-29 04:30:07] Estat anterior: OK
+[2026-04-29 04:30:07] Sense canvis, no s'envia res
+[2026-04-29 04:30:07] === FI ===
+[2026-04-29 04:45:01] === INICI ===
+[2026-04-29 04:45:01] .env carregat
+[2026-04-29 04:45:01] Config OK
+[2026-04-29 04:45:01] Comprovant: https://moxfield.com/
+[2026-04-29 04:45:01] HTTP status: 403
+[2026-04-29 04:45:01] Reintent 1/2...
+[2026-04-29 04:45:03] HTTP status: 403
+[2026-04-29 04:45:03] Reintent 2/2...
+[2026-04-29 04:45:05] HTTP status: 403
+[2026-04-29 04:45:05] Resultat: CAIGUT
+[2026-04-29 04:45:05] Estat anterior: CAIGUT
+[2026-04-29 04:45:05] Sense canvis, no s'envia res
+[2026-04-29 04:45:05] Comprovant: https://github.com/
+[2026-04-29 04:45:06] HTTP status: 200
+[2026-04-29 04:45:06] Resultat: OK
+[2026-04-29 04:45:06] Estat anterior: OK
+[2026-04-29 04:45:06] Sense canvis, no s'envia res
+[2026-04-29 04:45:06] Comprovant: https://mail.google.com/
+[2026-04-29 04:45:07] HTTP status: 200
+[2026-04-29 04:45:07] Resultat: OK
+[2026-04-29 04:45:07] Estat anterior: OK
+[2026-04-29 04:45:07] Sense canvis, no s'envia res
+[2026-04-29 04:45:07] === FI ===
+[2026-04-29 05:00:01] === INICI ===
+[2026-04-29 05:00:01] .env carregat
+[2026-04-29 05:00:01] Config OK
+[2026-04-29 05:00:01] Comprovant: https://moxfield.com/
+[2026-04-29 05:00:01] HTTP status: 403
+[2026-04-29 05:00:01] Reintent 1/2...
+[2026-04-29 05:00:03] HTTP status: 403
+[2026-04-29 05:00:03] Reintent 2/2...
+[2026-04-29 05:00:05] HTTP status: 403
+[2026-04-29 05:00:05] Resultat: CAIGUT
+[2026-04-29 05:00:05] Estat anterior: CAIGUT
+[2026-04-29 05:00:05] Sense canvis, no s'envia res
+[2026-04-29 05:00:05] Comprovant: https://github.com/
+[2026-04-29 05:00:06] HTTP status: 200
+[2026-04-29 05:00:06] Resultat: OK
+[2026-04-29 05:00:06] Estat anterior: OK
+[2026-04-29 05:00:06] Sense canvis, no s'envia res
+[2026-04-29 05:00:06] Comprovant: https://mail.google.com/
+[2026-04-29 05:00:07] HTTP status: 200
+[2026-04-29 05:00:07] Resultat: OK
+[2026-04-29 05:00:07] Estat anterior: OK
+[2026-04-29 05:00:07] Sense canvis, no s'envia res
+[2026-04-29 05:00:07] === FI ===
+[2026-04-29 05:15:01] === INICI ===
+[2026-04-29 05:15:01] .env carregat
+[2026-04-29 05:15:01] Config OK
+[2026-04-29 05:15:01] Comprovant: https://moxfield.com/
+[2026-04-29 05:15:01] HTTP status: 403
+[2026-04-29 05:15:01] Reintent 1/2...
+[2026-04-29 05:15:03] HTTP status: 403
+[2026-04-29 05:15:03] Reintent 2/2...
+[2026-04-29 05:15:05] HTTP status: 403
+[2026-04-29 05:15:05] Resultat: CAIGUT
+[2026-04-29 05:15:05] Estat anterior: CAIGUT
+[2026-04-29 05:15:05] Sense canvis, no s'envia res
+[2026-04-29 05:15:05] Comprovant: https://github.com/
+[2026-04-29 05:15:06] HTTP status: 200
+[2026-04-29 05:15:06] Resultat: OK
+[2026-04-29 05:15:06] Estat anterior: OK
+[2026-04-29 05:15:06] Sense canvis, no s'envia res
+[2026-04-29 05:15:06] Comprovant: https://mail.google.com/
+[2026-04-29 05:15:07] HTTP status: 200
+[2026-04-29 05:15:07] Resultat: OK
+[2026-04-29 05:15:07] Estat anterior: OK
+[2026-04-29 05:15:07] Sense canvis, no s'envia res
+[2026-04-29 05:15:07] === FI ===
+[2026-04-29 05:30:01] === INICI ===
+[2026-04-29 05:30:01] .env carregat
+[2026-04-29 05:30:01] Config OK
+[2026-04-29 05:30:01] Comprovant: https://moxfield.com/
+[2026-04-29 05:30:01] HTTP status: 403
+[2026-04-29 05:30:01] Reintent 1/2...
+[2026-04-29 05:30:03] HTTP status: 403
+[2026-04-29 05:30:03] Reintent 2/2...
+[2026-04-29 05:30:05] HTTP status: 403
+[2026-04-29 05:30:05] Resultat: CAIGUT
+[2026-04-29 05:30:05] Estat anterior: CAIGUT
+[2026-04-29 05:30:05] Sense canvis, no s'envia res
+[2026-04-29 05:30:05] Comprovant: https://github.com/
+[2026-04-29 05:30:06] HTTP status: 200
+[2026-04-29 05:30:06] Resultat: OK
+[2026-04-29 05:30:06] Estat anterior: OK
+[2026-04-29 05:30:06] Sense canvis, no s'envia res
+[2026-04-29 05:30:06] Comprovant: https://mail.google.com/
+[2026-04-29 05:30:07] HTTP status: 200
+[2026-04-29 05:30:07] Resultat: OK
+[2026-04-29 05:30:07] Estat anterior: OK
+[2026-04-29 05:30:07] Sense canvis, no s'envia res
+[2026-04-29 05:30:07] === FI ===
+[2026-04-29 05:45:01] === INICI ===
+[2026-04-29 05:45:01] .env carregat
+[2026-04-29 05:45:01] Config OK
+[2026-04-29 05:45:01] Comprovant: https://moxfield.com/
+[2026-04-29 05:45:01] HTTP status: 403
+[2026-04-29 05:45:01] Reintent 1/2...
+[2026-04-29 05:45:03] HTTP status: 403
+[2026-04-29 05:45:03] Reintent 2/2...
+[2026-04-29 05:45:05] HTTP status: 403
+[2026-04-29 05:45:05] Resultat: CAIGUT
+[2026-04-29 05:45:05] Estat anterior: CAIGUT
+[2026-04-29 05:45:05] Sense canvis, no s'envia res
+[2026-04-29 05:45:05] Comprovant: https://github.com/
+[2026-04-29 05:45:06] HTTP status: 200
+[2026-04-29 05:45:06] Resultat: OK
+[2026-04-29 05:45:06] Estat anterior: OK
+[2026-04-29 05:45:06] Sense canvis, no s'envia res
+[2026-04-29 05:45:06] Comprovant: https://mail.google.com/
+[2026-04-29 05:45:07] HTTP status: 200
+[2026-04-29 05:45:07] Resultat: OK
+[2026-04-29 05:45:07] Estat anterior: OK
+[2026-04-29 05:45:07] Sense canvis, no s'envia res
+[2026-04-29 05:45:07] === FI ===
+[2026-04-29 06:00:01] === INICI ===
+[2026-04-29 06:00:01] .env carregat
+[2026-04-29 06:00:01] Config OK
+[2026-04-29 06:00:01] Comprovant: https://moxfield.com/
+[2026-04-29 06:00:01] HTTP status: 403
+[2026-04-29 06:00:01] Reintent 1/2...
+[2026-04-29 06:00:03] HTTP status: 403
+[2026-04-29 06:00:03] Reintent 2/2...
+[2026-04-29 06:00:05] HTTP status: 403
+[2026-04-29 06:00:05] Resultat: CAIGUT
+[2026-04-29 06:00:05] Estat anterior: CAIGUT
+[2026-04-29 06:00:05] Sense canvis, no s'envia res
+[2026-04-29 06:00:05] Comprovant: https://github.com/
+[2026-04-29 06:00:06] HTTP status: 200
+[2026-04-29 06:00:06] Resultat: OK
+[2026-04-29 06:00:06] Estat anterior: OK
+[2026-04-29 06:00:06] Sense canvis, no s'envia res
+[2026-04-29 06:00:06] Comprovant: https://mail.google.com/
+[2026-04-29 06:00:07] HTTP status: 200
+[2026-04-29 06:00:07] Resultat: OK
+[2026-04-29 06:00:07] Estat anterior: OK
+[2026-04-29 06:00:07] Sense canvis, no s'envia res
+[2026-04-29 06:00:07] === FI ===
+[2026-04-29 06:15:01] === INICI ===
+[2026-04-29 06:15:01] .env carregat
+[2026-04-29 06:15:01] Config OK
+[2026-04-29 06:15:01] Comprovant: https://moxfield.com/
+[2026-04-29 06:15:01] HTTP status: 403
+[2026-04-29 06:15:01] Reintent 1/2...
+[2026-04-29 06:15:03] HTTP status: 403
+[2026-04-29 06:15:03] Reintent 2/2...
+[2026-04-29 06:15:05] HTTP status: 403
+[2026-04-29 06:15:05] Resultat: CAIGUT
+[2026-04-29 06:15:05] Estat anterior: CAIGUT
+[2026-04-29 06:15:05] Sense canvis, no s'envia res
+[2026-04-29 06:15:05] Comprovant: https://github.com/
+[2026-04-29 06:15:06] HTTP status: 200
+[2026-04-29 06:15:06] Resultat: OK
+[2026-04-29 06:15:06] Estat anterior: OK
+[2026-04-29 06:15:06] Sense canvis, no s'envia res
+[2026-04-29 06:15:06] Comprovant: https://mail.google.com/
+[2026-04-29 06:15:07] HTTP status: 200
+[2026-04-29 06:15:07] Resultat: OK
+[2026-04-29 06:15:07] Estat anterior: OK
+[2026-04-29 06:15:07] Sense canvis, no s'envia res
+[2026-04-29 06:15:07] === FI ===
+[2026-04-29 06:30:00] === INICI ===
+[2026-04-29 06:30:01] .env carregat
+[2026-04-29 06:30:01] Config OK
+[2026-04-29 06:30:01] Comprovant: https://moxfield.com/
+[2026-04-29 06:30:01] HTTP status: 403
+[2026-04-29 06:30:01] Reintent 1/2...
+[2026-04-29 06:30:03] HTTP status: 403
+[2026-04-29 06:30:03] Reintent 2/2...
+[2026-04-29 06:30:05] HTTP status: 403
+[2026-04-29 06:30:05] Resultat: CAIGUT
+[2026-04-29 06:30:05] Estat anterior: CAIGUT
+[2026-04-29 06:30:05] Sense canvis, no s'envia res
+[2026-04-29 06:30:06] Comprovant: https://github.com/
+[2026-04-29 06:30:06] HTTP status: 200
+[2026-04-29 06:30:06] Resultat: OK
+[2026-04-29 06:30:06] Estat anterior: OK
+[2026-04-29 06:30:07] Sense canvis, no s'envia res
+[2026-04-29 06:30:07] Comprovant: https://mail.google.com/
+[2026-04-29 06:30:08] HTTP status: 200
+[2026-04-29 06:30:08] Resultat: OK
+[2026-04-29 06:30:08] Estat anterior: OK
+[2026-04-29 06:30:08] Sense canvis, no s'envia res
+[2026-04-29 06:30:08] === FI ===
+[2026-04-29 06:45:01] === INICI ===
+[2026-04-29 06:45:01] .env carregat
+[2026-04-29 06:45:01] Config OK
+[2026-04-29 06:45:01] Comprovant: https://moxfield.com/
+[2026-04-29 06:45:02] HTTP status: 403
+[2026-04-29 06:45:02] Reintent 1/2...
+[2026-04-29 06:45:04] HTTP status: 403
+[2026-04-29 06:45:04] Reintent 2/2...
+[2026-04-29 06:45:06] HTTP status: 403
+[2026-04-29 06:45:06] Resultat: CAIGUT
+[2026-04-29 06:45:06] Estat anterior: CAIGUT
+[2026-04-29 06:45:06] Sense canvis, no s'envia res
+[2026-04-29 06:45:06] Comprovant: https://github.com/
+[2026-04-29 06:45:06] HTTP status: 200
+[2026-04-29 06:45:06] Resultat: OK
+[2026-04-29 06:45:06] Estat anterior: OK
+[2026-04-29 06:45:06] Sense canvis, no s'envia res
+[2026-04-29 06:45:06] Comprovant: https://mail.google.com/
+[2026-04-29 06:45:07] HTTP status: 200
+[2026-04-29 06:45:07] Resultat: OK
+[2026-04-29 06:45:07] Estat anterior: OK
+[2026-04-29 06:45:07] Sense canvis, no s'envia res
+[2026-04-29 06:45:07] === FI ===
+[2026-04-29 07:00:01] === INICI ===
+[2026-04-29 07:00:01] .env carregat
+[2026-04-29 07:00:01] Config OK
+[2026-04-29 07:00:01] Comprovant: https://moxfield.com/
+[2026-04-29 07:00:01] HTTP status: 403
+[2026-04-29 07:00:01] Reintent 1/2...
+[2026-04-29 07:00:03] HTTP status: 403
+[2026-04-29 07:00:03] Reintent 2/2...
+[2026-04-29 07:00:05] HTTP status: 403
+[2026-04-29 07:00:05] Resultat: CAIGUT
+[2026-04-29 07:00:05] Estat anterior: CAIGUT
+[2026-04-29 07:00:05] Sense canvis, no s'envia res
+[2026-04-29 07:00:05] Comprovant: https://github.com/
+[2026-04-29 07:00:06] HTTP status: 200
+[2026-04-29 07:00:06] Resultat: OK
+[2026-04-29 07:00:06] Estat anterior: OK
+[2026-04-29 07:00:06] Sense canvis, no s'envia res
+[2026-04-29 07:00:06] Comprovant: https://mail.google.com/
+[2026-04-29 07:00:07] HTTP status: 200
+[2026-04-29 07:00:07] Resultat: OK
+[2026-04-29 07:00:07] Estat anterior: OK
+[2026-04-29 07:00:07] Sense canvis, no s'envia res
+[2026-04-29 07:00:07] === FI ===
+[2026-04-29 07:15:01] === INICI ===
+[2026-04-29 07:15:01] .env carregat
+[2026-04-29 07:15:01] Config OK
+[2026-04-29 07:15:01] Comprovant: https://moxfield.com/
+[2026-04-29 07:15:01] HTTP status: 403
+[2026-04-29 07:15:01] Reintent 1/2...
+[2026-04-29 07:15:03] HTTP status: 403
+[2026-04-29 07:15:03] Reintent 2/2...
+[2026-04-29 07:15:05] HTTP status: 403
+[2026-04-29 07:15:05] Resultat: CAIGUT
+[2026-04-29 07:15:05] Estat anterior: CAIGUT
+[2026-04-29 07:15:05] Sense canvis, no s'envia res
+[2026-04-29 07:15:05] Comprovant: https://github.com/
+[2026-04-29 07:15:06] HTTP status: 502
+[2026-04-29 07:15:06] Reintent 1/2...
+[2026-04-29 07:15:08] HTTP status: 200
+[2026-04-29 07:15:08] Resultat: OK
+[2026-04-29 07:15:08] Estat anterior: OK
+[2026-04-29 07:15:08] Sense canvis, no s'envia res
+[2026-04-29 07:15:08] Comprovant: https://mail.google.com/
+[2026-04-29 07:15:09] HTTP status: 200
+[2026-04-29 07:15:09] Resultat: OK
+[2026-04-29 07:15:09] Estat anterior: OK
+[2026-04-29 07:15:09] Sense canvis, no s'envia res
+[2026-04-29 07:15:09] === FI ===
+[2026-04-29 07:30:01] === INICI ===
+[2026-04-29 07:30:01] .env carregat
+[2026-04-29 07:30:01] Config OK
+[2026-04-29 07:30:01] Comprovant: https://moxfield.com/
+[2026-04-29 07:30:02] HTTP status: 403
+[2026-04-29 07:30:02] Reintent 1/2...
+[2026-04-29 07:30:04] HTTP status: 403
+[2026-04-29 07:30:04] Reintent 2/2...
+[2026-04-29 07:30:06] HTTP status: 403
+[2026-04-29 07:30:06] Resultat: CAIGUT
+[2026-04-29 07:30:06] Estat anterior: CAIGUT
+[2026-04-29 07:30:06] Sense canvis, no s'envia res
+[2026-04-29 07:30:06] Comprovant: https://github.com/
+[2026-04-29 07:30:06] HTTP status: 200
+[2026-04-29 07:30:06] Resultat: OK
+[2026-04-29 07:30:06] Estat anterior: OK
+[2026-04-29 07:30:06] Sense canvis, no s'envia res
+[2026-04-29 07:30:06] Comprovant: https://mail.google.com/
+[2026-04-29 07:30:07] HTTP status: 200
+[2026-04-29 07:30:07] Resultat: OK
+[2026-04-29 07:30:07] Estat anterior: OK
+[2026-04-29 07:30:07] Sense canvis, no s'envia res
+[2026-04-29 07:30:07] === FI ===
+[2026-04-29 07:45:01] === INICI ===
+[2026-04-29 07:45:01] .env carregat
+[2026-04-29 07:45:01] Config OK
+[2026-04-29 07:45:01] Comprovant: https://moxfield.com/
+[2026-04-29 07:45:01] HTTP status: 403
+[2026-04-29 07:45:01] Reintent 1/2...
+[2026-04-29 07:45:03] HTTP status: 403
+[2026-04-29 07:45:03] Reintent 2/2...
+[2026-04-29 07:45:05] HTTP status: 403
+[2026-04-29 07:45:05] Resultat: CAIGUT
+[2026-04-29 07:45:05] Estat anterior: CAIGUT
+[2026-04-29 07:45:05] Sense canvis, no s'envia res
+[2026-04-29 07:45:05] Comprovant: https://github.com/
+[2026-04-29 07:45:06] HTTP status: 200
+[2026-04-29 07:45:06] Resultat: OK
+[2026-04-29 07:45:06] Estat anterior: OK
+[2026-04-29 07:45:06] Sense canvis, no s'envia res
+[2026-04-29 07:45:06] Comprovant: https://mail.google.com/
+[2026-04-29 07:45:07] HTTP status: 200
+[2026-04-29 07:45:07] Resultat: OK
+[2026-04-29 07:45:07] Estat anterior: OK
+[2026-04-29 07:45:07] Sense canvis, no s'envia res
+[2026-04-29 07:45:07] === FI ===
+[2026-04-29 08:00:02] === INICI ===
+[2026-04-29 08:00:02] .env carregat
+[2026-04-29 08:00:02] Config OK
+[2026-04-29 08:00:02] Comprovant: https://moxfield.com/
+[2026-04-29 08:00:02] HTTP status: 403
+[2026-04-29 08:00:02] Reintent 1/2...
+[2026-04-29 08:00:04] HTTP status: 403
+[2026-04-29 08:00:04] Reintent 2/2...
+[2026-04-29 08:00:06] HTTP status: 403
+[2026-04-29 08:00:06] Resultat: CAIGUT
+[2026-04-29 08:00:06] Estat anterior: CAIGUT
+[2026-04-29 08:00:06] Sense canvis, no s'envia res
+[2026-04-29 08:00:06] Comprovant: https://github.com/
+[2026-04-29 08:00:07] HTTP status: 200
+[2026-04-29 08:00:07] Resultat: OK
+[2026-04-29 08:00:07] Estat anterior: OK
+[2026-04-29 08:00:07] Sense canvis, no s'envia res
+[2026-04-29 08:00:07] Comprovant: https://mail.google.com/
+[2026-04-29 08:00:08] HTTP status: 200
+[2026-04-29 08:00:08] Resultat: OK
+[2026-04-29 08:00:08] Estat anterior: OK
+[2026-04-29 08:00:08] Sense canvis, no s'envia res
+[2026-04-29 08:00:08] === FI ===
+[2026-04-29 08:15:01] === INICI ===
+[2026-04-29 08:15:01] .env carregat
+[2026-04-29 08:15:01] Config OK
+[2026-04-29 08:15:01] Comprovant: https://moxfield.com/
+[2026-04-29 08:15:01] HTTP status: 403
+[2026-04-29 08:15:01] Reintent 1/2...
+[2026-04-29 08:15:03] HTTP status: 403
+[2026-04-29 08:15:03] Reintent 2/2...
+[2026-04-29 08:15:05] HTTP status: 403
+[2026-04-29 08:15:05] Resultat: CAIGUT
+[2026-04-29 08:15:05] Estat anterior: CAIGUT
+[2026-04-29 08:15:05] Sense canvis, no s'envia res
+[2026-04-29 08:15:05] Comprovant: https://github.com/
+[2026-04-29 08:15:06] HTTP status: 200
+[2026-04-29 08:15:06] Resultat: OK
+[2026-04-29 08:15:06] Estat anterior: OK
+[2026-04-29 08:15:06] Sense canvis, no s'envia res
+[2026-04-29 08:15:06] Comprovant: https://mail.google.com/
+[2026-04-29 08:15:07] HTTP status: 200
+[2026-04-29 08:15:07] Resultat: OK
+[2026-04-29 08:15:07] Estat anterior: OK
+[2026-04-29 08:15:07] Sense canvis, no s'envia res
+[2026-04-29 08:15:07] === FI ===
+[2026-04-29 08:30:01] === INICI ===
+[2026-04-29 08:30:02] .env carregat
+[2026-04-29 08:30:02] Config OK
+[2026-04-29 08:30:02] Comprovant: https://moxfield.com/
+[2026-04-29 08:30:02] HTTP status: 403
+[2026-04-29 08:30:02] Reintent 1/2...
+[2026-04-29 08:30:04] HTTP status: 403
+[2026-04-29 08:30:04] Reintent 2/2...
+[2026-04-29 08:30:06] HTTP status: 403
+[2026-04-29 08:30:06] Resultat: CAIGUT
+[2026-04-29 08:30:06] Estat anterior: CAIGUT
+[2026-04-29 08:30:06] Sense canvis, no s'envia res
+[2026-04-29 08:30:06] Comprovant: https://github.com/
+[2026-04-29 08:30:07] HTTP status: 200
+[2026-04-29 08:30:07] Resultat: OK
+[2026-04-29 08:30:07] Estat anterior: OK
+[2026-04-29 08:30:07] Sense canvis, no s'envia res
+[2026-04-29 08:30:07] Comprovant: https://mail.google.com/
+[2026-04-29 08:30:08] HTTP status: 200
+[2026-04-29 08:30:08] Resultat: OK
+[2026-04-29 08:30:08] Estat anterior: OK
+[2026-04-29 08:30:08] Sense canvis, no s'envia res
+[2026-04-29 08:30:08] === FI ===
+[2026-04-29 08:45:01] === INICI ===
+[2026-04-29 08:45:01] .env carregat
+[2026-04-29 08:45:01] Config OK
+[2026-04-29 08:45:01] Comprovant: https://moxfield.com/
+[2026-04-29 08:45:01] HTTP status: 403
+[2026-04-29 08:45:01] Reintent 1/2...
+[2026-04-29 08:45:03] HTTP status: 403
+[2026-04-29 08:45:03] Reintent 2/2...
+[2026-04-29 08:45:05] HTTP status: 403
+[2026-04-29 08:45:05] Resultat: CAIGUT
+[2026-04-29 08:45:05] Estat anterior: CAIGUT
+[2026-04-29 08:45:05] Sense canvis, no s'envia res
+[2026-04-29 08:45:05] Comprovant: https://github.com/
+[2026-04-29 08:45:06] HTTP status: 200
+[2026-04-29 08:45:06] Resultat: OK
+[2026-04-29 08:45:06] Estat anterior: OK
+[2026-04-29 08:45:06] Sense canvis, no s'envia res
+[2026-04-29 08:45:06] Comprovant: https://mail.google.com/
+[2026-04-29 08:45:07] HTTP status: 200
+[2026-04-29 08:45:07] Resultat: OK
+[2026-04-29 08:45:07] Estat anterior: OK
+[2026-04-29 08:45:07] Sense canvis, no s'envia res
+[2026-04-29 08:45:07] === FI ===
+[2026-04-29 09:00:01] === INICI ===
+[2026-04-29 09:00:01] .env carregat
+[2026-04-29 09:00:01] Config OK
+[2026-04-29 09:00:01] Comprovant: https://moxfield.com/
+[2026-04-29 09:00:01] HTTP status: 403
+[2026-04-29 09:00:01] Reintent 1/2...
+[2026-04-29 09:00:03] HTTP status: 403
+[2026-04-29 09:00:03] Reintent 2/2...
+[2026-04-29 09:00:05] HTTP status: 403
+[2026-04-29 09:00:05] Resultat: CAIGUT
+[2026-04-29 09:00:05] Estat anterior: CAIGUT
+[2026-04-29 09:00:05] Sense canvis, no s'envia res
+[2026-04-29 09:00:05] Comprovant: https://github.com/
+[2026-04-29 09:00:06] HTTP status: 200
+[2026-04-29 09:00:06] Resultat: OK
+[2026-04-29 09:00:06] Estat anterior: OK
+[2026-04-29 09:00:06] Sense canvis, no s'envia res
+[2026-04-29 09:00:06] Comprovant: https://mail.google.com/
+[2026-04-29 09:00:07] HTTP status: 200
+[2026-04-29 09:00:07] Resultat: OK
+[2026-04-29 09:00:07] Estat anterior: OK
+[2026-04-29 09:00:07] Sense canvis, no s'envia res
+[2026-04-29 09:00:07] === FI ===
+[2026-04-29 09:15:01] === INICI ===
+[2026-04-29 09:15:02] .env carregat
+[2026-04-29 09:15:02] Config OK
+[2026-04-29 09:15:02] Comprovant: https://moxfield.com/
+[2026-04-29 09:15:02] HTTP status: 403
+[2026-04-29 09:15:02] Reintent 1/2...
+[2026-04-29 09:15:04] HTTP status: 403
+[2026-04-29 09:15:04] Reintent 2/2...
+[2026-04-29 09:15:07] HTTP status: 403
+[2026-04-29 09:15:07] Resultat: CAIGUT
+[2026-04-29 09:15:07] Estat anterior: CAIGUT
+[2026-04-29 09:15:07] Sense canvis, no s'envia res
+[2026-04-29 09:15:07] Comprovant: https://github.com/
+[2026-04-29 09:15:07] HTTP status: 200
+[2026-04-29 09:15:07] Resultat: OK
+[2026-04-29 09:15:07] Estat anterior: OK
+[2026-04-29 09:15:07] Sense canvis, no s'envia res
+[2026-04-29 09:15:08] Comprovant: https://mail.google.com/
+[2026-04-29 09:15:12] HTTP status: 200
+[2026-04-29 09:15:12] Resultat: OK
+[2026-04-29 09:15:12] Estat anterior: OK
+[2026-04-29 09:15:13] Sense canvis, no s'envia res
+[2026-04-29 09:15:13] === FI ===
+[2026-04-29 09:30:04] === INICI ===
+[2026-04-29 09:30:05] .env carregat
+[2026-04-29 09:30:05] Config OK
+[2026-04-29 09:30:05] Comprovant: https://moxfield.com/
+[2026-04-29 09:30:06] HTTP status: 403
+[2026-04-29 09:30:06] Reintent 1/2...
+[2026-04-29 09:30:08] HTTP status: 403
+[2026-04-29 09:30:08] Reintent 2/2...
+[2026-04-29 09:30:10] HTTP status: 403
+[2026-04-29 09:30:10] Resultat: CAIGUT
+[2026-04-29 09:30:10] Estat anterior: CAIGUT
+[2026-04-29 09:30:10] Sense canvis, no s'envia res
+[2026-04-29 09:30:10] Comprovant: https://github.com/
+[2026-04-29 09:30:11] HTTP status: 200
+[2026-04-29 09:30:11] Resultat: OK
+[2026-04-29 09:30:11] Estat anterior: OK
+[2026-04-29 09:30:11] Sense canvis, no s'envia res
+[2026-04-29 09:30:11] Comprovant: https://mail.google.com/
+[2026-04-29 09:30:13] HTTP status: 200
+[2026-04-29 09:30:13] Resultat: OK
+[2026-04-29 09:30:13] Estat anterior: OK
+[2026-04-29 09:30:13] Sense canvis, no s'envia res
+[2026-04-29 09:30:13] === FI ===
