@@ -17,13 +17,14 @@ public class JugadorManager : MonoBehaviour
 
     public void AfegirJugador(string nom, int puntuacio)
     {
+
+        Debug.Log($"Jugador afegit/actualitzat: {nom} - {puntuacio} pts");
         if (string.IsNullOrEmpty(nom))
         {
             Debug.LogWarning("El nom del jugador és buit!");
             return;
         }
 
-        // Si el jugador ja existeix, actualitza la puntuació si és més alta
         Jugador existent = llista.Jugadors.Find(j => j.Nom == nom);
         if (existent != null)
         {
@@ -37,7 +38,6 @@ public class JugadorManager : MonoBehaviour
 
         OrdenarPerPuntuacio();
         GuardarJugadors();
-        Debug.Log($"Jugador afegit/actualitzat: {nom} - {puntuacio} pts");
     }
 
     public void OrdenarPerPuntuacio()
@@ -52,7 +52,7 @@ public class JugadorManager : MonoBehaviour
             XmlSerializer serializer = new XmlSerializer(typeof(LlistaJugadors));
             using (FileStream stream = new FileStream(_path, FileMode.Create))
             {
-                serializer.Serialize(stream, llista);
+                serializer.Serialize(stream, llista); // ← usa "llista" directament
             }
             Debug.Log($"Jugadors guardats a: {_path}");
         }
@@ -66,7 +66,7 @@ public class JugadorManager : MonoBehaviour
     {
         if (!File.Exists(_path))
         {
-            Debug.Log("No hi ha fitxer de jugadors, es crearà un de nou.");
+            Debug.Log("No hi ha fitxer, es crearà quan es guardi el primer jugador.");
             return;
         }
 
@@ -82,11 +82,10 @@ public class JugadorManager : MonoBehaviour
         catch (System.Exception e)
         {
             Debug.LogError($"Error carregant jugadors: {e.Message}");
-            llista = new LlistaJugadors(); // reset si el fitxer està corrupte
+            llista = new LlistaJugadors();
         }
     }
 
-    // Retorna el top N jugadors (per defecte 3)
     public List<Jugador> GetTop(int n = 3)
     {
         OrdenarPerPuntuacio();

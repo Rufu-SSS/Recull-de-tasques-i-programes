@@ -14,7 +14,7 @@ public class FinalPartida : MonoBehaviour
             Debug.LogWarning("Escriu un nom!");
             return;
         }
-
+        Debug.Log("Botó premut!");
         jugadorManager.AfegirJugador(inputNom.text, gameManager.Score);
         jugadorManager.MostrarTop3();
     }
